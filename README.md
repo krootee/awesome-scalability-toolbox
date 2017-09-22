@@ -46,3 +46,24 @@ https://papertrailapp.com/ <br>
 https://www.scalyr.com/ <br>
 https://www.sumologic.com/ <br>
 https://humio.com/ <br>
+
+# Deployment tools #
+https://ansible.com/ <br>
+https://saltstack.com/ <br>
+https://puppet.com/ <br>
+https://www.chef.io/chef/ <br>
+https://github.com/pinterest/teletraan <br>
+
+# SRE (Site Reliability Engineering)
+https://landing.google.com/sre/book.html <br>
+http://www.brendangregg.com/linuxperf.html <br>
+https://hpbn.co/ <br>
+https://blogs.dropbox.com/tech/2017/09/optimizing-web-servers-for-high-throughput-and-low-latency/ <br>
+https://blog.cloudflare.com/how-to-achieve-low-latency/ <br>
+https://github.com/nsheridan/cashier <br>
+https://medium.com/@ifesdjeen/on-disk-io-part-1-flavours-of-io-8e1ace1de017 + https://medium.com/@ifesdjeen/on-disk-io-part-2-more-flavours-of-io-c945db3edb13 <br>
+https://shipilev.net/jvm-anatomy-park/ <br>
+https://alexandrnikitin.github.io/blog/transparent-hugepages-measuring-the-performance-impact/ <br>
+
+# Videos #
+https://www.confluent.io/kafka-summit-sf17/resource/ <br>
