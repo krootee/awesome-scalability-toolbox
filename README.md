@@ -27,6 +27,21 @@ https://traefik.io/ <br>
 https://tarantool.org/ <br>
 https://www.lighttpd.net/ <br>
 
+# Service monitoring and metrics collection / graphing #
+https://grafana.com/ <br>
+https://graphiteapp.org/ <br>
+https://prometheus.io/ <br>
+https://okmeter.io <br>
+https://www.datadoghq.com/ <br>
+https://clickhouse.yandex/ <br>
+https://www.zabbix.com/ <br>
+https://newrelic.com/ <br>
+
+# Distributed consensus management #
+https://www.consul.io/ <br>
+https://coreos.com/etcd/ <br>
+https://zookeeper.apache.org/ <br>
+
 # Log management #
 https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying <br>
 https://kafka.apache.org/ <br>
