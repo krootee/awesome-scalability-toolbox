@@ -69,6 +69,11 @@ https://puppet.com/ <br>
 https://www.chef.io/chef/ <br>
 https://github.com/pinterest/teletraan <br>
 
+# CI (Continuous Integration) #
+https://www.jetbrains.com/teamcity/
+https://jenkins.io
+https://concourse.ci
+
 # SRE (Site Reliability Engineering)
 https://landing.google.com/sre/book.html <br>
 http://www.brendangregg.com/linuxperf.html <br>
