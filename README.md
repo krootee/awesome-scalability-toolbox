@@ -27,6 +27,19 @@ https://traefik.io/ <br>
 https://tarantool.org/ <br>
 https://www.lighttpd.net/ <br>
 
+# Structured and unstructured data storage #
+https://www.postgresql.org/ <br>
+https://postgrespro.ru/ <br>
+https://redis.io/ <br>
+https://www.mysql.com/ <br>
+https://mariadb.com/ <br>
+https://www.percona.com/ <br>
+https://www.mongodb.com/ <br>
+http://www.scylladb.com/ <br>
+https://cassandra.apache.org/ <br>
+http://www.aerospike.com/ <br>
+https://orientdb.com/ <br>
+
 # Service monitoring and metrics collection / graphing #
 https://grafana.com/ <br>
 https://graphiteapp.org/ <br>
