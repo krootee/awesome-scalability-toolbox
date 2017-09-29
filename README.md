@@ -4,6 +4,7 @@ https://cloudcraft.co/ <br>
 https://cacoo.com/ <br>
 https://creately.com/ <br>
 https://www.draw.io/ <br>
+https://mermaidjs.github.io/ <br>
 
 # Message queues #
 https://kafka.apache.org/ <br>
@@ -37,8 +38,22 @@ https://www.percona.com/ <br>
 https://www.mongodb.com/ <br>
 http://www.scylladb.com/ <br>
 https://cassandra.apache.org/ <br>
+https://www.cockroachlabs.com/ <br>
 http://www.aerospike.com/ <br>
 https://orientdb.com/ <br>
+
+# Distributed consensus management #
+https://www.consul.io/ <br>
+https://coreos.com/etcd/ <br>
+https://zookeeper.apache.org/ <br>
+
+# Containers #
+https://www.docker.com/ <br>
+https://kubernetes.io/ <br>
+https://mesosphere.com/ <br>
+https://mesos.apache.org/ <br>
+https://github.com/cilium/cilium <br>
+https://www.projectcalico.org <br>
 
 # Service monitoring and metrics collection / graphing #
 https://grafana.com/ <br>
@@ -47,13 +62,11 @@ https://prometheus.io/ <br>
 https://okmeter.io <br>
 https://www.datadoghq.com/ <br>
 https://clickhouse.yandex/ <br>
+https://github.com/timescale/timescaledb <br>
+http://druid.io/ <br>
 https://www.zabbix.com/ <br>
+https://www.pagerduty.com/ <br>
 https://newrelic.com/ <br>
-
-# Distributed consensus management #
-https://www.consul.io/ <br>
-https://coreos.com/etcd/ <br>
-https://zookeeper.apache.org/ <br>
 
 # Log management #
 https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying <br>
@@ -91,12 +104,14 @@ https://concourse.ci <br>
 https://landing.google.com/sre/book.html <br>
 http://www.brendangregg.com/linuxperf.html <br>
 https://hpbn.co/ <br>
+https://github.com/nsheridan/cashier <br>
 https://blogs.dropbox.com/tech/2017/09/optimizing-web-servers-for-high-throughput-and-low-latency/ <br>
 https://blog.cloudflare.com/how-to-achieve-low-latency/ <br>
-https://github.com/nsheridan/cashier <br>
-https://medium.com/@ifesdjeen/on-disk-io-part-1-flavours-of-io-8e1ace1de017 + https://medium.com/@ifesdjeen/on-disk-io-part-2-more-flavours-of-io-c945db3edb13 <br>
+https://shipilev.net/blog/2016/close-encounters-of-jmm-kind/ <br>
+https://medium.com/@ifesdjeen/on-disk-io-part-1-flavours-of-io-8e1ace1de017 + https://medium.com/@ifesdjeen/on-disk-io-part-2-more-flavours-of-io-c945db3edb13 + https://medium.com/@ifesdjeen/on-disk-io-part-3-lsm-trees-8b2da218496f <br>
 https://shipilev.net/jvm-anatomy-park/ <br>
 https://alexandrnikitin.github.io/blog/transparent-hugepages-measuring-the-performance-impact/ <br>
+http://web.mit.edu/remy/ <br>
 
 # Videos #
 https://www.confluent.io/kafka-summit-sf17/resource/ <br>
