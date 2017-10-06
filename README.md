@@ -1,59 +1,59 @@
 # Software for architecture diagrams #
-https://www.lucidchart.com/ <br>
-https://cloudcraft.co/ <br>
-https://cacoo.com/ <br>
-https://creately.com/ <br>
-https://www.draw.io/ <br>
-https://mermaidjs.github.io/ <br>
+[Lucidchart](https://www.lucidchart.com/) <br>
+[Cloudcraft (AWS optimized)](https://cloudcraft.co/) <br>
+[Cacoo](https://cacoo.com/) <br>
+[Creately](https://creately.com/) <br>
+[Draw](https://www.draw.io/) <br>
+[Mermaid (diagrams from text)](https://mermaidjs.github.io/) <br>
 
 # Message queues #
-https://kafka.apache.org/ <br>
-https://www.rabbitmq.com/ <br>
-http://activemq.apache.org/ <br>
-https://nats.io/ <br>
-http://zeromq.org/ <br>
-http://nanomsg.org/ <br>
-https://github.com/Tencent/phxqueue <br>
-https://github.com/antirez/disque (Would be part of Redis 4.2) <br>
-http://hornetq.jboss.org/ <br>
-https://www.iron.io/platform/ironmq/ <br>
+[Kafka](https://kafka.apache.org/) <br>
+[RabbitMQ](https://www.rabbitmq.com/) <br>
+[ActiveMQ](http://activemq.apache.org/) <br>
+[NATS](https://nats.io/) <br>
+[ZeroMQ](http://zeromq.org/) <br>
+[nanomsg](http://nanomsg.org/) <br>
+[phxqueue (from Tencent)](https://github.com/Tencent/phxqueue) <br>
+[Disque (antirez)](https://github.com/antirez/disque) (Would be part of Redis 4.2) <br>
+[HornetQ](http://hornetq.jboss.org/) <br>
+[IronMQ (cloud)](https://www.iron.io/platform/ironmq/) <br>
 
 # Load balancers, reverse proxy, accelerators, web servers #
-https://varnish-cache.org/ <br>
-http://www.haproxy.org/ <br>
-https://www.nginx.com/ <br>
-https://openresty.org/en/ <br>
-https://tomcat.apache.org/ <br>
-https://traefik.io/ <br>
-https://tarantool.org/ <br>
-https://www.lighttpd.net/ <br>
+[Varnish](https://varnish-cache.org/) <br>
+[HAProxy](http://www.haproxy.org/) <br>
+[nginx](https://www.nginx.com/) <br>
+[OpenResty](https://openresty.org/en/) <br>
+[Tomcat](https://tomcat.apache.org/) <br>
+[Træfik](https://traefik.io/) <br>
+[Tarantool (mail.ru)](https://tarantool.org/) <br>
+[lightttpd](https://www.lighttpd.net/) <br>
 
 # Structured and unstructured data storage #
-https://www.postgresql.org/ <br>
-https://postgrespro.ru/ <br>
-https://redis.io/ <br>
-https://www.mysql.com/ <br>
-https://mariadb.com/ <br>
-https://www.percona.com/ <br>
-https://www.mongodb.com/ <br>
-http://www.scylladb.com/ <br>
-https://cassandra.apache.org/ <br>
-https://www.cockroachlabs.com/ <br>
-http://www.aerospike.com/ <br>
-https://orientdb.com/ <br>
+[PostgreSQL](https://www.postgresql.org/) <br>
+[Postgres Pro (PostgreSQL)](https://postgrespro.ru/) <br>
+[Redis](https://redis.io/) <br>
+[MySQL](https://www.mysql.com/) <br>
+[MariaDB (MySQL)](https://mariadb.com/) <br>
+[Percona (MySQL)](https://www.percona.com/) <br>
+[MongoDB](https://www.mongodb.com/) <br>
+[Scylla (Cassandra on steroids)](http://www.scylladb.com/) <br>
+[Cassandra](https://cassandra.apache.org/) <br>
+[CockroachDB](https://www.cockroachlabs.com/) <br>
+[Aerospike](http://www.aerospike.com/) <br>
+[OrientDB (graph)](https://orientdb.com/) <br>
 
 # Distributed consensus management #
-https://www.consul.io/ <br>
-https://coreos.com/etcd/ <br>
-https://zookeeper.apache.org/ <br>
+[Consul](https://www.consul.io/) <br>
+[etcd](https://coreos.com/etcd/) <br>
+[ZooKeeper](https://zookeeper.apache.org/) <br>
 
 # Containers #
-https://www.docker.com/ <br>
-https://kubernetes.io/ <br>
-https://mesosphere.com/ <br>
-https://mesos.apache.org/ <br>
-https://github.com/cilium/cilium <br>
-https://www.projectcalico.org <br>
+[Docker](https://www.docker.com/) <br>
+[Kubernetes](https://kubernetes.io/) <br>
+[Mesosphere](https://mesosphere.com/) <br>
+[Mesos](https://mesos.apache.org/) <br>
+[Cilium](https://github.com/cilium/cilium) <br>
+[Calico](https://www.projectcalico.org) <br>
 
 # Service monitoring and metrics collection / graphing #
 https://grafana.com/ <br>
@@ -89,29 +89,31 @@ https://www.sumologic.com/ <br>
 https://humio.com/ <br>
 
 # Deployment tools #
-https://ansible.com/ <br>
-https://saltstack.com/ <br>
-https://puppet.com/ <br>
-https://www.chef.io/chef/ <br>
-https://github.com/pinterest/teletraan <br>
+[Ansible](https://ansible.com/) <br>
+[Salt](https://saltstack.com/) <br>
+[Puppet](https://puppet.com/) <br>
+[Chef](https://www.chef.io/chef/) <br>
+[Teletraan](https://github.com/pinterest/teletraan) <br>
 
 # CI (Continuous Integration) #
-https://www.jetbrains.com/teamcity <br>
-https://jenkins.io <br>
-https://concourse.ci <br>
+[TeamCity](https://www.jetbrains.com/teamcity) <br>
+[Jenkins](https://jenkins.io) <br>
+[Concourse](https://concourse.ci) <br>
 
 # SRE (Site Reliability Engineering)
-https://landing.google.com/sre/book.html <br>
-http://www.brendangregg.com/linuxperf.html <br>
-https://hpbn.co/ <br>
-https://github.com/nsheridan/cashier <br>
-https://blogs.dropbox.com/tech/2017/09/optimizing-web-servers-for-high-throughput-and-low-latency/ <br>
-https://blog.cloudflare.com/how-to-achieve-low-latency/ <br>
-https://shipilev.net/blog/2016/close-encounters-of-jmm-kind/ <br>
-https://medium.com/@ifesdjeen/on-disk-io-part-1-flavours-of-io-8e1ace1de017 + https://medium.com/@ifesdjeen/on-disk-io-part-2-more-flavours-of-io-c945db3edb13 + https://medium.com/@ifesdjeen/on-disk-io-part-3-lsm-trees-8b2da218496f <br>
-https://shipilev.net/jvm-anatomy-park/ <br>
-https://alexandrnikitin.github.io/blog/transparent-hugepages-measuring-the-performance-impact/ <br>
-http://web.mit.edu/remy/ <br>
+[Google Site Reliability Engineering book](https://landing.google.com/sre/book.html) <br>
+[High Performance Browser Networking book](https://hpbn.co/) <br>
+[Linux Performance tools and materials](http://www.brendangregg.com/linuxperf.html) <br>
+[A self-service CA for OpenSSH](https://github.com/nsheridan/cashier) <br>
+[Dropbox Optimizing web servers for high throughput and low latency](https://blogs.dropbox.com/tech/2017/09/optimizing-web-servers-for-high-throughput-and-low-latency/) <br>
+[Cloudflare How to achieve low latency with 10Gbps Ethernet](https://blog.cloudflare.com/how-to-achieve-low-latency/) <br>
+[Shipilev Close Encounters of The Java Memory Model Kind](https://shipilev.net/blog/2016/close-encounters-of-jmm-kind/) <br>
+[Shipilev JVM Anatomy Park](https://shipilev.net/jvm-anatomy-park/) <br>
+[On disk IO - part 1](https://medium.com/@ifesdjeen/on-disk-io-part-1-flavours-of-io-8e1ace1de017), [part 2](https://medium.com/@ifesdjeen/on-disk-io-part-2-more-flavours-of-io-c945db3edb13), [part 3](https://medium.com/@ifesdjeen/on-disk-io-part-3-lsm-trees-8b2da218496f) <br>
+[Transparent Hugepages: measuring the performance impact](https://alexandrnikitin.github.io/blog/transparent-hugepages-measuring-the-performance-impact/) <br>
+[MIT's TCP ex Machina: Computer-Generated Congestion Control](http://web.mit.edu/remy/) <br>
+[Netflix Serving 100 Gbps from an Open Connect Appliance](https://medium.com/netflix-techblog/serving-100-gbps-from-an-open-connect-appliance-cdb51dda3b99) <br>
+[Aphyr Hermitage - info and testing of database isolation levels](https://github.com/aphyr/hermitage) <br>
 
 # Videos #
-https://www.confluent.io/kafka-summit-sf17/resource/ <br>
+[Kafka 2017 Summit](https://www.confluent.io/kafka-summit-sf17/resource/) <br>
