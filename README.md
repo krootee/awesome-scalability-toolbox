@@ -56,6 +56,14 @@
 [Cilium](https://github.com/cilium/cilium) <br>
 [Calico](https://www.projectcalico.org) <br>
 
+# Communication between system nodes #
+[gRPC](https://grpc.io/) <br>
+[Protocol Buffers](https://developers.google.com/protocol-buffers/) <br>
+[Thrift](https://thrift.apache.org/) <br>
+[MessagePack](https://msgpack.org/) <br>
+[FlatBuffers](https://google.github.io/flatbuffers/) <br>
+[ZeroMQ](http://zeromq.org/) <br>
+
 # Service monitoring and metrics collection / graphing #
 https://grafana.com/ <br>
 https://graphiteapp.org/ <br>
