@@ -33,6 +33,7 @@
 [Postgres Pro (PostgreSQL)](https://postgrespro.ru/) <br>
 [Redis](https://redis.io/) <br>
 [MySQL](https://www.mysql.com/) <br>
+[RocksDB (InnoDB replacement by Facebook)](http://myrocks.io/) <br>
 [MariaDB (MySQL)](https://mariadb.com/) <br>
 [Percona (MySQL)](https://www.percona.com/) <br>
 [MongoDB](https://www.mongodb.com/) <br>
@@ -73,6 +74,7 @@ https://engineering.linkedin.com/distributed-systems/log-what-every-software-eng
 https://kafka.apache.org/ <br>
 https://www.elastic.co/products/logstash <br>
 https://www.graylog.org/ <br>
+[Jaeger (Uber) a Distributed Tracing System](https://github.com/jaegertracing/jaeger) <br>
 https://syslog-ng.org/ <br>
 http://www.rsyslog.com/ <br>
 https://www.fluentd.org/ <br>
@@ -114,6 +116,11 @@ https://humio.com/ <br>
 [MIT's TCP ex Machina: Computer-Generated Congestion Control](http://web.mit.edu/remy/) <br>
 [Netflix Serving 100 Gbps from an Open Connect Appliance](https://medium.com/netflix-techblog/serving-100-gbps-from-an-open-connect-appliance-cdb51dda3b99) <br>
 [Aphyr Hermitage - info and testing of database isolation levels](https://github.com/aphyr/hermitage) <br>
+[A collection of postmortems](https://github.com/danluu/post-mortems) <br>
+[Jeff Dean's latency numbers plotted over time](https://github.com/colin-scott/interactive_latencies) <br>
+[Sakila test DB](https://dev.mysql.com/doc/sakila/en/) <br>
 
 # Videos #
 [Kafka 2017 Summit](https://www.confluent.io/kafka-summit-sf17/resource/) <br>
+[CppCon 2017](https://www.youtube.com/playlist?list=PLHTh1InhhwT6bwIpRk0ZbCA0N2p1taxd6) <br>
+[@Scale 2017](https://atscaleconference.com/videos-articles/) <br>
