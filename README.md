@@ -63,6 +63,7 @@
 [MessagePack](https://msgpack.org/) <br>
 [FlatBuffers](https://google.github.io/flatbuffers/) <br>
 [ZeroMQ](http://zeromq.org/) <br>
+[QUIC](https://www.chromium.org/quic) <br>
 
 # Service monitoring and metrics collection / graphing #
 https://grafana.com/ <br>
