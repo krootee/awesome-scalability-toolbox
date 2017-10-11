@@ -130,6 +130,18 @@ https://humio.com/ <br>
 [Jeff Dean's latency numbers plotted over time](https://github.com/colin-scott/interactive_latencies) <br>
 [Sakila test DB](https://dev.mysql.com/doc/sakila/en/) <br>
 
+# TLS/SSL verification #
+[TLS information](https://istlsfastyet.com/) <br>
+[Mozilla server side TLS information](https://wiki.mozilla.org/Security/Server_Side_TLS) <br>
+[Mozilla Observatory](https://observatory.mozilla.org/) <br>
+[HTTP security headers testing](https://securityheaders.io/) <br>
+[SSL testing](https://www.ssllabs.com/ssltest) <br>
+[High-Tech Bridge SSL test](https://www.htbridge.com/ssl/) <br>
+[HTTP security tools](https://report-uri.io/home/tools) <br>
+[HSTS preloading](https://hstspreload.org) <br>
+[SRI hash generator](https://www.srihash.org/) <br>
+[Client side TLS test](https://www.howsmyssl.com/) <br>
+
 # Videos #
 [Kafka 2017 Summit](https://www.confluent.io/kafka-summit-sf17/resource/) <br>
 [CppCon 2017](https://www.youtube.com/playlist?list=PLHTh1InhhwT6bwIpRk0ZbCA0N2p1taxd6) <br>
