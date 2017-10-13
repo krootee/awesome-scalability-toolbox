@@ -111,6 +111,18 @@ https://humio.com/ <br>
 [Jenkins](https://jenkins.io) <br>
 [Concourse](https://concourse.ci) <br>
 
+# CDNs #
+[Akamai](https://www.akamai.com/) <br>
+[Fastly](https://www.fastly.com/) <br>
+[Level3](http://www.level3.com/en/products/content-delivery-network/) <br>
+[Edgecast](https://www.verizondigitalmedia.com/) <br>
+
+# AWS #
+[awscli](https://aws.amazon.com/cli/) <br>
+[S3 Browser](https://s3browser.com/) <br>
+[CloudBerry S3 Explorer](https://www.cloudberrylab.com/explorer/amazon-s3.aspx) <br>
+[Analyze AWS S3 and CloudFront logs](https://github.com/nagyv/s3stat) + [GoAccess](https://goaccess.io/) <br>
+
 # SRE (Site Reliability Engineering)
 [Google Site Reliability Engineering book](https://landing.google.com/sre/book.html) <br>
 [High Performance Browser Networking book](https://hpbn.co/) <br>
