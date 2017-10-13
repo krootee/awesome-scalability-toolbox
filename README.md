@@ -141,6 +141,7 @@ https://humio.com/ <br>
 [A collection of postmortems](https://github.com/danluu/post-mortems) <br>
 [Jeff Dean's latency numbers plotted over time](https://github.com/colin-scott/interactive_latencies) <br>
 [Sakila test DB](https://dev.mysql.com/doc/sakila/en/) <br>
+[MaxMind GeoIP databases](https://dev.maxmind.com/geoip/geoip2/downloadable/) <br>
 
 # TLS/SSL verification #
 [TLS information](https://istlsfastyet.com/) <br>
