@@ -66,38 +66,38 @@
 [QUIC](https://www.chromium.org/quic) <br>
 
 # Service monitoring and metrics collection / graphing #
-https://grafana.com/ <br>
-https://graphiteapp.org/ <br>
-https://prometheus.io/ <br>
-https://okmeter.io <br>
-https://www.datadoghq.com/ <br>
-https://clickhouse.yandex/ <br>
-https://github.com/timescale/timescaledb <br>
-http://druid.io/ <br>
-https://www.zabbix.com/ <br>
-https://www.pagerduty.com/ <br>
-https://newrelic.com/ <br>
+[Grafana](https://grafana.com/) <br>
+[Graphite](https://graphiteapp.org/) <br>
+[Prometheus](https://prometheus.io/) <br>
+[okmeter](https://okmeter.io) <br>
+[Datadog](https://www.datadoghq.com/) <br>
+[ClichHouse](https://clickhouse.yandex/) <br>
+[TimescaleDB](https://github.com/timescale/timescaledb) <br>
+[Druid](http://druid.io/) <br>
+[Zabbix](https://www.zabbix.com/) <br>
+[PagerDuty](https://www.pagerduty.com/) <br>
+[NewRelic](https://newrelic.com/) <br>
 
 # Log management #
-https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying <br>
-https://kafka.apache.org/ <br>
-https://www.elastic.co/products/logstash <br>
-https://www.graylog.org/ <br>
+[What you need to know about real-time logs](https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying) <br>
+[Kafka](https://kafka.apache.org/) <br>
+[Logstash](https://www.elastic.co/products/logstash) <br>
+[Graylog](https://www.graylog.org/) <br>
 [Jaeger (Uber) a Distributed Tracing System](https://github.com/jaegertracing/jaeger) <br>
-https://syslog-ng.org/ <br>
-http://www.rsyslog.com/ <br>
-https://www.fluentd.org/ <br>
-https://www.splunk.com/ <br>
-https://goaccess.io/ <br>
-https://bookkeeper.apache.org/distributedlog/ <br>
-https://code.facebook.com/posts/357056558062811/logdevice-a-distributed-data-store-for-logs/ <br>
+[syslog-ng](https://syslog-ng.org/) <br>
+[rsyslog](http://www.rsyslog.com/) <br>
+[fluentd](https://www.fluentd.org/) <br>
+[Splunk](https://www.splunk.com/) <br>
+[GoAccess](https://goaccess.io/) <br>
+[Bookkeeper](https://bookkeeper.apache.org/distributedlog/) <br>
+[LogDevice (Facebook)](https://code.facebook.com/posts/357056558062811/logdevice-a-distributed-data-store-for-logs/) <br>
 Online solutions: <br>
-https://www.loggly.com/ <br>
-https://logentries.com/ <br>
-https://papertrailapp.com/ <br>
-https://www.scalyr.com/ <br>
-https://www.sumologic.com/ <br>
-https://humio.com/ <br>
+[Loggly](https://www.loggly.com/) <br>
+[Logentries](https://logentries.com/) <br>
+[Papertrail](https://papertrailapp.com/) <br>
+[Scalyr](https://www.scalyr.com/) <br>
+[Sumo Logic](https://www.sumologic.com/) <br>
+[Humio](https://humio.com/) <br>
 
 # Deployment tools #
 [Ansible](https://ansible.com/) <br>
