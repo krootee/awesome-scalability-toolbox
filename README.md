@@ -156,6 +156,13 @@ Online solutions: <br>
 [SRI hash generator](https://www.srihash.org/) <br>
 [Client side TLS test](https://www.howsmyssl.com/) <br>
 
+# Authorization #
+[The OAuth 2.0 Authorization Framework](https://tools.ietf.org/html/rfc6749) <br>
+[JSON Web Token (JWT)](https://tools.ietf.org/html/rfc7519) <br>
+[JSON Web Signature (JWS)](https://tools.ietf.org/html/rfc7515) <br>
+[JSON Web Encryption (JWE)](https://tools.ietf.org/html/rfc7516) <br>
+[JWT playground](https://jwt.io/) <br>
+
 # Videos #
 [Kafka 2017 Summit](https://www.confluent.io/kafka-summit-sf17/resource/) <br>
 [CppCon 2017](https://www.youtube.com/playlist?list=PLHTh1InhhwT6bwIpRk0ZbCA0N2p1taxd6) <br>
