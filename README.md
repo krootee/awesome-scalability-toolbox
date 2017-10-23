@@ -163,6 +163,13 @@ Online solutions: <br>
 [JSON Web Encryption (JWE)](https://tools.ietf.org/html/rfc7516) <br>
 [JWT playground](https://jwt.io/) <br>
 
+# Encryption, hashing #
+[Safe elliptic curvers](https://safecurves.cr.yp.to/) <br>
+[Curve25519](https://cr.yp.to/ecdh/curve25519-20060209.pdf) <br>
+[xxHash](http://www.xxhash.com/) <br>
+[MurmurHash3](https://github.com/aappleby/smhasher) <br>
+[Dieharder: A Random Number Test Suite](http://webhome.phy.duke.edu/~rgb/General/dieharder.php) <br>
+
 # Videos #
 [Kafka 2017 Summit](https://www.confluent.io/kafka-summit-sf17/resource/) <br>
 [CppCon 2017](https://www.youtube.com/playlist?list=PLHTh1InhhwT6bwIpRk0ZbCA0N2p1taxd6) <br>
