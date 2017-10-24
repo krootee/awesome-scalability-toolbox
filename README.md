@@ -155,6 +155,7 @@ Online solutions: <br>
 [HSTS preloading](https://hstspreload.org) <br>
 [SRI hash generator](https://www.srihash.org/) <br>
 [Client side TLS test](https://www.howsmyssl.com/) <br>
+[DNS CAA helper](https://sslmate.com/caa/) <br>
 
 # Authorization #
 [The OAuth 2.0 Authorization Framework](https://tools.ietf.org/html/rfc6749) <br>
