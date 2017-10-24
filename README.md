@@ -165,6 +165,13 @@ Online solutions: <br>
 [JWT playground](https://jwt.io/) <br>
 
 # Encryption, hashing #
+[Should we MAC-then-encrypt or encrypt-then-MAC?](https://crypto.stackexchange.com/questions/202/should-we-mac-then-encrypt-or-encrypt-then-mac) <br>
+[Authenticated Encryption: Relations among notions and analysis of the generic composition paradigm](http://cseweb.ucsd.edu/~mihir/papers/oem.html) <br>
+[Authenticated Encryption with Associated Data (AEAD)](https://en.wikipedia.org/wiki/Authenticated_encryption) <br>
+[How to choose an Authenticated Encryption mode](https://blog.cryptographyengineering.com/2012/05/19/how-to-choose-authenticated-encryption/) <br>
+[Hash-based message authentication code](https://en.wikipedia.org/wiki/Hash-based_message_authentication_code) <br>
+[ChaCha20 and Poly1305 (AEAD)](https://tools.ietf.org/html/rfc7539) <br>
+[ChaCha20 design](http://loup-vaillant.fr/tutorials/chacha20-design) <br>
 [Safe elliptic curvers](https://safecurves.cr.yp.to/) <br>
 [Curve25519](https://cr.yp.to/ecdh/curve25519-20060209.pdf) <br>
 [xxHash](http://www.xxhash.com/) <br>
