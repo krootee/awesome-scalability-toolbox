@@ -44,6 +44,8 @@
 [OrientDB (graph)](https://orientdb.com/) <br>
 
 # Distributed consensus management #
+[Raft protocol](https://raft.github.io/) <br>
+[Paxos protocol](https://en.wikipedia.org/wiki/Paxos_(computer_science)) <br>
 [Consul](https://www.consul.io/) <br>
 [etcd](https://coreos.com/etcd/) <br>
 [ZooKeeper](https://zookeeper.apache.org/) <br>
