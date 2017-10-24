@@ -43,7 +43,7 @@
 [Aerospike](http://www.aerospike.com/) <br>
 [OrientDB (graph)](https://orientdb.com/) <br>
 
-# Distributed consensus management and service discovery #
+# Distributed consensus management, service discovery and configuration #
 [Raft protocol](https://raft.github.io/) <br>
 [Paxos protocol](https://en.wikipedia.org/wiki/Paxos_(computer_science)) <br>
 [Consul](https://www.consul.io/) <br>
