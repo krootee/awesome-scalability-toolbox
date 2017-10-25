@@ -173,6 +173,7 @@ Online solutions: <br>
 [Hash-based message authentication code](https://en.wikipedia.org/wiki/Hash-based_message_authentication_code) <br>
 [Authenticated Encryption with Associated Data (AEAD)](https://en.wikipedia.org/wiki/Authenticated_encryption) <br>
 [AES-GCM (AEAD)](https://tools.ietf.org/html/rfc5288) <br>
+[OCB blockhipher mode](http://web.cs.ucdavis.edu/~rogaway/ocb/) <br>
 [ChaCha20 and Poly1305 (AEAD)](https://tools.ietf.org/html/rfc7539) <br>
 [ChaCha20 design](http://loup-vaillant.fr/tutorials/chacha20-design) <br>
 [Safe elliptic curvers](https://safecurves.cr.yp.to/) <br>
