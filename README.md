@@ -167,6 +167,9 @@ Online solutions: <br>
 [JWT playground](https://jwt.io/) <br>
 
 # Encryption, hashing #
+[Cryptography Engineering: Design Principles and Practical Applications](https://www.amazon.com/Cryptography-Engineering-Principles-Practical-Applications/dp/0470474246) <br>
+[Introduction to Modern Cryptography, Second Edition](https://www.amazon.com/Introduction-Cryptography-Chapman-Network-Security/dp/1466570261) <br>
+[Security Engineering, 2nd edition](https://www.amazon.com/Security-Engineering-Building-Dependable-Distributed/dp/0470068523) <br>
 [Should we MAC-then-encrypt or encrypt-then-MAC?](https://crypto.stackexchange.com/questions/202/should-we-mac-then-encrypt-or-encrypt-then-mac) <br>
 [Authenticated Encryption: Relations among notions and analysis of the generic composition paradigm](http://cseweb.ucsd.edu/~mihir/papers/oem.html) <br>
 [How to choose an Authenticated Encryption mode](https://blog.cryptographyengineering.com/2012/05/19/how-to-choose-authenticated-encryption/) <br>
