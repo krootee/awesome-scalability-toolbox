@@ -130,6 +130,7 @@ Online solutions: <br>
 [High Performance Browser Networking book](https://hpbn.co/) <br>
 [The Docker Book](https://www.dockerbook.com/) <br>
 [Linux Performance tools and materials](http://www.brendangregg.com/linuxperf.html) <br>
+[U2F devices review](https://github.com/hillbrad/U2FReviews) <br>
 [A self-service CA for OpenSSH](https://github.com/nsheridan/cashier) <br>
 [Dropbox Optimizing web servers for high throughput and low latency](https://blogs.dropbox.com/tech/2017/09/optimizing-web-servers-for-high-throughput-and-low-latency/) <br>
 [Cloudflare How to achieve low latency with 10Gbps Ethernet](https://blog.cloudflare.com/how-to-achieve-low-latency/) <br>
@@ -180,6 +181,8 @@ Online solutions: <br>
 [OCB blockcipher mode](http://web.cs.ucdavis.edu/~rogaway/ocb/) <br>
 [ChaCha20 and Poly1305 (AEAD)](https://tools.ietf.org/html/rfc7539) <br>
 [ChaCha20 design](http://loup-vaillant.fr/tutorials/chacha20-design) <br>
+[Elliptic curve introduction](https://www.imperialviolet.org/2010/12/04/ecc.html) <br>
+[Elliptic Curve Cryptography: a gentle introduction](http://andrea.corbellini.name/2015/05/17/elliptic-curve-cryptography-a-gentle-introduction/) <br>
 [Safe elliptic curvers](https://safecurves.cr.yp.to/) <br>
 [Curve25519](https://cr.yp.to/ecdh/curve25519-20060209.pdf) <br>
 [xxHash](http://www.xxhash.com/) <br>
