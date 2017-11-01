@@ -182,11 +182,12 @@ Online solutions: <br>
 [OCB blockcipher mode](http://web.cs.ucdavis.edu/~rogaway/ocb/) <br>
 [ChaCha20 and Poly1305 (AEAD)](https://tools.ietf.org/html/rfc7539) <br>
 [ChaCha20 design](http://loup-vaillant.fr/tutorials/chacha20-design) <br>
+[Understanding RSA terms](https://security.stackexchange.com/questions/68822/trying-to-understand-rsa-and-its-terminology/68836#68836) <br>
 [Elliptic curve introduction](https://www.imperialviolet.org/2010/12/04/ecc.html) <br>
 [Elliptic Curve Cryptography: a gentle introduction](http://andrea.corbellini.name/2015/05/17/elliptic-curve-cryptography-a-gentle-introduction/) <br>
 [Safe elliptic curvers](https://safecurves.cr.yp.to/) <br>
 [Curve25519](https://cr.yp.to/ecdh/curve25519-20060209.pdf) <br>
-[Blade2 (crypto hash)](https://blake2.net/) <br>
+[Blade2 (crypto)](https://blake2.net/) <br>
 [xxHash](http://www.xxhash.com/) <br>
 [MurmurHash3](https://github.com/aappleby/smhasher) <br>
 [Dieharder: A Random Number Test Suite](http://webhome.phy.duke.edu/~rgb/General/dieharder.php) <br>
