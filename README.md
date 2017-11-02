@@ -197,3 +197,4 @@ Online solutions: <br>
 [Kafka 2017 Summit](https://www.confluent.io/kafka-summit-sf17/resource/) <br>
 [CppCon 2017](https://www.youtube.com/playlist?list=PLHTh1InhhwT6bwIpRk0ZbCA0N2p1taxd6) <br>
 [@Scale 2017](https://atscaleconference.com/videos-articles/) <br>
+[Strange Loop 2017](https://www.youtube.com/channel/UC_QIfHvN9auy2CoOdSfMWDw) <br>
