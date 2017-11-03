@@ -89,13 +89,13 @@
 
 # Log management #
 [What you need to know about real-time logs](https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying) <br>
+[fluentd](https://www.fluentd.org/) <br>
 [Kafka](https://kafka.apache.org/) <br>
 [Logstash](https://www.elastic.co/products/logstash) <br>
 [Graylog](https://www.graylog.org/) <br>
 [Jaeger (Uber) a Distributed Tracing System](https://github.com/jaegertracing/jaeger) <br>
 [syslog-ng](https://syslog-ng.org/) <br>
 [rsyslog](http://www.rsyslog.com/) <br>
-[fluentd](https://www.fluentd.org/) <br>
 [Splunk](https://www.splunk.com/) <br>
 [GoAccess](https://goaccess.io/) <br>
 [Bookkeeper](https://bookkeeper.apache.org/distributedlog/) <br>
