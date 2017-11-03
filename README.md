@@ -65,6 +65,7 @@
 [gRPC](https://grpc.io/) <br>
 [Protocol Buffers](https://developers.google.com/protocol-buffers/) <br>
 [Thrift](https://thrift.apache.org/) <br>
+[Cap'n Proto](https://capnproto.org/) <br>
 [MessagePack](https://msgpack.org/) <br>
 [FlatBuffers](https://google.github.io/flatbuffers/) <br>
 [ZeroMQ](http://zeromq.org/) <br>
