@@ -23,6 +23,7 @@
 [Varnish](https://varnish-cache.org/) <br>
 [HAProxy](http://www.haproxy.org/) <br>
 [nginx](https://www.nginx.com/) <br>
+[Envoy (Lyft)](https://www.envoyproxy.io/) <br>
 [OpenResty](https://openresty.org/en/) <br>
 [Tomcat](https://tomcat.apache.org/) <br>
 [Træfik](https://traefik.io/) <br>
@@ -56,6 +57,7 @@
 [Kubernetes](https://kubernetes.io/) <br>
 [Mesosphere](https://mesosphere.com/) <br>
 [Mesos](https://mesos.apache.org/) <br>
+[Container Network Interface](https://github.com/containernetworking/cni) <br>
 [Cilium](https://github.com/cilium/cilium) <br>
 [Calico](https://www.projectcalico.org) <br>
 
@@ -167,6 +169,9 @@ Online solutions: <br>
 [SRI hash generator](https://www.srihash.org/) <br>
 [Client side TLS test](https://www.howsmyssl.com/) <br>
 [DNS CAA helper](https://sslmate.com/caa/) <br>
+
+# Networking #
+[CoreDNS](https://github.com/coredns/coredns) <br>
 
 # Authorization #
 [The OAuth 2.0 Authorization Framework](https://tools.ietf.org/html/rfc6749) <br>
