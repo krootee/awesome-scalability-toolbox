@@ -134,6 +134,18 @@ Online solutions: <br>
 [CloudBerry S3 Explorer](https://www.cloudberrylab.com/explorer/amazon-s3.aspx) <br>
 [Analyze AWS S3 and CloudFront logs](https://github.com/nagyv/s3stat) + [GoAccess](https://goaccess.io/) <br>
 
+# Networking #
+[How to achieve low latency with 10Gbps Ethernet (Cloudflare)](https://blog.cloudflare.com/how-to-achieve-low-latency/) <br>
+[BBR, the new kid on the TCP block](https://blog.apnic.net/2017/05/09/bbr-new-kid-tcp-block/) <br>
+[Making Linux TCP Fast](https://netdevconf.org/1.2/papers/bbr-netdev-1.2.new.new.pdf) <br>
+[Monitoring and Tuning the Linux Networking Stack: Receiving Data](https://blog.packagecloud.io/eng/2016/06/22/monitoring-tuning-linux-networking-stack-receiving-data/) <br>
+[Monitoring and Tuning the Linux Networking Stack: Sending Data](https://blog.packagecloud.io/eng/2017/02/06/monitoring-tuning-linux-networking-stack-sending-data/) <br>
+[MIT's TCP ex Machina: Computer-Generated Congestion Control](http://web.mit.edu/remy/) <br>
+[CoreDNS](https://github.com/coredns/coredns) <br>
+[MaxMind GeoIP databases](https://dev.maxmind.com/geoip/geoip2/downloadable/) <br>
+[RIPE NCC network information](https://atlas.ripe.net/) <br>
+[JLS2009: Generic receive offload](https://lwn.net/Articles/358910/) <br>
+
 # SRE (Site Reliability Engineering)
 [Google Site Reliability Engineering book](https://landing.google.com/sre/book.html) <br>
 [High Performance Browser Networking book](https://hpbn.co/) <br>
@@ -141,20 +153,18 @@ Online solutions: <br>
 [Linux Performance tools and materials](http://www.brendangregg.com/linuxperf.html) <br>
 [U2F devices review](https://github.com/hillbrad/U2FReviews) <br>
 [A self-service CA for OpenSSH](https://github.com/nsheridan/cashier) <br>
-[Dropbox Optimizing web servers for high throughput and low latency](https://blogs.dropbox.com/tech/2017/09/optimizing-web-servers-for-high-throughput-and-low-latency/) <br>
-[Cloudflare How to achieve low latency with 10Gbps Ethernet](https://blog.cloudflare.com/how-to-achieve-low-latency/) <br>
+[Optimizing web servers for high throughput and low latency (Dropbox)](https://blogs.dropbox.com/tech/2017/09/optimizing-web-servers-for-high-throughput-and-low-latency/) <br>
 [Shipilev Close Encounters of The Java Memory Model Kind](https://shipilev.net/blog/2016/close-encounters-of-jmm-kind/) <br>
 [Shipilev JVM Anatomy Park](https://shipilev.net/jvm-anatomy-park/) <br>
 [On disk IO - part 1](https://medium.com/@ifesdjeen/on-disk-io-part-1-flavours-of-io-8e1ace1de017), [part 2](https://medium.com/@ifesdjeen/on-disk-io-part-2-more-flavours-of-io-c945db3edb13), [part 3](https://medium.com/@ifesdjeen/on-disk-io-part-3-lsm-trees-8b2da218496f), [part 4](https://medium.com/@ifesdjeen/on-disk-storage-part-4-b-trees-30791060741), [part 5](https://medium.com/@ifesdjeen/on-disk-io-access-patterns-in-lsm-trees-2ba8dffc05f9) <br>
 [Transparent Hugepages: measuring the performance impact](https://alexandrnikitin.github.io/blog/transparent-hugepages-measuring-the-performance-impact/) <br>
-[MIT's TCP ex Machina: Computer-Generated Congestion Control](http://web.mit.edu/remy/) <br>
+[Introduction 2016 NUMA Deep Dive Series](http://frankdenneman.nl/2016/07/06/introduction-2016-numa-deep-dive-series/) <br>
+[Understanding PCIe Configuration for Maximum Performance](https://community.mellanox.com/docs/DOC-2496) <br>
 [Netflix Serving 100 Gbps from an Open Connect Appliance](https://medium.com/netflix-techblog/serving-100-gbps-from-an-open-connect-appliance-cdb51dda3b99) <br>
 [Aphyr Hermitage - info and testing of database isolation levels](https://github.com/aphyr/hermitage) <br>
 [A collection of postmortems](https://github.com/danluu/post-mortems) <br>
 [Jeff Dean's latency numbers plotted over time](https://github.com/colin-scott/interactive_latencies) <br>
 [Sakila test DB](https://dev.mysql.com/doc/sakila/en/) <br>
-[MaxMind GeoIP databases](https://dev.maxmind.com/geoip/geoip2/downloadable/) <br>
-[RIPE NCC network information](https://atlas.ripe.net/) <br>
 [Monitoring in the time of Cloud Native](https://medium.com/@copyconstruct/monitoring-in-the-time-of-cloud-native-c87c7a5bfa3e) <br>
 
 # TLS/SSL verification #
@@ -170,9 +180,6 @@ Online solutions: <br>
 [Client side TLS test](https://www.howsmyssl.com/) <br>
 [DNS CAA helper](https://sslmate.com/caa/) <br>
 
-# Networking #
-[CoreDNS](https://github.com/coredns/coredns) <br>
-
 # Authorization #
 [The OAuth 2.0 Authorization Framework](https://tools.ietf.org/html/rfc6749) <br>
 [JSON Web Token (JWT)](https://tools.ietf.org/html/rfc7519) <br>
@@ -184,6 +191,7 @@ Online solutions: <br>
 [Cryptography Engineering: Design Principles and Practical Applications](https://www.amazon.com/Cryptography-Engineering-Principles-Practical-Applications/dp/0470474246) <br>
 [Introduction to Modern Cryptography, Second Edition](https://www.amazon.com/Introduction-Cryptography-Chapman-Network-Security/dp/1466570261) <br>
 [Security Engineering, 2nd edition](https://www.amazon.com/Security-Engineering-Building-Dependable-Distributed/dp/0470068523) <br>
+[Ensuring Randomness with Linux's Random Number Generator](https://blog.cloudflare.com/ensuring-randomness-with-linuxs-random-number-generator/) <br>
 [Should we MAC-then-encrypt or encrypt-then-MAC?](https://crypto.stackexchange.com/questions/202/should-we-mac-then-encrypt-or-encrypt-then-mac) <br>
 [Authenticated Encryption: Relations among notions and analysis of the generic composition paradigm](http://cseweb.ucsd.edu/~mihir/papers/oem.html) <br>
 [How to choose an Authenticated Encryption mode](https://blog.cryptographyengineering.com/2012/05/19/how-to-choose-authenticated-encryption/) <br>
