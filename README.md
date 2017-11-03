@@ -170,6 +170,7 @@ Online solutions: <br>
 [Monitoring in the time of Cloud Native](https://medium.com/@copyconstruct/monitoring-in-the-time-of-cloud-native-c87c7a5bfa3e) <br>
 
 # TLS/SSL verification #
+[Sonar](https://sonarwhal.com/) <br>
 [TLS information](https://istlsfastyet.com/) <br>
 [Mozilla server side TLS information](https://wiki.mozilla.org/Security/Server_Side_TLS) <br>
 [Mozilla Observatory](https://observatory.mozilla.org/) <br>
