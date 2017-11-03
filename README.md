@@ -68,7 +68,7 @@
 [ZeroMQ](http://zeromq.org/) <br>
 [QUIC](https://www.chromium.org/quic) <br>
 
-# Service monitoring and metrics collection / graphing #
+# Service monitoring, metrics collection / graphing #
 [Grafana](https://grafana.com/) <br>
 [Graphite](https://graphiteapp.org/) <br>
 [Prometheus](https://prometheus.io/) <br>
@@ -80,6 +80,12 @@
 [Zabbix](https://www.zabbix.com/) <br>
 [PagerDuty](https://www.pagerduty.com/) <br>
 [NewRelic](https://newrelic.com/) <br>
+
+# Distributed request tracing #
+[Dapper, a Large-Scale Distributed Systems Tracing Infrastructure (Google)](https://research.google.com/pubs/pub36356.html) <br>
+[OpenTracing standard](http://opentracing.io/) <br>
+[Zipkin](http://zipkin.io/) <br>
+[Jaeger (Uber)](https://uber.github.io/jaeger/) <br>
 
 # Log management #
 [What you need to know about real-time logs](https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying) <br>
@@ -147,6 +153,7 @@ Online solutions: <br>
 [Sakila test DB](https://dev.mysql.com/doc/sakila/en/) <br>
 [MaxMind GeoIP databases](https://dev.maxmind.com/geoip/geoip2/downloadable/) <br>
 [RIPE NCC network information](https://atlas.ripe.net/) <br>
+[Monitoring in the time of Cloud Native](https://medium.com/@copyconstruct/monitoring-in-the-time-of-cloud-native-c87c7a5bfa3e) <br>
 
 # TLS/SSL verification #
 [TLS information](https://istlsfastyet.com/) <br>
