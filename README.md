@@ -50,6 +50,7 @@
 [Paxos protocol](https://en.wikipedia.org/wiki/Paxos_(computer_science)) <br>
 [Consul](https://www.consul.io/) <br>
 [etcd](https://coreos.com/etcd/) <br>
+[Vault](https://www.vaultproject.io/) <br>
 [ZooKeeper](https://zookeeper.apache.org/) <br>
 
 # Containers #
@@ -60,6 +61,7 @@
 [Container Network Interface](https://github.com/containernetworking/cni) <br>
 [Cilium](https://github.com/cilium/cilium) <br>
 [Calico](https://www.projectcalico.org) <br>
+[Vault with Kubernetes](https://github.com/Boostport/kubernetes-vault) and [Video on improvements](https://www.youtube.com/watch?v=IulNdGlQR3A) <br>
 
 # Communication between system nodes #
 [gRPC](https://grpc.io/) <br>
