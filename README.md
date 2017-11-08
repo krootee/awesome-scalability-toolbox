@@ -33,6 +33,7 @@
 # Structured and unstructured data storage #
 [PostgreSQL](https://www.postgresql.org/) <br>
 [Postgres Pro (PostgreSQL)](https://postgrespro.ru/) <br>
+[JSON in Postgre 10.x, 11.x, PostgreSQL 9.6 vs Mongo 3.4](https://www.youtube.com/watch?v=SNzOZKvFZ68) <br>
 [Redis](https://redis.io/) <br>
 [MySQL](https://www.mysql.com/) <br>
 [RocksDB (InnoDB replacement by Facebook)](http://myrocks.io/) <br>
