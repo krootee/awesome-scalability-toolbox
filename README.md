@@ -93,8 +93,9 @@
 # Distributed request tracing #
 [Dapper, a Large-Scale Distributed Systems Tracing Infrastructure (Google)](https://research.google.com/pubs/pub36356.html) <br>
 [OpenTracing standard](http://opentracing.io/) <br>
-[Zipkin](http://zipkin.io/) <br>
+[OpenTracing and Jaeger introduction](https://www.youtube.com/watch?v=fjYAU3jayVo) <br>
 [Jaeger (Uber)](https://uber.github.io/jaeger/) <br>
+[Zipkin](http://zipkin.io/) <br>
 
 # Log management #
 [What you need to know about real-time logs](https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying) <br>
