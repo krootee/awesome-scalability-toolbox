@@ -67,6 +67,7 @@
 
 # Communication between system nodes #
 [gRPC](https://grpc.io/) <br>
+[gRPC 2 years in production](https://www.youtube.com/watch?v=7FZ6ZyzGex0) <br>
 [Protocol Buffers](https://developers.google.com/protocol-buffers/) <br>
 [Thrift](https://thrift.apache.org/) <br>
 [Cap'n Proto](https://capnproto.org/) <br>
