@@ -63,6 +63,7 @@
 [Cilium](https://github.com/cilium/cilium) <br>
 [Calico](https://www.projectcalico.org) <br>
 [Vault with Kubernetes](https://github.com/Boostport/kubernetes-vault) and [Video on improvements](https://www.youtube.com/watch?v=IulNdGlQR3A) <br>
+[Weave Scope (monitoring)](https://github.com/weaveworks/scope) <br>
 
 # Communication between system nodes #
 [gRPC](https://grpc.io/) <br>
