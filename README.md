@@ -25,7 +25,7 @@
 [nginx](https://www.nginx.com/) <br>
 [Envoy L3/4/7 proxy (Lyft)](https://www.envoyproxy.io/) <br>
 [Envoy introduction](https://www.youtube.com/watch?v=RVZX4CwKhGE) <br>
-[linkerd L5 proxy](https://linkerd.io/) <br>
+[linkerd L5 proxy (Finagle based)](https://linkerd.io/) <br>
 [OpenResty](https://openresty.org/en/) <br>
 [Tomcat](https://tomcat.apache.org/) <br>
 [Træfik](https://traefik.io/) <br>
