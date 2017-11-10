@@ -23,14 +23,19 @@
 [Varnish](https://varnish-cache.org/) <br>
 [HAProxy](http://www.haproxy.org/) <br>
 [nginx](https://www.nginx.com/) <br>
-[Envoy L3/4/7 proxy (Lyft)](https://www.envoyproxy.io/) <br>
-[Envoy introduction](https://www.youtube.com/watch?v=RVZX4CwKhGE) <br>
-[linkerd L5 proxy (Finagle based)](https://linkerd.io/) <br>
 [OpenResty](https://openresty.org/en/) <br>
 [Tomcat](https://tomcat.apache.org/) <br>
 [Træfik](https://traefik.io/) <br>
 [Tarantool (mail.ru)](https://tarantool.org/) <br>
 [lightttpd](https://www.lighttpd.net/) <br>
+
+# Service mesh #
+[Envoy L3/4/7 proxy (Lyft/Google, C++)](https://www.envoyproxy.io/) <br>
+[Envoy introduction](https://www.youtube.com/watch?v=RVZX4CwKhGE) <br>
+[linkerd L5 proxy (Finagle based, JVM)](https://linkerd.io/) <br>
+[linkerd introduction](https://www.youtube.com/watch?v=0xYSy6OmjUM) <br>
+[Istio service mesh controller](https://istio.io/) <br>
+[Istio introduction](https://www.youtube.com/watch?v=s4qasWn_mFc) <br>
 
 # Structured and unstructured data storage #
 [PostgreSQL](https://www.postgresql.org/) <br>
