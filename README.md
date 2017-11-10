@@ -59,6 +59,7 @@
 [Consul](https://www.consul.io/) <br>
 [etcd](https://coreos.com/etcd/) <br>
 [Vault](https://www.vaultproject.io/) <br>
+[Secure Production Identity Framework For Everyone (SPIFFE)](https://github.com/spiffe/spiffe) <br>
 [ZooKeeper](https://zookeeper.apache.org/) <br>
 
 # Containers #
