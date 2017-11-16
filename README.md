@@ -104,6 +104,7 @@
 [OpenTracing and Jaeger introduction](https://www.youtube.com/watch?v=fjYAU3jayVo) <br>
 [Jaeger (Uber)](https://uber.github.io/jaeger/) <br>
 [Zipkin](http://zipkin.io/) <br>
+[Lightstep](https://lightstep.com) <br>
 
 # Log management #
 [What you need to know about real-time logs](https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying) <br>
