@@ -73,7 +73,7 @@
 [Vault with Kubernetes](https://github.com/Boostport/kubernetes-vault) and [Video on improvements](https://www.youtube.com/watch?v=IulNdGlQR3A) <br>
 [Weave Scope (monitoring)](https://github.com/weaveworks/scope) <br>
 
-# Communication between system nodes #
+# RPC, Communication between system nodes #
 [gRPC](https://grpc.io/) <br>
 [gRPC 2 years in production](https://www.youtube.com/watch?v=7FZ6ZyzGex0) <br>
 [Protocol Buffers](https://developers.google.com/protocol-buffers/) <br>
@@ -83,6 +83,7 @@
 [FlatBuffers](https://google.github.io/flatbuffers/) <br>
 [Motan](https://github.com/weibocom/motan) <br>
 [ZeroMQ](http://zeromq.org/) <br>
+[SMF](https://github.com/senior7515/smf) <br>
 [QUIC](https://www.chromium.org/quic) <br>
 
 # Service monitoring, metrics collection / graphing #
