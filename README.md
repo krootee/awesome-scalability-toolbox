@@ -243,3 +243,4 @@ Online solutions: <br>
 # Tools #
 [htop](https://github.com/hishamhm/htop) <br>
 [gtop](https://github.com/aksakalli/gtop) <br>
+[k6 (load testing)](https://k6.io/) <br>
