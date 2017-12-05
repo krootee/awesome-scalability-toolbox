@@ -186,6 +186,7 @@ Online solutions: <br>
 [Jeff Dean's latency numbers plotted over time](https://github.com/colin-scott/interactive_latencies) <br>
 [Sakila test DB](https://dev.mysql.com/doc/sakila/en/) <br>
 [Monitoring in the time of Cloud Native](https://medium.com/@copyconstruct/monitoring-in-the-time-of-cloud-native-c87c7a5bfa3e) <br>
+[Tyler McMullen - Load Balancing is Impossible](https://www.youtube.com/watch?v=kpvbOzHUakA) <br>
 
 # TLS/SSL verification #
 [Sonar](https://sonarwhal.com/) <br>
