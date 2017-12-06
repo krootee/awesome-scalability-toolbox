@@ -134,6 +134,7 @@ Online solutions: <br>
 [FF4J](http://ff4j.org/) <br>
 [Togglz (Java)](https://www.togglz.org) <br>
 [Unleash (simple)](https://github.com/Unleash/unleash) <br>
+[LaunchDarkly (cloud provider)](https://launchdarkly.com) <br>
 
 # Deployment tools #
 [Ansible](https://ansible.com/) <br>
