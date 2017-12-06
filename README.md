@@ -130,6 +130,12 @@ Online solutions: <br>
 [Sumo Logic](https://www.sumologic.com/) <br>
 [Humio](https://humio.com/) <br>
 
+# Feature Flags #
+[Overview site](http://featureflags.io) <br>
+[FF4J](http://ff4j.org/) <br>
+[Togglz (Java)](https://www.togglz.org) <br>
+[Unleash (simple)](https://github.com/Unleash/unleash) <br>
+
 # Deployment tools #
 [Ansible](https://ansible.com/) <br>
 [Salt](https://saltstack.com/) <br>
