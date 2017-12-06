@@ -32,10 +32,11 @@
 # Service mesh #
 [Envoy L3/4/7 proxy (Lyft/Google, C++)](https://www.envoyproxy.io/) <br>
 [Envoy introduction](https://www.youtube.com/watch?v=RVZX4CwKhGE) <br>
-[linkerd L5 proxy (Finagle based, JVM)](https://linkerd.io/) <br>
-[linkerd introduction](https://www.youtube.com/watch?v=0xYSy6OmjUM) <br>
 [Istio service mesh controller](https://istio.io/) <br>
 [Istio introduction](https://www.youtube.com/watch?v=s4qasWn_mFc) <br>
+[linkerd L5 proxy (Finagle based, JVM)](https://linkerd.io/) <br>
+[linkerd introduction](https://www.youtube.com/watch?v=0xYSy6OmjUM) <br>
+[Conduit (Rust, linkerd devs)](https://conduit.io/) <br>
 
 # Structured and unstructured data storage #
 [PostgreSQL](https://www.postgresql.org/) <br>
