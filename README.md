@@ -114,8 +114,7 @@
 [fluentd](https://www.fluentd.org/) <br>
 [Kafka](https://kafka.apache.org/) <br>
 [Logstash](https://www.elastic.co/products/logstash) <br>
-[Graylog](https://www.graylog.org/) <br>
-[Jaeger (Uber) a Distributed Tracing System](https://github.com/jaegertracing/jaeger) <br>
+[Graylog2](https://www.graylog.org/) <br>
 [syslog-ng](https://syslog-ng.org/) <br>
 [rsyslog](http://www.rsyslog.com/) <br>
 [Splunk](https://www.splunk.com/) <br>
