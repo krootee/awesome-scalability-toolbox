@@ -195,6 +195,8 @@ Online solutions: <br>
 [Sakila test DB](https://dev.mysql.com/doc/sakila/en/) <br>
 [Monitoring in the time of Cloud Native](https://medium.com/@copyconstruct/monitoring-in-the-time-of-cloud-native-c87c7a5bfa3e) <br>
 [Tyler McMullen - Load Balancing is Impossible](https://www.youtube.com/watch?v=kpvbOzHUakA) <br>
+[What every programmer should know about memory](https://www.akkadia.org/drepper/cpumemory.pdf) <br>
+[What every programmer should know about floating point](https://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html), [Floating point GUI site](http://floating-point-gui.de/), [shorter explanation](http://blog.reverberate.org/2014/09/what-every-computer-programmer-should.html) <br>
 
 # TLS/SSL verification #
 [Sonar](https://sonarwhal.com/) <br>
