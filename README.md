@@ -93,6 +93,7 @@
 [Graphite](https://graphiteapp.org/) <br>
 [Prometheus](https://prometheus.io/) <br>
 [NetData](https://my-netdata.io/) <br>
+[Vector (on-host monitoring)](http://vectoross.io/) <br>
 [okmeter](https://okmeter.io) <br>
 [Datadog](https://www.datadoghq.com/) <br>
 [ClichHouse](https://clickhouse.yandex/) <br>
