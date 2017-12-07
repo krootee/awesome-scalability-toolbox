@@ -74,6 +74,7 @@
 [Vault with Kubernetes](https://github.com/Boostport/kubernetes-vault) and [Video on improvements](https://www.youtube.com/watch?v=IulNdGlQR3A) <br>
 [Weave Scope (monitoring)](https://github.com/weaveworks/scope) <br>
 [Telepresence (fast dev environments for Kubernetes)](https://www.telepresence.io/) <br>
+[AWS VPC Kubernetes CNI driver using IPvlan](https://github.com/lyft/cni-ipvlan-vpc-k8s) <br>
 
 # RPC, Communication between system nodes #
 [gRPC](https://grpc.io/) <br>
