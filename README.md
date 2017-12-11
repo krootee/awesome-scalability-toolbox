@@ -78,7 +78,6 @@
 
 # RPC, Communication between system nodes #
 [gRPC](https://grpc.io/) <br>
-[gRPC 2 years in production](https://www.youtube.com/watch?v=7FZ6ZyzGex0) <br>
 [Protocol Buffers](https://developers.google.com/protocol-buffers/) <br>
 [Thrift](https://thrift.apache.org/) <br>
 [Cap'n Proto](https://capnproto.org/) <br>
@@ -88,6 +87,10 @@
 [ZeroMQ](http://zeromq.org/) <br>
 [SMF](https://github.com/senior7515/smf) <br>
 [QUIC](https://www.chromium.org/quic) <br>
+
+# gRPC #
+[gRPC 2 years in production](https://www.youtube.com/watch?v=7FZ6ZyzGex0) <br>
+[gRPC-Web client](https://github.com/improbable-eng/grpc-web/) <br>
 
 # Service monitoring, metrics collection / graphing #
 [Grafana](https://grafana.com/) <br>
