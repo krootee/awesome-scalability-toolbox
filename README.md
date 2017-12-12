@@ -203,6 +203,7 @@ Online solutions: <br>
 [What every programmer should know about memory](https://www.akkadia.org/drepper/cpumemory.pdf) <br>
 [What every programmer should know about floating point](https://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html), [floating points format explained](http://fabiensanglard.net/floating_point_visually_explained/), [Floating point GUI site](http://floating-point-gui.de/), [shorter explanation](http://blog.reverberate.org/2014/09/what-every-computer-programmer-should.html) <br>
 [Chaos Engineering information map](https://coggle.it/diagram/5a229c7860c0c20001ae6caf/1960e86c369b09c4deac3227885bb073ae258e637b1b9e57be274125ac6e57b2) <br>
+[A Gentle Introduction to Erasure Codes](https://www.akalin.com/intro-erasure-codes) <br>
 
 # TLS/SSL verification #
 [Sonar](https://sonarwhal.com/) <br>
