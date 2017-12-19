@@ -84,6 +84,7 @@
 [MessagePack](https://msgpack.org/) <br>
 [FlatBuffers](https://google.github.io/flatbuffers/) <br>
 [Motan](https://github.com/weibocom/motan) <br>
+[Aeron](https://github.com/real-logic/aeron) <br>
 [ZeroMQ](http://zeromq.org/) <br>
 [SMF](https://github.com/senior7515/smf) <br>
 [QUIC](https://www.chromium.org/quic) <br>
