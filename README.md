@@ -45,6 +45,7 @@
 [Redis](https://redis.io/) <br>
 [MySQL](https://www.mysql.com/) <br>
 [RocksDB (InnoDB replacement by Facebook)](http://myrocks.io/) <br>
+[Vitess (MySQL auto horizontal scaling)](http://vitess.io/) <br>
 [MariaDB (MySQL)](https://mariadb.com/) <br>
 [Percona (MySQL)](https://www.percona.com/) <br>
 [MongoDB](https://www.mongodb.com/) <br>
