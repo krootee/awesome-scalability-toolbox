@@ -209,6 +209,7 @@ Online solutions: <br>
 [Chaos Engineering information map](https://coggle.it/diagram/5a229c7860c0c20001ae6caf/1960e86c369b09c4deac3227885bb073ae258e637b1b9e57be274125ac6e57b2) <br>
 [A Gentle Introduction to Erasure Codes](https://www.akalin.com/intro-erasure-codes) <br>
 [The PMCs of EC2: Measuring IPC](http://www.brendangregg.com/blog/2017-05-04/the-pmcs-of-ec2.html) <br>
+[AWS EC2 Virtualization evolution](http://www.brendangregg.com/blog/2017-11-29/aws-ec2-virtualization-2017.html) <br>
 
 # TLS/SSL verification #
 [Sonar](https://sonarwhal.com/) <br>
