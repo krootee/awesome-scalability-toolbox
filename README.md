@@ -177,6 +177,7 @@ Online solutions: <br>
 [Monitoring and Tuning the Linux Networking Stack: Sending Data](https://blog.packagecloud.io/eng/2017/02/06/monitoring-tuning-linux-networking-stack-sending-data/) <br>
 [MIT's TCP ex Machina: Computer-Generated Congestion Control](http://web.mit.edu/remy/) <br>
 [CoreDNS](https://github.com/coredns/coredns) <br>
+[Maglev: A Fast and Reliable Software Network Load Balancer](https://research.google.com/pubs/pub44824.html) <br>
 [MaxMind GeoIP databases](https://dev.maxmind.com/geoip/geoip2/downloadable/) <br>
 [RIPE NCC network information](https://atlas.ripe.net/) <br>
 [JLS2009: Generic receive offload](https://lwn.net/Articles/358910/) <br>
