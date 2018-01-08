@@ -245,10 +245,12 @@ Online solutions: <br>
 [Cryptography Engineering: Design Principles and Practical Applications](https://www.amazon.com/Cryptography-Engineering-Principles-Practical-Applications/dp/0470474246) <br>
 [Introduction to Modern Cryptography, Second Edition](https://www.amazon.com/Introduction-Cryptography-Chapman-Network-Security/dp/1466570261) <br>
 [Security Engineering, 2nd edition](https://www.amazon.com/Security-Engineering-Building-Dependable-Distributed/dp/0470068523) <br>
+[Applied Cryptography Engineering](https://sockpuppet.org/blog/2013/07/22/applied-practical-cryptography/) <br>
 [Ensuring Randomness with Linux's Random Number Generator](https://blog.cloudflare.com/ensuring-randomness-with-linuxs-random-number-generator/) <br>
 [Should we MAC-then-encrypt or encrypt-then-MAC?](https://crypto.stackexchange.com/questions/202/should-we-mac-then-encrypt-or-encrypt-then-mac) <br>
 [Authenticated Encryption: Relations among notions and analysis of the generic composition paradigm](http://cseweb.ucsd.edu/~mihir/papers/oem.html) <br>
 [How to choose an Authenticated Encryption mode](https://blog.cryptographyengineering.com/2012/05/19/how-to-choose-authenticated-encryption/) <br>
+[Awesome cryptography repository](https://github.com/sobolevn/awesome-cryptography) <br>
 [Hash-based message authentication code](https://en.wikipedia.org/wiki/Hash-based_message_authentication_code) <br>
 [Authenticated Encryption with Associated Data (AEAD)](https://en.wikipedia.org/wiki/Authenticated_encryption) <br>
 [AES-GCM (AEAD)](https://tools.ietf.org/html/rfc5288) <br>
@@ -266,7 +268,6 @@ Online solutions: <br>
 [xxHash](http://www.xxhash.com/) <br>
 [MurmurHash3](https://github.com/aappleby/smhasher) <br>
 [Dieharder: A Random Number Test Suite](http://webhome.phy.duke.edu/~rgb/General/dieharder.php) <br>
-[Awesome cryptography repository](https://github.com/sobolevn/awesome-cryptography) <br>
 
 # Videos #
 [Kafka 2017 Summit](https://www.confluent.io/kafka-summit-sf17/resource/) <br>
