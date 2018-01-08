@@ -266,6 +266,7 @@ Online solutions: <br>
 [xxHash](http://www.xxhash.com/) <br>
 [MurmurHash3](https://github.com/aappleby/smhasher) <br>
 [Dieharder: A Random Number Test Suite](http://webhome.phy.duke.edu/~rgb/General/dieharder.php) <br>
+[Awesome cryptography repository](https://github.com/sobolevn/awesome-cryptography) <br>
 
 # Videos #
 [Kafka 2017 Summit](https://www.confluent.io/kafka-summit-sf17/resource/) <br>
