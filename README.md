@@ -264,6 +264,8 @@ Online solutions: <br>
 [Elliptic Curve Cryptography: a gentle introduction](http://andrea.corbellini.name/2015/05/17/elliptic-curve-cryptography-a-gentle-introduction/) <br>
 [Safe elliptic curvers](https://safecurves.cr.yp.to/) <br>
 [Curve25519](https://cr.yp.to/ecdh/curve25519-20060209.pdf) <br>
+[HighwayHash and SipHash (Google)](https://github.com/google/highwayhash/) <br>
+[SipHash (original)](https://131002.net/siphash/) <br>
 [Blade2 (crypto)](https://blake2.net/) <br>
 [xxHash](http://www.xxhash.com/) <br>
 [MurmurHash3](https://github.com/aappleby/smhasher) <br>
