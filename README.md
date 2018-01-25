@@ -77,6 +77,8 @@
 [kops (k8s cluster setup)](https://github.com/kubernetes/kops) <br>
 [Telepresence (fast dev environments for Kubernetes)](https://www.telepresence.io/) <br>
 [AWS VPC Kubernetes CNI driver using IPvlan](https://github.com/lyft/cni-ipvlan-vpc-k8s) <br>
+[Helm (k8s package manager)](https://helm.sh/) <br>
+[Kedge (Simple, Concise & Declarative Kubernetes Applications)](http://kedgeproject.org/) <br>
 [Mesosphere](https://mesosphere.com/) <br>
 [Mesos](https://mesos.apache.org/) <br>
 
