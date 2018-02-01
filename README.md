@@ -125,6 +125,14 @@
 [Lightstep](https://lightstep.com) <br>
 [Skywalking](http://skywalking.io/) <br>
 
+# Load testing #
+[Yandex.Tank (C++, Python, Go)](https://github.com/yandex/yandex-tank) <br>
+[Overload (storage for Yandex.Tank results)](https://overload.yandex.net) <br>
+[Gatling (Scala)](https://gatling.io/) <br>
+[Locust (Python)](https://locust.io/) <br>
+[Vegeta (HTTP 1.1/2)](https://github.com/tsenart/vegeta) <br>
+[h2load (HTTP 1.1/2)](https://nghttp2.org/documentation/h2load.1.html) <br>
+
 # Log management #
 [What you need to know about real-time logs](https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying) <br>
 [fluentd](https://www.fluentd.org/) <br>
