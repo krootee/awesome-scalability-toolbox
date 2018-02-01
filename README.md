@@ -73,7 +73,7 @@
 [Vault with Kubernetes](https://github.com/Boostport/kubernetes-vault) and [Video on improvements](https://www.youtube.com/watch?v=IulNdGlQR3A) <br>
 [Weave Scope (monitoring)](https://github.com/weaveworks/scope) <br>
 [Kubespray (k8s cluster setup)](https://kubespray.io/) <br>
-[Kubeadm (k8s cluster setup)](https://github.com/kubernetes/kubeadm> <br>
+[Kubeadm (k8s cluster setup)](https://github.com/kubernetes/kubeadm) <br>
 [kops (k8s cluster setup)](https://github.com/kubernetes/kops) <br>
 [Telepresence (fast dev environments for Kubernetes)](https://www.telepresence.io/) <br>
 [AWS VPC Kubernetes CNI driver using IPvlan](https://github.com/lyft/cni-ipvlan-vpc-k8s) <br>
