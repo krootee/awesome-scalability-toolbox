@@ -104,6 +104,7 @@
 [Grafana](https://grafana.com/) <br>
 [Graphite](https://graphiteapp.org/) <br>
 [Prometheus](https://prometheus.io/) <br>
+[Node Exporter - machine metrics (Prometheus)](https://github.com/prometheus/node_exporter) <br>
 [ClichHouse (Yandex)](https://clickhouse.yandex/) <br>
 [Druid](http://druid.io/) <br>
 [Pinot (Linkedin)](https://github.com/linkedin/pinot/) <br>
@@ -116,7 +117,6 @@
 [Zabbix](https://www.zabbix.com/) <br>
 [PagerDuty](https://www.pagerduty.com/) <br>
 [NewRelic](https://newrelic.com/) <br>
-[Node Exporter - machine metrics (Prometheus)](https://github.com/prometheus/node_exporter) <br>
 
 # Distributed request tracing #
 [Dapper, a Large-Scale Distributed Systems Tracing Infrastructure (Google)](https://research.google.com/pubs/pub36356.html) <br>
