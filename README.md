@@ -106,7 +106,7 @@
 [Prometheus](https://prometheus.io/) <br>
 [Node Exporter - machine metrics (Prometheus)](https://github.com/prometheus/node_exporter) <br>
 [ClichHouse (Yandex)](https://clickhouse.yandex/) <br>
-[Druid](http://druid.io/) <br>
+[Druid (Imply)](http://druid.io/) <br>
 [Pinot (Linkedin)](https://github.com/linkedin/pinot/) <br>
 [Architecture analysis of ClickHouse, Druid and Pinot](https://medium.com/@leventov/comparison-of-the-open-source-olap-systems-for-big-data-clickhouse-druid-and-pinot-8e042a5ed1c7) <br>
 [NetData](https://my-netdata.io/) <br>
