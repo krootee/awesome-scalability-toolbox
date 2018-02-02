@@ -104,13 +104,15 @@
 [Grafana](https://grafana.com/) <br>
 [Graphite](https://graphiteapp.org/) <br>
 [Prometheus](https://prometheus.io/) <br>
+[ClichHouse (Yandex)](https://clickhouse.yandex/) <br>
+[Druid](http://druid.io/) <br>
+[Pinot (Linkedin)](https://github.com/linkedin/pinot/) <br>
+[Architecture analysis of ClickHouse, Druid and Pinot](https://medium.com/@leventov/comparison-of-the-open-source-olap-systems-for-big-data-clickhouse-druid-and-pinot-8e042a5ed1c7) <br>
 [NetData](https://my-netdata.io/) <br>
 [Vector (on-host monitoring)](http://vectoross.io/) <br>
 [okmeter](https://okmeter.io) <br>
 [Datadog](https://www.datadoghq.com/) <br>
-[ClichHouse](https://clickhouse.yandex/) <br>
 [TimescaleDB](https://github.com/timescale/timescaledb) <br>
-[Druid](http://druid.io/) <br>
 [Zabbix](https://www.zabbix.com/) <br>
 [PagerDuty](https://www.pagerduty.com/) <br>
 [NewRelic](https://newrelic.com/) <br>
