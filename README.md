@@ -75,6 +75,7 @@
 [Kubespray (k8s cluster setup)](https://kubespray.io/) <br>
 [Kubeadm (k8s cluster setup)](https://github.com/kubernetes/kubeadm) <br>
 [kops (k8s cluster setup)](https://github.com/kubernetes/kops) <br>
+[KubeGPU (Microsoft)](https://github.com/Microsoft/KubeGPU) <br>
 [Telepresence (fast dev environments for Kubernetes)](https://www.telepresence.io/) <br>
 [AWS VPC Kubernetes CNI driver using IPvlan](https://github.com/lyft/cni-ipvlan-vpc-k8s) <br>
 [Helm (k8s package manager)](https://helm.sh/) <br>
