@@ -204,6 +204,9 @@ Online solutions: <br>
 [CoreDNS](https://github.com/coredns/coredns) <br>
 [Maglev: A Fast and Reliable Software Network Load Balancer](https://research.google.com/pubs/pub44824.html) <br>
 [MaxMind GeoIP databases](https://dev.maxmind.com/geoip/geoip2/downloadable/) <br>
+[IPVS](http://www.linuxvirtualserver.org/software/ipvs.html) <br>
+[DPDK](http://dpdk.org/) <br>
+[FD.io](https://fd.io/) <br>
 [RIPE NCC network information](https://atlas.ripe.net/) <br>
 [JLS2009: Generic receive offload](https://lwn.net/Articles/358910/) <br>
 
