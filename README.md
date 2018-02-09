@@ -234,6 +234,7 @@ Online solutions: <br>
 [The PMCs of EC2: Measuring IPC](http://www.brendangregg.com/blog/2017-05-04/the-pmcs-of-ec2.html) <br>
 [AWS EC2 Virtualization evolution](http://www.brendangregg.com/blog/2017-11-29/aws-ec2-virtualization-2017.html) <br>
 [DNS zone visualization](http://dnsviz.net/) <br>
+[How Netflix Tunes EC2](http://www.brendangregg.com/blog/2017-12-31/reinvent-netflix-ec2-tuning.html) <br>
 
 # TLS/SSL verification #
 [Sonar](https://sonarwhal.com/) <br>
