@@ -233,6 +233,7 @@ Online solutions: <br>
 [A Gentle Introduction to Erasure Codes](https://www.akalin.com/intro-erasure-codes) <br>
 [The PMCs of EC2: Measuring IPC](http://www.brendangregg.com/blog/2017-05-04/the-pmcs-of-ec2.html) <br>
 [AWS EC2 Virtualization evolution](http://www.brendangregg.com/blog/2017-11-29/aws-ec2-virtualization-2017.html) <br>
+[DNS zone visualization](http://dnsviz.net/) <br>
 
 # TLS/SSL verification #
 [Sonar](https://sonarwhal.com/) <br>
