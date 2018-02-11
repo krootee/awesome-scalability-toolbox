@@ -201,6 +201,7 @@ Online solutions: <br>
 [Monitoring and Tuning the Linux Networking Stack: Sending Data](https://blog.packagecloud.io/eng/2017/02/06/monitoring-tuning-linux-networking-stack-sending-data/) <br>
 [MIT's TCP ex Machina: Computer-Generated Congestion Control](http://web.mit.edu/remy/) <br>
 [Introduction to modern network load balancing and proxying (Envoy)](https://blog.envoyproxy.io/introduction-to-modern-network-load-balancing-and-proxying-a57f6ff80236) <br>
+[BGP in 2017](http://www.potaroo.net/ispcol/2018-01/bgp2017.html) <br>
 [CoreDNS](https://github.com/coredns/coredns) <br>
 [Maglev: A Fast and Reliable Software Network Load Balancer](https://research.google.com/pubs/pub44824.html) <br>
 [MaxMind GeoIP databases](https://dev.maxmind.com/geoip/geoip2/downloadable/) <br>
