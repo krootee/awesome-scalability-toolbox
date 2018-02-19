@@ -22,7 +22,7 @@
 # Load balancers, reverse proxy, accelerators, web servers #
 [Varnish](https://varnish-cache.org/) <br>
 [HAProxy](http://www.haproxy.org/) <br>
-[nginx](https://www.nginx.com/) <br>
+[nginx](https://www.nginx.com/), [nginx config](https://nginxconfig.io/) <br>
 [OpenResty](https://openresty.org/en/) <br>
 [Tomcat](https://tomcat.apache.org/) <br>
 [Træfik](https://traefik.io/) <br>
