@@ -110,6 +110,7 @@
 [Druid (Imply)](http://druid.io/) <br>
 [Pinot (Linkedin)](https://github.com/linkedin/pinot/) <br>
 [Architecture analysis of ClickHouse, Druid and Pinot](https://medium.com/@leventov/comparison-of-the-open-source-olap-systems-for-big-data-clickhouse-druid-and-pinot-8e042a5ed1c7) <br>
+[HTTP Analytics for 6M requests per second using ClickHouse](https://blog.cloudflare.com/http-analytics-for-6m-requests-per-second-using-clickhouse/) <br>
 [NetData](https://my-netdata.io/) <br>
 [Vector (on-host monitoring)](http://vectoross.io/) <br>
 [okmeter](https://okmeter.io) <br>
