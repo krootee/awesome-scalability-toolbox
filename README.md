@@ -68,20 +68,24 @@
 [Docker](https://www.docker.com/) <br>
 [Kubernetes](https://kubernetes.io/) <br>
 [Container Network Interface](https://github.com/containernetworking/cni) <br>
+[Mesosphere](https://mesosphere.com/) <br>
+[Mesos](https://mesos.apache.org/) <br>
+[cAdvisor (container monitoring)](https://github.com/google/cadvisor) <br>
+[Weave Scope (monitoring)](https://github.com/weaveworks/scope) <br>
+
+# Kubernetes #
+[Kubespray (cluster setup)](https://kubespray.io/) <br>
+[Kubeadm (cluster setup)](https://github.com/kubernetes/kubeadm) <br>
+[kops (cluster setup)](https://github.com/kubernetes/kops) <br>
+[KubeGPU (Microsoft)](https://github.com/Microsoft/KubeGPU) <br>
+[Telepresence (fast dev environments)](https://www.telepresence.io/) <br>
+[AWS VPC Kubernetes CNI driver using IPvlan](https://github.com/lyft/cni-ipvlan-vpc-k8s) <br>
+[Helm (package manager)](https://helm.sh/) <br>
+[Kedge (Simple, Concise & Declarative Kubernetes Applications)](http://kedgeproject.org/) <br>
 [Cilium](https://github.com/cilium/cilium) <br>
 [Calico](https://www.projectcalico.org) <br>
 [Vault with Kubernetes](https://github.com/Boostport/kubernetes-vault) and [Video on improvements](https://www.youtube.com/watch?v=IulNdGlQR3A) <br>
-[Weave Scope (monitoring)](https://github.com/weaveworks/scope) <br>
-[Kubespray (k8s cluster setup)](https://kubespray.io/) <br>
-[Kubeadm (k8s cluster setup)](https://github.com/kubernetes/kubeadm) <br>
-[kops (k8s cluster setup)](https://github.com/kubernetes/kops) <br>
-[KubeGPU (Microsoft)](https://github.com/Microsoft/KubeGPU) <br>
-[Telepresence (fast dev environments for Kubernetes)](https://www.telepresence.io/) <br>
-[AWS VPC Kubernetes CNI driver using IPvlan](https://github.com/lyft/cni-ipvlan-vpc-k8s) <br>
-[Helm (k8s package manager)](https://helm.sh/) <br>
-[Kedge (Simple, Concise & Declarative Kubernetes Applications)](http://kedgeproject.org/) <br>
-[Mesosphere](https://mesosphere.com/) <br>
-[Mesos](https://mesos.apache.org/) <br>
+[Gitkube](https://github.com/hasura/gitkube) <br>
 
 # RPC, Communication between system nodes #
 [gRPC](https://grpc.io/) <br>
