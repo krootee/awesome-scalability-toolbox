@@ -85,7 +85,7 @@
 [Cilium](https://github.com/cilium/cilium) <br>
 [Calico](https://www.projectcalico.org) <br>
 [Vault with Kubernetes](https://github.com/Boostport/kubernetes-vault) and [Video on improvements](https://www.youtube.com/watch?v=IulNdGlQR3A) <br>
-[Gitkube](https://github.com/hasura/gitkube) <br>
+[Gitkube](https://gitkube.sh/) <br>
 
 # RPC, Communication between system nodes #
 [gRPC](https://grpc.io/) <br>
