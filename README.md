@@ -79,6 +79,7 @@
 [kops (cluster setup)](https://github.com/kubernetes/kops) <br>
 [KubeGPU (Microsoft)](https://github.com/Microsoft/KubeGPU) <br>
 [Telepresence (fast dev environments)](https://www.telepresence.io/) <br>
+[Squash microservice debugger](https://github.com/solo-io/squash) <br>
 [AWS VPC Kubernetes CNI driver using IPvlan](https://github.com/lyft/cni-ipvlan-vpc-k8s) <br>
 [Helm (package manager)](https://helm.sh/) <br>
 [Kedge (Simple, Concise & Declarative Kubernetes Applications)](http://kedgeproject.org/) <br>
