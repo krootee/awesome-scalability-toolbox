@@ -78,6 +78,7 @@
 [Kubeadm (cluster setup)](https://github.com/kubernetes/kubeadm) <br>
 [kops (cluster setup)](https://github.com/kubernetes/kops) <br>
 [KubeGPU (Microsoft)](https://github.com/Microsoft/KubeGPU) <br>
+[Skaffold](https://github.com/GoogleCloudPlatform/skaffold) <br>
 [Telepresence (fast dev environments)](https://www.telepresence.io/) <br>
 [Squash microservice debugger](https://github.com/solo-io/squash) <br>
 [AWS VPC Kubernetes CNI driver using IPvlan](https://github.com/lyft/cni-ipvlan-vpc-k8s) <br>
