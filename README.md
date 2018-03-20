@@ -72,6 +72,7 @@
 [Mesos](https://mesos.apache.org/) <br>
 [cAdvisor (container monitoring)](https://github.com/google/cadvisor) <br>
 [Weave Scope (monitoring)](https://github.com/weaveworks/scope) <br>
+[SysDig (monitoring)](https://github.com/draios/sysdig) <br>
 
 # Kubernetes #
 [Kubespray (cluster setup)](https://kubespray.io/) <br>
@@ -126,6 +127,10 @@
 [Zabbix](https://www.zabbix.com/) <br>
 [PagerDuty](https://www.pagerduty.com/) <br>
 [NewRelic](https://newrelic.com/) <br>
+
+# Infrastructure information management #
+[Osquery (Facebook)](https://osquery.io/) <br>
+[OSSEC](https://ossec.github.io/) <br>
 
 # Distributed request tracing #
 [Dapper, a Large-Scale Distributed Systems Tracing Infrastructure (Google)](https://research.google.com/pubs/pub36356.html) <br>
