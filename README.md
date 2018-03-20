@@ -260,6 +260,7 @@ Online solutions: <br>
 [AWS EC2 Virtualization evolution](http://www.brendangregg.com/blog/2017-11-29/aws-ec2-virtualization-2017.html) <br>
 [DNS zone visualization](http://dnsviz.net/) <br>
 [How Netflix Tunes EC2](http://www.brendangregg.com/blog/2017-12-31/reinvent-netflix-ec2-tuning.html) <br>
+[Write-Behind Logging](http://www.vldb.org/pvldb/vol10/p337-arulraj.pdf) <br>
 
 # TLS/SSL verification #
 [Sonar](https://sonarwhal.com/) <br>
@@ -322,6 +323,8 @@ Online solutions: <br>
 [CppCon 2017](https://www.youtube.com/playlist?list=PLHTh1InhhwT6bwIpRk0ZbCA0N2p1taxd6) <br>
 [@Scale 2017](https://atscaleconference.com/videos-articles/) <br>
 [Strange Loop 2017](https://www.youtube.com/channel/UC_QIfHvN9auy2CoOdSfMWDw) <br>
+[FOSDEM 2018](https://www.youtube.com/user/fosdemtalks/videos) <br>
+[Computer Architecture course taught at ETH Zürich in Fall 2017](https://www.youtube.com/playlist?list=PL5Q2soXY2Zi9OhoVQBXYFIZywZXCPl4M_) <br>
 
 # Tools #
 [htop](https://github.com/hishamhm/htop) <br>
