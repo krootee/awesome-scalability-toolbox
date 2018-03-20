@@ -130,6 +130,8 @@
 
 # Infrastructure information management #
 [Osquery (Facebook)](https://osquery.io/) <br>
+[Kolide Fleet (osquery)](http://www.kolide.co/fleet) <br>
+[Doorman (osquery)](https://github.com/mwielgoszewski/doorman) <br>
 [OSSEC](https://ossec.github.io/) <br>
 
 # Distributed request tracing #
