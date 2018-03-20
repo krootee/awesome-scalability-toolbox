@@ -78,6 +78,9 @@
 [Kubespray (cluster setup)](https://kubespray.io/) <br>
 [Kubeadm (cluster setup)](https://github.com/kubernetes/kubeadm) <br>
 [kops (cluster setup)](https://github.com/kubernetes/kops) <br>
+[kubectx & kubens (switch clusters and namespaces](https://github.com/ahmetb/kubectx) <br>
+[kube-ps1 (prompt info)](https://github.com/jonmosco/kube-ps1) <br>
+[stern (pod and container tailing)](https://github.com/wercker/stern) <br>
 [KubeGPU (Microsoft)](https://github.com/Microsoft/KubeGPU) <br>
 [Skaffold](https://github.com/GoogleCloudPlatform/skaffold) <br>
 [Telepresence (fast dev environments)](https://www.telepresence.io/) <br>
