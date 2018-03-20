@@ -261,6 +261,7 @@ Online solutions: <br>
 [DNS zone visualization](http://dnsviz.net/) <br>
 [How Netflix Tunes EC2](http://www.brendangregg.com/blog/2017-12-31/reinvent-netflix-ec2-tuning.html) <br>
 [Write-Behind Logging](http://www.vldb.org/pvldb/vol10/p337-arulraj.pdf) <br>
+[Cache-Oblivious Algorithms and Data Structures](http://erikdemaine.org/papers/BRICS2002/paper.pdf) <br>
 
 # TLS/SSL verification #
 [Sonar](https://sonarwhal.com/) <br>
