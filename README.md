@@ -228,6 +228,7 @@ Online solutions: <br>
 [FD.io](https://fd.io/) <br>
 [RIPE NCC network information](https://atlas.ripe.net/) <br>
 [JLS2009: Generic receive offload](https://lwn.net/Articles/358910/) <br>
+[High-Speed Trading: Lines, Radios, and Cables – Oh My](https://tabbforum.com/opinions/high-speed-trading-lines-radios-and-cables-oh-my) <br>
 
 # SRE (Site Reliability Engineering)
 [Google Site Reliability Engineering book](https://landing.google.com/sre/book.html) <br>
