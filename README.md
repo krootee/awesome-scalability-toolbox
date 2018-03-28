@@ -81,6 +81,7 @@
 [kubectx & kubens (switch clusters and namespaces](https://github.com/ahmetb/kubectx) <br>
 [kube-ps1 (prompt info)](https://github.com/jonmosco/kube-ps1) <br>
 [stern (pod and container tailing)](https://github.com/wercker/stern) <br>
+[click (cli controller)](https://github.com/databricks/click) <br>
 [KubeGPU (Microsoft)](https://github.com/Microsoft/KubeGPU) <br>
 [Skaffold](https://github.com/GoogleCloudPlatform/skaffold) <br>
 [Telepresence (fast dev environments)](https://www.telepresence.io/) <br>
