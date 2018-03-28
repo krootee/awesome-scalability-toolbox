@@ -127,6 +127,7 @@
 [okmeter](https://okmeter.io) <br>
 [Datadog](https://www.datadoghq.com/) <br>
 [TimescaleDB](https://github.com/timescale/timescaledb) <br>
+[KairosDB](https://kairosdb.github.io/) <br>
 [Zabbix](https://www.zabbix.com/) <br>
 [PagerDuty](https://www.pagerduty.com/) <br>
 [NewRelic](https://newrelic.com/) <br>
