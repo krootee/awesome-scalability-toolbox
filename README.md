@@ -77,6 +77,10 @@
 [SysDig (monitoring)](https://github.com/draios/sysdig) <br>
 
 # Kubernetes #
+[Kompose (Docker Compose to k8s)](http://kompose.io/) <br>
+[jsonnet](http://jsonnet.org/) <br>
+[ksonnet](https://ksonnet.io/) <br>
+[kubecfg](https://github.com/ksonnet/kubecfg) <br>
 [Kubespray (cluster setup)](https://kubespray.io/) <br>
 [Kubeadm (cluster setup)](https://github.com/kubernetes/kubeadm) <br>
 [kops (cluster setup)](https://github.com/kubernetes/kops) <br>
