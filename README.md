@@ -91,6 +91,7 @@
 [prow (Github hooks)](https://github.com/kubernetes/test-infra/tree/master/prow) <br>
 [KubeGPU (Microsoft)](https://github.com/Microsoft/KubeGPU) <br>
 [Skaffold](https://github.com/GoogleCloudPlatform/skaffold) <br>
+[K8s management tools](https://docs.google.com/spreadsheets/u/1/d/1FCgqz1Ci7_VCz_wdh8vBitZ3giBtac_H8SBw4uxnrsE/htmlview#gid=0) <br>
 [Telepresence (fast dev environments)](https://www.telepresence.io/) <br>
 [Squash microservice debugger](https://github.com/solo-io/squash) <br>
 [AWS VPC Kubernetes CNI driver using IPvlan](https://github.com/lyft/cni-ipvlan-vpc-k8s) <br>
