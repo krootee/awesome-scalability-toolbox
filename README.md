@@ -32,6 +32,8 @@
 # Service mesh #
 [Envoy L3/4/7 proxy (Lyft/Google, C++)](https://www.envoyproxy.io/) <br>
 [Envoy introduction](https://www.youtube.com/watch?v=RVZX4CwKhGE) <br>
+[Learn Envoy](https://www.learnenvoy.io/) <br>
+[Envoy Java control plane](https://github.com/envoyproxy/java-control-plane) <br>
 [Istio service mesh controller](https://istio.io/) <br>
 [Istio introduction](https://www.youtube.com/watch?v=s4qasWn_mFc) <br>
 [linkerd L5 proxy (Finagle based, JVM)](https://linkerd.io/) <br>
