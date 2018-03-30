@@ -337,6 +337,7 @@ Online solutions: <br>
 [Strange Loop 2017](https://www.youtube.com/channel/UC_QIfHvN9auy2CoOdSfMWDw) <br>
 [FOSDEM 2018](https://www.youtube.com/user/fosdemtalks/videos) <br>
 [Computer Architecture course taught at ETH Zürich in Fall 2017](https://www.youtube.com/playlist?list=PL5Q2soXY2Zi9OhoVQBXYFIZywZXCPl4M_) <br>
+[GrafanaCon 2018](https://www.youtube.com/playlist?list=PLDGkOdUX1UjpXR6BexaDoOIc0ksE2MzFI) <br>
 
 # Tools #
 [htop](https://github.com/hishamhm/htop) <br>
