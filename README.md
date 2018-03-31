@@ -123,6 +123,7 @@
 # Service monitoring, metrics collection / graphing #
 [OpenCensus](http://opencensus.io/) <br>
 [Grafana](https://grafana.com/) <br>
+[Grafonnet-lib (generate dashboards for Grafana)](https://github.com/grafana/grafonnet-lib) <br>
 [Graphite](https://graphiteapp.org/) <br>
 [Prometheus](https://prometheus.io/) <br>
 [Node Exporter - machine metrics (Prometheus)](https://github.com/prometheus/node_exporter) <br>
