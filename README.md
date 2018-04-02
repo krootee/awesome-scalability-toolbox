@@ -275,6 +275,7 @@ Online solutions: <br>
 [Write-Behind Logging](http://www.vldb.org/pvldb/vol10/p337-arulraj.pdf) <br>
 [Cache-Oblivious Algorithms and Data Structures](http://erikdemaine.org/papers/BRICS2002/paper.pdf) <br>
 [Oracle Graal (Hotspot replacement)](https://github.com/oracle/graal) <br>
+[Understanding How Graal Works - a Java JIT Compiler Written in Java](http://chrisseaton.com/truffleruby/jokerconf17/) <br>
 
 # TLS/SSL verification #
 [Sonar](https://sonarwhal.com/) <br>
