@@ -249,6 +249,8 @@ Online solutions: <br>
 [Stratum](https://stratumproject.org/) <br>
 [p4](https://p4.org/) <br>
 [p4 Runtime](https://p4.org/p4-runtime/) <br>
+[OpenFlow](https://www.opennetworking.org/software-defined-standards/specifications/) <br>
+[SAI (Switch Abstraction Interface)](https://github.com/opencomputeproject/SAI) <br>
 
 # SRE (Site Reliability Engineering)
 [Google Site Reliability Engineering book](https://landing.google.com/sre/book.html) <br>
