@@ -235,6 +235,8 @@ Online solutions: <br>
 [Introduction to modern network load balancing and proxying (Envoy)](https://blog.envoyproxy.io/introduction-to-modern-network-load-balancing-and-proxying-a57f6ff80236) <br>
 [BGP in 2017](http://www.potaroo.net/ispcol/2018-01/bgp2017.html) <br>
 [CoreDNS](https://github.com/coredns/coredns) <br>
+[Knot DNS](https://gitlab.labs.nic.cz/knot/knot-dns) <br>
+[Knot Resolver](https://gitlab.labs.nic.cz/knot/knot-resolver) <br>
 [Maglev: A Fast and Reliable Software Network Load Balancer](https://research.google.com/pubs/pub44824.html) <br>
 [MaxMind GeoIP databases](https://dev.maxmind.com/geoip/geoip2/downloadable/) <br>
 [IPVS](http://www.linuxvirtualserver.org/software/ipvs.html) <br>
