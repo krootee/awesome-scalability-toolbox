@@ -279,7 +279,7 @@ Online solutions: <br>
 [Oracle Graal (Hotspot replacement)](https://github.com/oracle/graal) <br>
 [Understanding How Graal Works - a Java JIT Compiler Written in Java](http://chrisseaton.com/truffleruby/jokerconf17/) <br>
 
-# TLS/SSL verification #
+# TLS/SSL #
 [Sonar](https://sonarwhal.com/) <br>
 [TLS information](https://istlsfastyet.com/) <br>
 [Mutuals TLS (mTLS)](https://www.codeproject.com/Articles/326574/An-Introduction-to-Mutual-SSL-Authentication) <br>
@@ -293,6 +293,7 @@ Online solutions: <br>
 [SRI hash generator](https://www.srihash.org/) <br>
 [Client side TLS test](https://www.howsmyssl.com/) <br>
 [DNS CAA helper](https://sslmate.com/caa/) <br>
+[DNS over TLS](https://tools.ietf.org/html/rfc7858) <br>
 
 # Authorization #
 [The OAuth 2.0 Authorization Framework](https://tools.ietf.org/html/rfc6749) <br>
