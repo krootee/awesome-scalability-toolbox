@@ -60,6 +60,8 @@
 # Distributed consensus management, service discovery and configuration #
 [Raft protocol](https://raft.github.io/) <br>
 [Paxos protocol](https://en.wikipedia.org/wiki/Paxos_(computer_science)) <br>
+[Paxos made simple](https://lamport.azurewebsites.net/pubs/paxos-simple.pdf) <br>
+[Paxos Made Live - An Engineering Perspective](http://www.read.seas.harvard.edu/~kohler/class/08w-dsi/chandra07paxos.pdf) <br>
 [Consul](https://www.consul.io/) <br>
 [etcd](https://coreos.com/etcd/) <br>
 [Vault](https://www.vaultproject.io/) <br>
