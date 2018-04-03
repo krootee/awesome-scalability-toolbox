@@ -247,6 +247,8 @@ Online solutions: <br>
 [JLS2009: Generic receive offload](https://lwn.net/Articles/358910/) <br>
 [High-Speed Trading: Lines, Radios, and Cables – Oh My](https://tabbforum.com/opinions/high-speed-trading-lines-radios-and-cables-oh-my) <br>
 [Solving problem with Nagle's algorithm and delayed ACK using TCP_NODELAY](http://www.stuartcheshire.org/papers/NagleDelayedAck/) <br>
+[IPFS](https://ipfs.io/) <br>
+[S/Kademlia: A Practicable Approach Towards Secure Key-Based Routing](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.68.4986) <br>
 
 # SDN #
 [Stratum](https://stratumproject.org/) <br>
