@@ -78,9 +78,13 @@
 [Weave Scope (monitoring)](https://github.com/weaveworks/scope) <br>
 [SysDig (monitoring)](https://github.com/draios/sysdig) <br>
 
+# Jsonnet #
+[jsonnet](http://jsonnet.org/) <br>
+[Visual Studio Code plugin](https://github.com/heptio/vscode-jsonnet) <br>
+[Style guide (Databricks)](https://github.com/databricks/jsonnet-style-guide) <br>
+
 # Kubernetes #
 [Kompose (Docker Compose to k8s)](http://kompose.io/) <br>
-[jsonnet](http://jsonnet.org/) <br>
 [ksonnet](https://ksonnet.io/) <br>
 [kubecfg](https://github.com/ksonnet/kubecfg) <br>
 [Kubespray (cluster setup)](https://kubespray.io/) <br>
