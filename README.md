@@ -80,6 +80,7 @@
 
 # Jsonnet #
 [jsonnet](http://jsonnet.org/) <br>
+[jsonnet builds](https://github.com/krootee/jsonnet-releases) <br>
 [Visual Studio Code plugin](https://github.com/heptio/vscode-jsonnet) <br>
 [Style guide (Databricks)](https://github.com/databricks/jsonnet-style-guide) <br>
 
