@@ -109,6 +109,7 @@
 [Vault with Kubernetes](https://github.com/Boostport/kubernetes-vault) and [Video on improvements](https://www.youtube.com/watch?v=IulNdGlQR3A) <br>
 [Gitkube](https://gitkube.sh/) <br>
 [Guide to Kubernetes networking (part 1)](https://medium.com/@ApsOps/an-illustrated-guide-to-kubernetes-networking-part-1-d1ede3322727), [Part 2](https://medium.com/@ApsOps/an-illustrated-guide-to-kubernetes-networking-part-2-13fdc6c4e24c) <br>
+[Kubernetes Security - Best Practice Guide](https://github.com/freach/kubernetes-security-best-practice) <br>
 
 # RPC, Communication between system nodes #
 [gRPC](https://grpc.io/) <br>
