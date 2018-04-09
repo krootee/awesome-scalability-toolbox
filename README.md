@@ -373,3 +373,4 @@ Online solutions: <br>
 
 # Misc #
 [High Scalability/Availability/Stability articles list](https://github.com/binhnguyennus/awesome-scalability) <br>
+[Another github repo](https://github.com/rShetty/awesome-distributed-systems) <br>
