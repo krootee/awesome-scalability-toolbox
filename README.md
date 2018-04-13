@@ -255,6 +255,8 @@ Online solutions: <br>
 [Solving problem with Nagle's algorithm and delayed ACK using TCP_NODELAY](http://www.stuartcheshire.org/papers/NagleDelayedAck/) <br>
 [IPFS](https://ipfs.io/) <br>
 [S/Kademlia: A Practicable Approach Towards Secure Key-Based Routing](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.68.4986) <br>
+[Linux AnyIP](https://blog.widodh.nl/2016/04/anyip-bind-a-whole-subnet-to-your-linux-machine/) <br>
+[Listen on all ports for AnyIP range on the server](https://blog.cloudflare.com/how-we-built-spectrum/) <br>
 
 # SDN #
 [Stratum](https://stratumproject.org/) <br>
