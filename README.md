@@ -110,6 +110,8 @@
 [Gitkube](https://gitkube.sh/) <br>
 [Guide to Kubernetes networking (part 1)](https://medium.com/@ApsOps/an-illustrated-guide-to-kubernetes-networking-part-1-d1ede3322727), [Part 2](https://medium.com/@ApsOps/an-illustrated-guide-to-kubernetes-networking-part-2-13fdc6c4e24c) <br>
 [Kubernetes Security - Best Practice Guide](https://github.com/freach/kubernetes-security-best-practice) <br>
+[Weave Scope](https://github.com/weaveworks/scope/) <br>
+[Kubernetic (desktop UI client)](https://kubernetic.com/) <br>
 
 # RPC, Communication between system nodes #
 [gRPC](https://grpc.io/) <br>
