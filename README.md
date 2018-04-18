@@ -237,7 +237,9 @@ Online solutions: <br>
 [SYN packet handling in the wild (Cloudflare)](https://blog.cloudflare.com/syn-packet-handling-in-the-wild/) <br>
 [How TCP backlog works in Linux](https://veithen.github.io/2014/01/01/how-tcp-backlog-works-in-linux.html) <br>
 [Understanding TCP close states](https://benohead.com/tcp-about-fin_wait_2-time_wait-and-close_wait/) <br>
+[Bind before connect](https://idea.popcount.org/2014-04-03-bind-before-connect/) <br>
 [SYNC Cookies](https://www.giac.org/paper/gsec/2013/syn-cookies-exploration/103486) <br>
+[On SO_REUSEADDR and SO_REUSEPORT](https://stackoverflow.com/questions/14388706/socket-options-so-reuseaddr-and-so-reuseport-how-do-they-differ-do-they-mean-t/14388707#14388707) <br>
 [Monitoring and Tuning the Linux Networking Stack: Receiving Data](https://blog.packagecloud.io/eng/2016/06/22/monitoring-tuning-linux-networking-stack-receiving-data/) <br>
 [Monitoring and Tuning the Linux Networking Stack: Sending Data](https://blog.packagecloud.io/eng/2017/02/06/monitoring-tuning-linux-networking-stack-sending-data/) <br>
 [MIT's TCP ex Machina: Computer-Generated Congestion Control](http://web.mit.edu/remy/) <br>
