@@ -104,6 +104,8 @@
 [AWS VPC Kubernetes CNI driver using IPvlan](https://github.com/lyft/cni-ipvlan-vpc-k8s) <br>
 [Helm (package manager)](https://helm.sh/) <br>
 [Kedge (Simple, Concise & Declarative Kubernetes Applications)](http://kedgeproject.org/) <br>
+[Contour (Ingress controller using Envoy)](https://github.com/heptio/contour) <br>
+[Gimbal (Ingress load balancer to many clusters)](https://github.com/heptio/gimbal) <br>
 [Cilium](https://github.com/cilium/cilium) <br>
 [Calico](https://www.projectcalico.org) <br>
 [Vault with Kubernetes](https://github.com/Boostport/kubernetes-vault) and [Video on improvements](https://www.youtube.com/watch?v=IulNdGlQR3A) <br>
