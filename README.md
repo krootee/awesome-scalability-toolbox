@@ -259,7 +259,7 @@ Online solutions: <br>
 [MaxMind GeoIP databases](https://dev.maxmind.com/geoip/geoip2/downloadable/) <br>
 [IPVS](http://www.linuxvirtualserver.org/software/ipvs.html) <br>
 [Open vSwitch](http://www.openvswitch.org/) <br>
-[kTLS in Linux (TLS in kernel space 4.13+)](https://github.com/ktls) and [Intro in Go](https://blog.filippo.io/playing-with-kernel-tls-in-linux-4-13-and-go/)<br>
+[kTLS in Linux (TLS in kernel space 4.13+)](https://github.com/ktls), [white paper](https://netdevconf.org/1.2/papers/ktls.pdf) and [Intro in Go](https://blog.filippo.io/playing-with-kernel-tls-in-linux-4-13-and-go/)<br>
 [DPDK](http://dpdk.org/) <br>
 [FD.io](https://fd.io/) <br>
 [RIPE NCC network information](https://atlas.ripe.net/) <br>
