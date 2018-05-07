@@ -235,6 +235,7 @@ Online solutions: <br>
 
 # Networking #
 [BPF and friends (Brendan Gregg)](http://brendangregg.com/) <br>
+[XDP](https://www.iovisor.org/technology/xdp) <br>
 [BPFd (remote BPF by Google)](https://github.com/joelagnel/bpfd) <br>
 [BCC (Tools for BPF-based Linux IO analysis, networking, monitoring, and more)](https://github.com/iovisor/bcc) <br>
 [How to achieve low latency with 10Gbps Ethernet (Cloudflare)](https://blog.cloudflare.com/how-to-achieve-low-latency/) <br>
