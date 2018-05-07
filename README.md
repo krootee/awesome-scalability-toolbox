@@ -56,6 +56,7 @@
 [CockroachDB](https://www.cockroachlabs.com/) <br>
 [Aerospike](http://www.aerospike.com/) <br>
 [OrientDB (graph)](https://orientdb.com/) <br>
+[Database isolation levels](https://en.wikipedia.org/wiki/Isolation_(database_systems)) <br>
 
 # Distributed consensus management, service discovery and configuration #
 [Raft protocol](https://raft.github.io/) <br>
