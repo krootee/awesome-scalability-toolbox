@@ -11,7 +11,6 @@
 [Kafka](https://kafka.apache.org/) <br>
 [RabbitMQ](https://www.rabbitmq.com/) <br>
 [ActiveMQ](http://activemq.apache.org/) <br>
-[NATS](https://nats.io/) <br>
 [ZeroMQ](http://zeromq.org/) <br>
 [nanomsg](http://nanomsg.org/) <br>
 [phxqueue (from Tencent)](https://github.com/Tencent/phxqueue) <br>
@@ -234,6 +233,8 @@ Online solutions: <br>
 [Analyze AWS S3 and CloudFront logs](https://github.com/nagyv/s3stat) + [GoAccess](https://goaccess.io/) <br>
 
 # Networking #
+[BPF and friends (Brendan Gregg)](http://brendangregg.com/) <br>
+[BPFd (remote BPF by Google)](https://github.com/joelagnel/bpfd) <br>
 [BCC (Tools for BPF-based Linux IO analysis, networking, monitoring, and more)](https://github.com/iovisor/bcc) <br>
 [How to achieve low latency with 10Gbps Ethernet (Cloudflare)](https://blog.cloudflare.com/how-to-achieve-low-latency/) <br>
 [BBR, the new kid on the TCP block](https://blog.apnic.net/2017/05/09/bbr-new-kid-tcp-block/) <br>
@@ -256,6 +257,7 @@ Online solutions: <br>
 [MaxMind GeoIP databases](https://dev.maxmind.com/geoip/geoip2/downloadable/) <br>
 [IPVS](http://www.linuxvirtualserver.org/software/ipvs.html) <br>
 [Open vSwitch](http://www.openvswitch.org/) <br>
+[kTLS in Linux (TLS in kernel space 4.13+)](https://github.com/ktls) and [Intro in Go](https://blog.filippo.io/playing-with-kernel-tls-in-linux-4-13-and-go/)<br>
 [DPDK](http://dpdk.org/) <br>
 [FD.io](https://fd.io/) <br>
 [RIPE NCC network information](https://atlas.ripe.net/) <br>
