@@ -360,6 +360,7 @@ Online solutions: <br>
 [Authenticated Encryption: Relations among notions and analysis of the generic composition paradigm](http://cseweb.ucsd.edu/~mihir/papers/oem.html) <br>
 [How to choose an Authenticated Encryption mode](https://blog.cryptographyengineering.com/2012/05/19/how-to-choose-authenticated-encryption/) <br>
 [Awesome cryptography repository](https://github.com/sobolevn/awesome-cryptography) <br>
+[Mind Your Keys? A Security Evaluation of Java Keystores](http://wp.internetsociety.org/ndss/wp-content/uploads/sites/25/2018/02/ndss2018_02B-1_Focardi_paper.pdf) <br>
 [Hash-based message authentication code](https://en.wikipedia.org/wiki/Hash-based_message_authentication_code) <br>
 [Authenticated Encryption with Associated Data (AEAD)](https://en.wikipedia.org/wiki/Authenticated_encryption) <br>
 [AES-GCM (AEAD)](https://tools.ietf.org/html/rfc5288) <br>
