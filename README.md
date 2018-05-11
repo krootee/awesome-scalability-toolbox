@@ -135,7 +135,6 @@
 [gRPC-Web client](https://github.com/improbable-eng/grpc-web/) <br>
 
 # Service monitoring, metrics collection / graphing #
-[OpenCensus](http://opencensus.io/) <br>
 [Grafana](https://grafana.com/) <br>
 [Grafonnet-lib (generate dashboards for Grafana)](https://github.com/grafana/grafonnet-lib) <br>
 [Graphite](https://graphiteapp.org/) <br>
@@ -166,6 +165,8 @@
 [Dapper, a Large-Scale Distributed Systems Tracing Infrastructure (Google)](https://research.google.com/pubs/pub36356.html) <br>
 [OpenTracing standard](http://opentracing.io/) <br>
 [OpenTracing and Jaeger introduction](https://www.youtube.com/watch?v=fjYAU3jayVo) <br>
+[OpenCensus (Google, tracing and stats)](http://opencensus.io/) <br>
+[TraceContext propagation format](https://github.com/w3c/distributed-tracing) <br>
 [Jaeger (Uber)](https://uber.github.io/jaeger/) <br>
 [Zipkin](http://zipkin.io/) <br>
 [Lightstep](https://lightstep.com) <br>
