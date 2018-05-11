@@ -327,6 +327,7 @@ Online solutions: <br>
 [TLS information](https://istlsfastyet.com/) <br>
 [Mutuals TLS (mTLS)](https://www.codeproject.com/Articles/326574/An-Introduction-to-Mutual-SSL-Authentication) <br>
 [Mozilla server side TLS information](https://wiki.mozilla.org/Security/Server_Side_TLS) <br>
+[testssl.sh](https://github.com/drwetter/testssl.sh) <br>
 [Mozilla Observatory](https://observatory.mozilla.org/) <br>
 [HTTP security headers testing](https://securityheaders.io/) <br>
 [SSL testing](https://www.ssllabs.com/ssltest) <br>
