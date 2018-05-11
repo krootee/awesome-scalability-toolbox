@@ -219,6 +219,7 @@ Online solutions: <br>
 # CI (Continuous Integration) #
 [TeamCity](https://www.jetbrains.com/teamcity) <br>
 [Jenkins](https://jenkins.io) <br>
+[Jenkins X (for k8s apps)](https://jenkins-x.io/) <br>
 [Concourse](https://concourse.ci) <br>
 
 # CDNs #
