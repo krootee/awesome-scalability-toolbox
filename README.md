@@ -330,7 +330,7 @@ Online solutions: <br>
 [testssl.sh](https://github.com/drwetter/testssl.sh) <br>
 [Mozilla Observatory](https://observatory.mozilla.org/) <br>
 [HTTP security headers testing](https://securityheaders.io/) <br>
-[SSL testing](https://www.ssllabs.com/ssltest) <br>
+[Qualys SSL tests](https://www.ssllabs.com/ssltest) <br>
 [High-Tech Bridge SSL test](https://www.htbridge.com/ssl/) <br>
 [HTTP security tools](https://report-uri.io/home/tools) <br>
 [HSTS preloading](https://hstspreload.org) <br>
