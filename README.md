@@ -368,8 +368,9 @@ Online solutions: <br>
 [AES-GCM-SIV](https://github.com/Shay-Gueron/AES-GCM-SIV) <br>
 [GCM blockcipher mode](https://en.wikipedia.org/wiki/Galois/Counter_Mode) <br>
 [OCB blockcipher mode](http://web.cs.ucdavis.edu/~rogaway/ocb/) <br>
+[ChaCha20 design (stream)](http://loup-vaillant.fr/tutorials/chacha20-design) <br>
+[Poly1305 (MAC)](https://cr.yp.to/mac.html) <br>
 [ChaCha20 and Poly1305 (AEAD)](https://tools.ietf.org/html/rfc7539) <br>
-[ChaCha20 design](http://loup-vaillant.fr/tutorials/chacha20-design) <br>
 [Understanding RSA terms](https://security.stackexchange.com/questions/68822/trying-to-understand-rsa-and-its-terminology/68836#68836) <br>
 [Elliptic curve introduction](https://www.imperialviolet.org/2010/12/04/ecc.html) <br>
 [Elliptic Curve Cryptography: a gentle introduction](http://andrea.corbellini.name/2015/05/17/elliptic-curve-cryptography-a-gentle-introduction/) <br>
