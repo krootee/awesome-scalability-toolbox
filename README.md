@@ -276,6 +276,7 @@ Online solutions: <br>
 [Listen on all ports for AnyIP range on the server](https://blog.cloudflare.com/how-we-built-spectrum/) <br>
 [TCP Tracepoints (Linux 4.15/6+)](http://www.brendangregg.com/blog/2018-03-22/tcp-tracepoints.html) <br>
 [Kernel Connection Multiplexor (KCM)](https://lwn.net/Articles/657970/) and [more details](https://lwn.net/Articles/657999/) <br>
+[Blocking-resistant communication through domain fronting](https://www.bamsoftware.com/papers/fronting/) <br>
 
 # SDN #
 [Stratum](https://stratumproject.org/) <br>
