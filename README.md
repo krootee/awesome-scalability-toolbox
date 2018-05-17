@@ -117,6 +117,7 @@
 [Kubernetes Security - Best Practice Guide](https://github.com/freach/kubernetes-security-best-practice) <br>
 [Weave Scope](https://github.com/weaveworks/scope/) <br>
 [Kubernetic (desktop UI client)](https://kubernetic.com/) <br>
+[50 Useful Kubernetes Tools](https://caylent.com/50-useful-kubernetes-tools/) <br>
 
 # RPC, Communication between system nodes #
 [gRPC](https://grpc.io/) <br>
