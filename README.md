@@ -72,6 +72,7 @@
 
 # Containers #
 [Docker](https://www.docker.com/) <br>
+[Awesome Docker list](https://github.com/veggiemonk/awesome-docker) <br>
 [Kubernetes](https://kubernetes.io/) <br>
 [Container Network Interface](https://github.com/containernetworking/cni) <br>
 [Mesosphere](https://mesosphere.com/) <br>
