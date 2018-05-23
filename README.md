@@ -28,6 +28,7 @@
 [Træfik](https://traefik.io/) <br>
 [Tarantool (mail.ru)](https://tarantool.org/) <br>
 [lightttpd](https://www.lighttpd.net/) <br>
+[katran (bpf based L4 load balancer, Facebook)](https://github.com/facebookincubator/katran) <br>
 
 # Service mesh #
 [Envoy L3/4/7 proxy (Lyft/Google, C++)](https://www.envoyproxy.io/) <br>
