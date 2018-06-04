@@ -60,6 +60,7 @@
 [Aerospike](http://www.aerospike.com/) <br>
 [OrientDB (graph)](https://orientdb.com/) <br>
 [Database isolation levels](https://en.wikipedia.org/wiki/Isolation_(database_systems)) <br>
+[The Log-Structured Merge-Tree (LSM-Tree) whitepaper](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.44.2782&rep=rep1&type=pdf) <br>
 
 # Distributed consensus management, service discovery and configuration #
 [Raft protocol](https://raft.github.io/) <br>
