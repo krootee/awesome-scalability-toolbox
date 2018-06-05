@@ -235,6 +235,7 @@ Online solutions: <br>
 [Fastly](https://www.fastly.com/) <br>
 [Level3](http://www.level3.com/en/products/content-delivery-network/) <br>
 [Edgecast](https://www.verizondigitalmedia.com/) <br>
+[Traffic Control (Self-hosted CDN)](https://trafficcontrol.apache.org/) <br>
 
 # AWS #
 [awscli](https://aws.amazon.com/cli/) <br>
