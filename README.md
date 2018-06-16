@@ -330,7 +330,7 @@ Online solutions: <br>
 [Understanding How Graal Works - a Java JIT Compiler Written in Java](http://chrisseaton.com/truffleruby/jokerconf17/) <br>
 [Understanding disk usage in Linux](https://ownyourbits.com/2018/05/02/understanding-disk-usage-in-linux/) <br>
 [On time and UTC](https://zachholman.com/talk/utc-is-enough-for-everyone-right) <br>
-[Memcached with NVMe](https://memcached.org/blog/nvm-caching/), [Using NVM in Facebook (RocksDB)](https://dl.acm.org/citation.cfm?id=3190524) <br>
+[Memcached with NVMe](https://memcached.org/blog/nvm-caching/), [Using NVM in Facebook (RocksDB)](https://dl.acm.org/citation.cfm?id=3190524), [ScyllaDB with Optane](https://www.scylladb.com/2017/08/08/intel-optane-review/) <br>
 
 # TLS/SSL #
 [Sonar](https://sonarwhal.com/) <br>
