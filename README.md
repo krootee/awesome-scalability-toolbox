@@ -90,6 +90,7 @@
 [jsonnet](http://jsonnet.org/) <br>
 [jsonnet builds](https://github.com/krootee/jsonnet-releases) <br>
 [Visual Studio Code plugin](https://github.com/heptio/vscode-jsonnet) <br>
+[IntelliJ plugin (alpha)](https://github.com/databricks/intellij-jsonnet) <br>
 [Style guide (Databricks)](https://github.com/databricks/jsonnet-style-guide) <br>
 
 # Kubernetes #
@@ -126,6 +127,7 @@
 
 # RPC, Communication between system nodes #
 [gRPC](https://grpc.io/) <br>
+[Dubbo (China version of gRPC)](https://dubbo.apache.org) <br>
 [Protocol Buffers](https://developers.google.com/protocol-buffers/) <br>
 [Thrift](https://thrift.apache.org/) <br>
 [Cap'n Proto](https://capnproto.org/) <br>
