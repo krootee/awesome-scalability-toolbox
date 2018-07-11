@@ -335,6 +335,10 @@ Online solutions: <br>
 [On time and UTC](https://zachholman.com/talk/utc-is-enough-for-everyone-right) <br>
 [Memcached with NVMe](https://memcached.org/blog/nvm-caching/), [Using NVM in Facebook (RocksDB)](https://dl.acm.org/citation.cfm?id=3190524), [ScyllaDB with Optane](https://www.scylladb.com/2017/08/08/intel-optane-review/) <br>
 
+# Disk storage #
+[libzbc (direct disk access)](https://github.com/hgst/libzbc) <br>
+[SMR drives at Dropbox](https://blogs.dropbox.com/tech/2018/06/extending-magic-pocket-innovation-with-the-first-petabyte-scale-smr-drive-deployment/) <br>
+
 # TLS/SSL #
 [Sonar](https://sonarwhal.com/) <br>
 [TLS information](https://istlsfastyet.com/) <br>
