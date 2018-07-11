@@ -287,6 +287,7 @@ Online solutions: <br>
 [TCP Tracepoints (Linux 4.15/6+)](http://www.brendangregg.com/blog/2018-03-22/tcp-tracepoints.html) <br>
 [Kernel Connection Multiplexor (KCM)](https://lwn.net/Articles/657970/) and [more details](https://lwn.net/Articles/657999/) <br>
 [Blocking-resistant communication through domain fronting](https://www.bamsoftware.com/papers/fronting/) <br>
+[Anatomy of Linux DNS lookup](https://zwischenzugs.com/2018/06/08/anatomy-of-a-linux-dns-lookup-part-i/), [part 2](https://zwischenzugs.com/2018/06/18/anatomy-of-a-linux-dns-lookup-part-ii/), [part 3](https://zwischenzugs.com/2018/07/06/anatomy-of-a-linux-dns-lookup-part-iii/) <br>
 
 # SDN #
 [Stratum](https://stratumproject.org/) <br>
