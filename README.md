@@ -303,6 +303,7 @@ Online solutions: <br>
 [Google Site Reliability Engineering book](https://landing.google.com/sre/book.html) <br>
 [High Performance Browser Networking book](https://hpbn.co/) <br>
 [The Docker Book](https://www.dockerbook.com/) <br>
+[Site Reliability Engineer HandBook](https://s905060.gitbooks.io/site-reliability-engineer-handbook/) <br>
 [Linux Performance tools and materials](http://www.brendangregg.com/linuxperf.html) <br>
 [U2F devices review](https://github.com/hillbrad/U2FReviews) <br>
 [A self-service CA for OpenSSH](https://github.com/nsheridan/cashier) <br>
