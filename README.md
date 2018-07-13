@@ -289,6 +289,7 @@ Online solutions: <br>
 [Blocking-resistant communication through domain fronting](https://www.bamsoftware.com/papers/fronting/) <br>
 [Anatomy of Linux DNS lookup](https://zwischenzugs.com/2018/06/08/anatomy-of-a-linux-dns-lookup-part-i/), [part 2](https://zwischenzugs.com/2018/06/18/anatomy-of-a-linux-dns-lookup-part-ii/), [part 3](https://zwischenzugs.com/2018/07/06/anatomy-of-a-linux-dns-lookup-part-iii/) <br>
 [Equal-cost multi-path routing (ECMP)](https://en.wikipedia.org/wiki/Equal-cost_multi-path_routing) <br>
+[How LinkedIn used TCP Anycast to make the site faster](https://www.slideshare.net/shawnzandi/how-linkedin-used-tcp-anycast-to-make-the-site-faster) <br>
 
 # SDN #
 [Stratum](https://stratumproject.org/) <br>
