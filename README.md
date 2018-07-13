@@ -28,7 +28,7 @@
 [Træfik](https://traefik.io/) <br>
 [Tarantool (mail.ru)](https://tarantool.org/) <br>
 [lightttpd](https://www.lighttpd.net/) <br>
-[katran (bpf based L4 load balancer, Facebook)](https://github.com/facebookincubator/katran) <br>
+[katran (BPF/XDP L4 load balancer, Facebook)](https://github.com/facebookincubator/katran) <br>
 
 # Service mesh #
 [Envoy L3/4/7 proxy (Lyft/Google, C++)](https://www.envoyproxy.io/) <br>
@@ -403,16 +403,17 @@ Online solutions: <br>
 [MurmurHash3](https://github.com/aappleby/smhasher) <br>
 [Dieharder: A Random Number Test Suite](http://webhome.phy.duke.edu/~rgb/General/dieharder.php) <br>
 
-# Videos #
-[Kafka 2017 Summit](https://www.confluent.io/kafka-summit-sf17/resource/) <br>
-[CppCon 2017](https://www.youtube.com/playlist?list=PLHTh1InhhwT6bwIpRk0ZbCA0N2p1taxd6) <br>
-[@Scale 2017](https://atscaleconference.com/videos-articles/) <br>
-[Strange Loop 2017](https://www.youtube.com/channel/UC_QIfHvN9auy2CoOdSfMWDw) <br>
-[FOSDEM 2018](https://www.youtube.com/user/fosdemtalks/videos) <br>
-[Computer Architecture course taught at ETH Zürich in Fall 2017](https://www.youtube.com/playlist?list=PL5Q2soXY2Zi9OhoVQBXYFIZywZXCPl4M_) <br>
-[GrafanaCon 2018](https://www.youtube.com/playlist?list=PLDGkOdUX1UjpXR6BexaDoOIc0ksE2MzFI) <br>
-[SREcon 2018](https://www.youtube.com/playlist?list=PLbRoZ5Rrl5lcszsvhnb4P9Ds4pSmVtkfp) <br>
-[KubeCon + CloudNativeCon 2018](https://www.youtube.com/playlist?list=PLj6h78yzYM2N8GdbjmhVU65KYm_68qBmo) <br>
+## Videos
+- [Kafka 2017 Summit](https://www.confluent.io/kafka-summit-sf17/resource/) <br>
+- [CppCon 2017](https://www.youtube.com/playlist?list=PLHTh1InhhwT6bwIpRk0ZbCA0N2p1taxd6) <br>
+- [@Scale 2017](https://atscaleconference.com/videos-articles/) <br>
+- [Strange Loop 2017](https://www.youtube.com/channel/UC_QIfHvN9auy2CoOdSfMWDw) <br>
+- [FOSDEM 2018](https://www.youtube.com/user/fosdemtalks/videos) <br>
+- [Computer Architecture course taught at ETH Zürich in Fall 2017](https://www.youtube.com/playlist?list=PL5Q2soXY2Zi9OhoVQBXYFIZywZXCPl4M_) <br>
+- [GrafanaCon 2018](https://www.youtube.com/playlist?list=PLDGkOdUX1UjpXR6BexaDoOIc0ksE2MzFI) <br>
+- [SREcon 2018](https://www.youtube.com/playlist?list=PLbRoZ5Rrl5lcszsvhnb4P9Ds4pSmVtkfp) <br>
+- [KubeCon + CloudNativeCon 2018](https://www.youtube.com/playlist?list=PLj6h78yzYM2N8GdbjmhVU65KYm_68qBmo)
+- [Networking @Scale 2018](https://code.fb.com/core-data/networking-scale-2018-recap/)
 
 # Tools #
 [htop](https://github.com/hishamhm/htop) <br>
