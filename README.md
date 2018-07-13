@@ -42,26 +42,27 @@
 [linkerd introduction](https://www.youtube.com/watch?v=0xYSy6OmjUM) <br>
 [Conduit (Rust, linkerd devs)](https://conduit.io/) <br>
 
-# Structured and unstructured data storage #
-[PostgreSQL](https://www.postgresql.org/) <br>
-[Postgres Pro (PostgreSQL)](https://postgrespro.ru/) <br>
-[JSON in Postgre 10.x, 11.x, PostgreSQL 9.6 vs Mongo 3.4](https://www.youtube.com/watch?v=SNzOZKvFZ68) <br>
-[Why Uber Engineering Switched from Postgres to MySQL](https://eng.uber.com/mysql-migration/) and [Follow up 1](https://www.slideshare.net/AlexanderKorotkov/our-answer-to-uber/), [2](https://blog.2ndquadrant.com/thoughts-on-ubers-list-of-postgres-limitations/), [3](http://thebuild.com/presentations/uber-perconalive-2017.pdf), [4](https://rhaas.blogspot.gr/2016/08/ubers-move-away-from-postgresql.html), [5](https://devconf.ru/ru/archive/devconf2017/offer/314), [6](https://habr.com/company/devconf/blog/353682/), [7](https://use-the-index-luke.com/blog/2016-07-29/on-ubers-choice-of-databases) <br>
-[Redis](https://redis.io/) <br>
-[MySQL](https://www.mysql.com/) <br>
-[RocksDB (InnoDB replacement by Facebook)](http://myrocks.io/) <br>
-[Vitess (MySQL auto horizontal scaling)](http://vitess.io/) <br>
-[MariaDB (MySQL)](https://mariadb.com/) <br>
-[Percona (MySQL)](https://www.percona.com/) <br>
-[MongoDB](https://www.mongodb.com/) <br>
-[Scylla (Cassandra on steroids)](http://www.scylladb.com/) <br>
-[Cassandra](https://cassandra.apache.org/) <br>
-[CockroachDB](https://www.cockroachlabs.com/) <br>
-[Aerospike](http://www.aerospike.com/) <br>
-[OrientDB (graph)](https://orientdb.com/) <br>
-[Database isolation levels](https://en.wikipedia.org/wiki/Isolation_(database_systems)) <br>
-[The Log-Structured Merge-Tree (LSM-Tree) whitepaper](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.44.2782&rep=rep1&type=pdf) <br>
-[B+ tree](https://en.wikipedia.org/wiki/B%2B_tree) <br>
+## Structured and unstructured data storage
+- [PostgreSQL](https://www.postgresql.org/) <br>
+- [Postgres Pro (PostgreSQL)](https://postgrespro.ru/) <br>
+- [JSON in Postgre 10.x, 11.x, PostgreSQL 9.6 vs Mongo 3.4](https://www.youtube.com/watch?v=SNzOZKvFZ68) <br>
+- [Why Uber Engineering Switched from Postgres to MySQL](https://eng.uber.com/mysql-migration/) and [Follow up 1](https://www.slideshare.net/AlexanderKorotkov/our-answer-to-uber/), [2](https://blog.2ndquadrant.com/thoughts-on-ubers-list-of-postgres-limitations/), [3](http://thebuild.com/presentations/uber-perconalive-2017.pdf), [4](https://rhaas.blogspot.gr/2016/08/ubers-move-away-from-postgresql.html), [5](https://devconf.ru/ru/archive/devconf2017/offer/314), [6](https://habr.com/company/devconf/blog/353682/), [7](https://use-the-index-luke.com/blog/2016-07-29/on-ubers-choice-of-databases) <br>
+- [Redis](https://redis.io/) <br>
+- [Memcached](), [extstore storage shim](https://github.com/memcached/memcached/wiki/Extstore), [Caching beyond RAM: the case for NVMe](https://memcached.org/blog/nvm-caching/)
+- [MySQL](https://www.mysql.com/) <br>
+- [RocksDB (InnoDB replacement by Facebook)](http://myrocks.io/), [Using NVM in Facebook (RocksDB)](https://dl.acm.org/citation.cfm?id=3190524)
+- [Vitess (MySQL auto horizontal scaling)](http://vitess.io/) <br>
+- [MariaDB (MySQL)](https://mariadb.com/) <br>
+- [Percona (MySQL)](https://www.percona.com/) <br>
+- [MongoDB](https://www.mongodb.com/) <br>
+- [Scylla (Cassandra on steroids)](http://www.scylladb.com/), [ScyllaDB with Optane](https://www.scylladb.com/2017/08/08/intel-optane-review/)
+- [Cassandra](https://cassandra.apache.org/) <br>
+- [CockroachDB](https://www.cockroachlabs.com/) <br>
+- [Aerospike](http://www.aerospike.com/) <br>
+- [OrientDB (graph)](https://orientdb.com/) <br>
+- [Database isolation levels](https://en.wikipedia.org/wiki/Isolation_(database_systems)) <br>
+- [The Log-Structured Merge-Tree (LSM-Tree) whitepaper](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.44.2782&rep=rep1&type=pdf) <br>
+- [B+ tree](https://en.wikipedia.org/wiki/B%2B_tree) <br>
 
 # Distributed consensus management, service discovery and configuration #
 [Raft protocol](https://raft.github.io/) <br>
@@ -337,7 +338,6 @@ Online solutions: <br>
 [Understanding How Graal Works - a Java JIT Compiler Written in Java](http://chrisseaton.com/truffleruby/jokerconf17/) <br>
 [Understanding disk usage in Linux](https://ownyourbits.com/2018/05/02/understanding-disk-usage-in-linux/) <br>
 [On time and UTC](https://zachholman.com/talk/utc-is-enough-for-everyone-right) <br>
-[Memcached with NVMe](https://memcached.org/blog/nvm-caching/), [Using NVM in Facebook (RocksDB)](https://dl.acm.org/citation.cfm?id=3190524), [ScyllaDB with Optane](https://www.scylladb.com/2017/08/08/intel-optane-review/) <br>
 
 # Disk storage #
 [libzbc (direct disk access)](https://github.com/hgst/libzbc) <br>
