@@ -78,17 +78,18 @@
 [Secure Production Identity Framework For Everyone (SPIFFE)](https://github.com/spiffe/spiffe) <br>
 [ZooKeeper](https://zookeeper.apache.org/) <br>
 
-# Containers #
-[Docker](https://www.docker.com/) <br>
-[Awesome Docker list](https://github.com/veggiemonk/awesome-docker) <br>
-[Kubernetes](https://kubernetes.io/) <br>
-[Container Network Interface](https://github.com/containernetworking/cni) <br>
-[Mesosphere](https://mesosphere.com/) <br>
-[Mesos](https://mesos.apache.org/) <br>
-[gVisor (sandbox runtime)](https://github.com/google/gvisor) <br>
-[cAdvisor (container monitoring)](https://github.com/google/cadvisor) <br>
-[Weave Scope (monitoring)](https://github.com/weaveworks/scope) <br>
-[SysDig (monitoring)](https://github.com/draios/sysdig) <br>
+## Containers
+- [Docker](https://www.docker.com/)
+- [Awesome Docker list](https://github.com/veggiemonk/awesome-docker)
+- [docker-autoheal (restart on unhealthy event)](https://github.com/willfarrell/docker-autoheal)
+- [Kubernetes](https://kubernetes.io/)
+- [Container Network Interface](https://github.com/containernetworking/cni)
+- [Mesosphere](https://mesosphere.com/)
+- [Mesos](https://mesos.apache.org/)
+- [gVisor (sandbox runtime)](https://github.com/google/gvisor)
+- [cAdvisor (container monitoring)](https://github.com/google/cadvisor)
+- [Weave Scope (monitoring)](https://github.com/weaveworks/scope)
+- [SysDig (monitoring)](https://github.com/draios/sysdig)
 
 # Jsonnet #
 [jsonnet](http://jsonnet.org/) <br>
