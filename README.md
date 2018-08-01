@@ -244,12 +244,13 @@ Online solutions: <br>
 [Edgecast](https://www.verizondigitalmedia.com/) <br>
 [Traffic Control (Self-hosted CDN)](https://trafficcontrol.apache.org/) <br>
 
-# AWS #
-[awscli](https://aws.amazon.com/cli/) <br>
-[awless](https://github.com/wallix/awless) <br>
-[S3 Browser](https://s3browser.com/) <br>
-[CloudBerry S3 Explorer](https://www.cloudberrylab.com/explorer/amazon-s3.aspx) <br>
-[Analyze AWS S3 and CloudFront logs](https://github.com/nagyv/s3stat) + [GoAccess](https://goaccess.io/) <br>
+## AWS
+- [awscli](https://aws.amazon.com/cli/)
+- [awless](https://github.com/wallix/awless)
+- [S3 Browser](https://s3browser.com/)
+- [CloudBerry S3 Explorer](https://www.cloudberrylab.com/explorer/amazon-s3.aspx)
+- [Analyze S3 speed from your location](https://cloudharmony.com/speedtest-for-aws:s3)
+- [Analyze AWS S3 and CloudFront logs](https://github.com/nagyv/s3stat) + [GoAccess](https://goaccess.io/)
 
 # Networking #
 [BPF and friends (Brendan Gregg)](http://brendangregg.com/) <br>
