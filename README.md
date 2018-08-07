@@ -343,6 +343,7 @@ Online solutions: <br>
 [Understanding How Graal Works - a Java JIT Compiler Written in Java](http://chrisseaton.com/truffleruby/jokerconf17/) <br>
 [Understanding disk usage in Linux](https://ownyourbits.com/2018/05/02/understanding-disk-usage-in-linux/) <br>
 [On time and UTC](https://zachholman.com/talk/utc-is-enough-for-everyone-right) <br>
+[The tail at scale (reducing latency long tail)](https://www2.cs.duke.edu/courses/cps296.4/fall13/838-CloudPapers/dean_longtail.pdf) <br>
 
 # Disk storage #
 [libzbc (direct disk access)](https://github.com/hgst/libzbc) <br>
