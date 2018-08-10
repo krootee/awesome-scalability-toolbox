@@ -252,6 +252,7 @@ Online solutions: <br>
 - [CloudBerry S3 Explorer](https://www.cloudberrylab.com/explorer/amazon-s3.aspx)
 - [Analyze S3 speed from your location](https://cloudharmony.com/speedtest-for-aws:s3)
 - [Analyze AWS S3 and CloudFront logs](https://github.com/nagyv/s3stat) + [GoAccess](https://goaccess.io/)
+- [EC2 instance cheat sheet](https://www.ec2instances.info/)
 
 # Networking #
 [BPF and friends (Brendan Gregg)](http://brendangregg.com/) <br>
