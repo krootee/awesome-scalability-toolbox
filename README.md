@@ -19,16 +19,17 @@
 [HornetQ](http://hornetq.jboss.org/) <br>
 [IronMQ (cloud)](https://www.iron.io/platform/ironmq/) <br>
 
-# Load balancers, reverse proxy, accelerators, web servers #
-[Varnish](https://varnish-cache.org/) <br>
-[HAProxy](http://www.haproxy.org/) <br>
-[nginx](https://www.nginx.com/), [nginx config](https://nginxconfig.io/) <br>
-[OpenResty](https://openresty.org/en/) <br>
-[Tomcat](https://tomcat.apache.org/) <br>
-[Træfik](https://traefik.io/) <br>
-[Tarantool (mail.ru)](https://tarantool.org/) <br>
-[lightttpd](https://www.lighttpd.net/) <br>
-[katran (BPF/XDP L4 load balancer, Facebook)](https://github.com/facebookincubator/katran) <br>
+## Load balancers, reverse proxy, accelerators, web servers
+- [Varnish](https://varnish-cache.org/)
+- [HAProxy](http://www.haproxy.org/)
+- [nginx](https://www.nginx.com/), [nginx config](https://nginxconfig.io/)
+- [OpenResty](https://openresty.org/en/)
+- [Tomcat](https://tomcat.apache.org/)
+- [Træfik](https://traefik.io/)
+- [Tarantool (mail.ru)](https://tarantool.org/)
+- [lightttpd](https://www.lighttpd.net/)
+- [katran (BPF/XDP L4 load balancer, Facebook)](https://github.com/facebookincubator/katran)
+- [GitHub Load Balancer Director (GUE, ECMP, DPDK)](https://github.com/github/glb-director)
 
 ## Service mesh
 - [Envoy L3/4/7 proxy (Lyft/Google, C++)](https://www.envoyproxy.io/)
@@ -423,10 +424,11 @@ Online solutions: <br>
 - [KubeCon + CloudNativeCon 2018](https://www.youtube.com/playlist?list=PLj6h78yzYM2N8GdbjmhVU65KYm_68qBmo)
 - [Networking @Scale 2018](https://code.fb.com/core-data/networking-scale-2018-recap/)
 
-# Tools #
-[htop](https://github.com/hishamhm/htop) <br>
-[gtop](https://github.com/aksakalli/gtop) <br>
-[k6 (load testing)](https://k6.io/) <br>
+## Tools
+- [htop](https://github.com/hishamhm/htop)
+- [gtop](https://github.com/aksakalli/gtop)
+- [k6 (load testing)](https://k6.io/)
+- [dnstrace](https://github.com/rs/dnstrace)
 
 # Misc #
 [High Scalability/Availability/Stability articles list](https://github.com/binhnguyennus/awesome-scalability) <br>
