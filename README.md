@@ -36,6 +36,7 @@
 - [Envoy introduction](https://www.youtube.com/watch?v=RVZX4CwKhGE)
 - [Learn Envoy](https://www.learnenvoy.io/)
 - [Rotor (xDS, Turbine Labs)](https://github.com/turbinelabs/rotor)
+- [ModSecurity for Envoy (WAF)](https://github.com/octarinesec/ModSecurity-envoy)
 - [Envoy Java control plane](https://github.com/envoyproxy/java-control-plane)
 - [Istio service mesh controller](https://istio.io/)
 - [Istio introduction](https://www.youtube.com/watch?v=s4qasWn_mFc)
