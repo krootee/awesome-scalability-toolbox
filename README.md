@@ -47,27 +47,27 @@
 - [Vistio (observability, Istio)](https://github.com/nmnellis/vistio)
 
 ## Structured and unstructured data storage
-- [PostgreSQL](https://www.postgresql.org/) <br>
-- [Postgres Pro (PostgreSQL)](https://postgrespro.ru/) <br>
-- [JSON in Postgre 10.x, 11.x, PostgreSQL 9.6 vs Mongo 3.4](https://www.youtube.com/watch?v=SNzOZKvFZ68) <br>
-- [Why Uber Engineering Switched from Postgres to MySQL](https://eng.uber.com/mysql-migration/) and [Follow up 1](https://www.slideshare.net/AlexanderKorotkov/our-answer-to-uber/), [2](https://blog.2ndquadrant.com/thoughts-on-ubers-list-of-postgres-limitations/), [3](http://thebuild.com/presentations/uber-perconalive-2017.pdf), [4](https://rhaas.blogspot.gr/2016/08/ubers-move-away-from-postgresql.html), [5](https://devconf.ru/ru/archive/devconf2017/offer/314), [6](https://habr.com/company/devconf/blog/353682/), [7](https://use-the-index-luke.com/blog/2016-07-29/on-ubers-choice-of-databases) <br>
-- [Redis](https://redis.io/) <br>
+- [PostgreSQL](https://www.postgresql.org/)
+- [Postgres Pro (PostgreSQL)](https://postgrespro.ru/)
+- [JSON in Postgre 10.x, 11.x, PostgreSQL 9.6 vs Mongo 3.4](https://www.youtube.com/watch?v=SNzOZKvFZ68)
+- [Why Uber Engineering Switched from Postgres to MySQL](https://eng.uber.com/mysql-migration/) and [Follow up 1](https://www.slideshare.net/AlexanderKorotkov/our-answer-to-uber/), [2](https://blog.2ndquadrant.com/thoughts-on-ubers-list-of-postgres-limitations/), [3](http://thebuild.com/presentations/uber-perconalive-2017.pdf), [4](https://rhaas.blogspot.gr/2016/08/ubers-move-away-from-postgresql.html), [5](https://devconf.ru/ru/archive/devconf2017/offer/314), [6](https://habr.com/company/devconf/blog/353682/), [7](https://use-the-index-luke.com/blog/2016-07-29/on-ubers-choice-of-databases)
+- [Redis](https://redis.io/)
 - [Memcached](https://github.com/memcached/memcached/), [extstore storage shim](https://github.com/memcached/memcached/wiki/Extstore), [Caching beyond RAM: the case for NVMe](https://memcached.org/blog/nvm-caching/)
 - [FASTER (Microsoft)](https://github.com/Microsoft/FASTER)
-- [MySQL](https://www.mysql.com/) <br>
+- [MySQL](https://www.mysql.com/)
 - [RocksDB (InnoDB replacement by Facebook)](http://myrocks.io/), [Using NVM in Facebook (RocksDB)](https://dl.acm.org/citation.cfm?id=3190524)
-- [Vitess (MySQL auto horizontal scaling)](http://vitess.io/) <br>
-- [MariaDB (MySQL)](https://mariadb.com/) <br>
-- [Percona (MySQL)](https://www.percona.com/) <br>
-- [MongoDB](https://www.mongodb.com/) <br>
+- [Vitess (MySQL auto horizontal scaling)](http://vitess.io/)
+- [MariaDB (MySQL)](https://mariadb.com/)
+- [Percona (MySQL)](https://www.percona.com/)
+- [MongoDB](https://www.mongodb.com/)
 - [Scylla (Cassandra on steroids)](http://www.scylladb.com/), [ScyllaDB with Optane](https://www.scylladb.com/2017/08/08/intel-optane-review/)
-- [Cassandra](https://cassandra.apache.org/) <br>
-- [CockroachDB](https://www.cockroachlabs.com/) <br>
-- [Aerospike](http://www.aerospike.com/) <br>
-- [OrientDB (graph)](https://orientdb.com/) <br>
-- [Database isolation levels](https://en.wikipedia.org/wiki/Isolation_(database_systems)) <br>
-- [The Log-Structured Merge-Tree (LSM-Tree) whitepaper](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.44.2782&rep=rep1&type=pdf) <br>
-- [B+ tree](https://en.wikipedia.org/wiki/B%2B_tree) <br>
+- [Cassandra](https://cassandra.apache.org/)
+- [CockroachDB](https://www.cockroachlabs.com/)
+- [Aerospike](http://www.aerospike.com/)
+- [OrientDB (graph)](https://orientdb.com/)
+- [Database isolation levels](https://en.wikipedia.org/wiki/Isolation_(database_systems))
+- [The Log-Structured Merge-Tree (LSM-Tree) whitepaper](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.44.2782&rep=rep1&type=pdf)
+- [B+ tree](https://en.wikipedia.org/wiki/B%2B_tree)
 
 # Distributed consensus management, service discovery and configuration #
 [Raft protocol](https://raft.github.io/) <br>
@@ -93,12 +93,12 @@
 - [Weave Scope (monitoring)](https://github.com/weaveworks/scope)
 - [SysDig (monitoring)](https://github.com/draios/sysdig)
 
-# Jsonnet #
-[jsonnet](http://jsonnet.org/) <br>
-[jsonnet builds](https://github.com/krootee/jsonnet-releases) <br>
-[Visual Studio Code plugin](https://github.com/heptio/vscode-jsonnet) <br>
-[IntelliJ plugin (alpha)](https://github.com/databricks/intellij-jsonnet) <br>
-[Style guide (Databricks)](https://github.com/databricks/jsonnet-style-guide) <br>
+## Jsonnet
+- [jsonnet](http://jsonnet.org/)
+- [jsonnet builds](https://github.com/krootee/jsonnet-releases)
+- [Visual Studio Code plugin](https://github.com/heptio/vscode-jsonnet)
+- [IntelliJ plugin (alpha)](https://github.com/databricks/intellij-jsonnet)
+- [Style guide (Databricks)](https://github.com/databricks/jsonnet-style-guide)
 
 # Kubernetes #
 [Kompose (Docker Compose to k8s)](http://kompose.io/) <br>
@@ -146,10 +146,10 @@
 [SMF](https://github.com/senior7515/smf) <br>
 [QUIC](https://www.chromium.org/quic) <br>
 
-# gRPC #
-[gRPC status codes](https://github.com/grpc/grpc/blob/master/doc/statuscodes.md) <br>
-[gRPC 2 years in production](https://www.youtube.com/watch?v=7FZ6ZyzGex0) <br>
-[gRPC-Web client](https://github.com/improbable-eng/grpc-web/) <br>
+## gRPC
+- [gRPC status codes](https://github.com/grpc/grpc/blob/master/doc/statuscodes.md)
+- [gRPC 2 years in production](https://www.youtube.com/watch?v=7FZ6ZyzGex0)
+- [gRPC-Web client](https://github.com/improbable-eng/grpc-web/)
 
 # Service monitoring, metrics collection / graphing #
 [Grafana](https://grafana.com/) <br>
@@ -254,6 +254,7 @@ Online solutions: <br>
 - [Analyze S3 speed from your location](https://cloudharmony.com/speedtest-for-aws:s3)
 - [Analyze AWS S3 and CloudFront logs](https://github.com/nagyv/s3stat) + [GoAccess](https://goaccess.io/)
 - [EC2 instance cheat sheet](https://www.ec2instances.info/)
+- [S3 meta information](https://github.com/whitfin/s3-meta)
 
 # Networking #
 [BPF and friends (Brendan Gregg)](http://brendangregg.com/) <br>
