@@ -90,7 +90,6 @@
 - [Mesosphere](https://mesosphere.com/)
 - [Mesos](https://mesos.apache.org/)
 - [gVisor (sandbox runtime)](https://github.com/google/gvisor)
-- [cAdvisor (container monitoring)](https://github.com/google/cadvisor)
 - [Weave Scope (monitoring)](https://github.com/weaveworks/scope)
 - [SysDig (monitoring)](https://github.com/draios/sysdig)
 
@@ -152,26 +151,29 @@
 - [gRPC 2 years in production](https://www.youtube.com/watch?v=7FZ6ZyzGex0)
 - [gRPC-Web client](https://github.com/improbable-eng/grpc-web/)
 
-# Service monitoring, metrics collection / graphing #
-[Grafana](https://grafana.com/) <br>
-[Grafonnet-lib (generate dashboards for Grafana)](https://github.com/grafana/grafonnet-lib) <br>
-[Graphite](https://graphiteapp.org/) <br>
-[Prometheus](https://prometheus.io/) <br>
-[Node Exporter - machine metrics (Prometheus)](https://github.com/prometheus/node_exporter) <br>
-[ClichHouse (Yandex)](https://clickhouse.yandex/) <br>
-[Druid (Imply)](http://druid.io/) <br>
-[Pinot (Linkedin)](https://github.com/linkedin/pinot/) <br>
-[Architecture analysis of ClickHouse, Druid and Pinot](https://medium.com/@leventov/comparison-of-the-open-source-olap-systems-for-big-data-clickhouse-druid-and-pinot-8e042a5ed1c7) <br>
-[HTTP Analytics for 6M requests per second using ClickHouse](https://blog.cloudflare.com/http-analytics-for-6m-requests-per-second-using-clickhouse/) <br>
-[NetData](https://my-netdata.io/) <br>
-[Vector (on-host monitoring)](http://vectoross.io/) <br>
-[okmeter](https://okmeter.io) <br>
-[Datadog](https://www.datadoghq.com/) <br>
-[TimescaleDB](https://github.com/timescale/timescaledb) <br>
-[KairosDB](https://kairosdb.github.io/) <br>
-[Zabbix](https://www.zabbix.com/) <br>
-[PagerDuty](https://www.pagerduty.com/) <br>
-[NewRelic](https://newrelic.com/) <br>
+## Service monitoring, metrics collection / graphing
+- [Grafana](https://grafana.com/)
+- [Grafonnet-lib (generate dashboards for Grafana)](https://github.com/grafana/grafonnet-lib)
+- [Graphite](https://graphiteapp.org/)
+- [Prometheus](https://prometheus.io/)
+- [OpenMetrics](https://github.com/OpenObservability/OpenMetrics)
+- [eBPF exporter (Prometheus)](https://github.com/cloudflare/ebpf_exporter)
+- [Node Exporter (Prometheus)](https://github.com/prometheus/node_exporter)
+- [cAdvisor (container monitoring)](https://github.com/google/cadvisor)
+- [ClichHouse (Yandex)](https://clickhouse.yandex/)
+- [Druid (Imply)](http://druid.io/)
+- [Pinot (Linkedin)](https://github.com/linkedin/pinot/)
+- [Architecture analysis of ClickHouse, Druid and Pinot](https://medium.com/@leventov/comparison-of-the-open-source-olap-systems-for-big-data-clickhouse-druid-and-pinot-8e042a5ed1c7)
+- [HTTP Analytics for 6M requests per second using ClickHouse](https://blog.cloudflare.com/http-analytics-for-6m-requests-per-second-using-clickhouse/)
+- [NetData](https://my-netdata.io)
+- [Vector (on-host monitoring)](http://vectoross.io)
+- [okmeter](https://okmeter.io)
+- [Datadog](https://www.datadoghq.com)
+- [TimescaleDB](https://github.com/timescale/timescaledb)
+- [KairosDB](https://kairosdb.github.io)
+- [Zabbix](https://www.zabbix.com)
+- [PagerDuty](https://www.pagerduty.com)
+- [NewRelic](https://newrelic.com)
 
 # Infrastructure information management #
 [Osquery (Facebook)](https://osquery.io/) <br>
