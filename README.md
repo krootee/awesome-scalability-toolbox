@@ -374,12 +374,13 @@ Online solutions: <br>
 [DNS CAA helper](https://sslmate.com/caa/) <br>
 [DNS over TLS](https://tools.ietf.org/html/rfc7858) <br>
 
-# Authorization #
-[The OAuth 2.0 Authorization Framework](https://tools.ietf.org/html/rfc6749) <br>
-[JSON Web Token (JWT)](https://tools.ietf.org/html/rfc7519) <br>
-[JSON Web Signature (JWS)](https://tools.ietf.org/html/rfc7515) <br>
-[JSON Web Encryption (JWE)](https://tools.ietf.org/html/rfc7516) <br>
-[JWT playground](https://jwt.io/) <br>
+## Authorization
+- [The OAuth 2.0 Authorization Framework](https://tools.ietf.org/html/rfc6749)
+- [OAuth 2.0 introduction](https://github.com/trimstray/sandmap)
+- [JSON Web Token (JWT)](https://tools.ietf.org/html/rfc7519)
+- [JSON Web Signature (JWS)](https://tools.ietf.org/html/rfc7515)
+- [JSON Web Encryption (JWE)](https://tools.ietf.org/html/rfc7516)
+- [JWT playground](https://jwt.io/)
 
 # Encryption, hashing #
 [OpenSSL](https://www.openssl.org/) <br>
