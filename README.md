@@ -387,6 +387,7 @@ Online solutions: <br>
 [BoringSSL (Google)](https://boringssl.googlesource.com/boringssl/) <br>
 [s2n (AWS)](https://github.com/awslabs/s2n) <br>
 [LibreSSL (OpenBSD OpenSSL fork)](https://github.com/libressl-portable/portable) <br>
+[Google Tink](https://github.com/google/tink) <br>
 [Cryptography Engineering: Design Principles and Practical Applications (book)](https://www.amazon.com/Cryptography-Engineering-Principles-Practical-Applications/dp/0470474246) <br>
 [Introduction to Modern Cryptography, Second Edition (book)](https://www.amazon.com/Introduction-Cryptography-Chapman-Network-Security/dp/1466570261) <br>
 [Security Engineering, 2nd edition (book)](https://www.amazon.com/Security-Engineering-Building-Dependable-Distributed/dp/0470068523) <br>
