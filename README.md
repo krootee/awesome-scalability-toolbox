@@ -440,6 +440,7 @@ Online solutions: <br>
 - [dnstrace](https://github.com/rs/dnstrace)
 - [upx](https://upx.github.io/)
 - [bat](https://github.com/sharkdp/bat)
+- [httpie](https://github.com/jakubroztocil/httpie)
 
 # Misc #
 [High Scalability/Availability/Stability articles list](https://github.com/binhnguyennus/awesome-scalability) <br>
