@@ -260,7 +260,7 @@ Online solutions: <br>
 - [S3 meta information](https://github.com/whitfin/s3-meta)
 
 # Networking #
-[BPF and friends (Brendan Gregg)](http://brendangregg.com/) <br>
+[BPF introduction](https://qmonnet.github.io/whirl-offload/2016/09/01/dive-into-bpf/) <br>
 [XDP](https://www.iovisor.org/technology/xdp) <br>
 [BPFd (remote BPF by Google)](https://github.com/joelagnel/bpfd) <br>
 [BCC (Tools for BPF-based Linux IO analysis, networking, monitoring, and more)](https://github.com/iovisor/bcc) <br>
