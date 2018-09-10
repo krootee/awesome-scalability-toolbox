@@ -442,6 +442,7 @@ Online solutions: <br>
 - [bat](https://github.com/sharkdp/bat)
 - [httpie](https://github.com/jakubroztocil/httpie)
 - [smenu](https://github.com/p-gen/smenu)
+- [awesome tmux](https://github.com/rothgar/awesome-tmux)
 
 # Misc #
 [High Scalability/Availability/Stability articles list](https://github.com/binhnguyennus/awesome-scalability) <br>
