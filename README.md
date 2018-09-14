@@ -65,6 +65,7 @@
 - [Cassandra](https://cassandra.apache.org/)
 - [CockroachDB](https://www.cockroachlabs.com/)
 - [Aerospike](http://www.aerospike.com/)
+- [LogDevice (Facebook, distributed storage for sequential data)](https://github.com/facebookincubator/LogDevice)
 - [OrientDB (graph)](https://orientdb.com/)
 - [Database isolation levels](https://en.wikipedia.org/wiki/Isolation_(database_systems))
 - [The Log-Structured Merge-Tree (LSM-Tree) whitepaper](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.44.2782&rep=rep1&type=pdf)
