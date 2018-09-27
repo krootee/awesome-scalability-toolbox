@@ -451,6 +451,7 @@ Online solutions: <br>
 - [httpie](https://github.com/jakubroztocil/httpie)
 - [smenu](https://github.com/p-gen/smenu)
 - [awesome tmux](https://github.com/rothgar/awesome-tmux)
+- [py-spy (python profiler)](https://github.com/benfred/py-spy)
 
 # Misc #
 [High Scalability/Availability/Stability articles list](https://github.com/binhnguyennus/awesome-scalability) <br>
