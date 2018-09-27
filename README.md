@@ -148,6 +148,7 @@
 [QUIC](https://www.chromium.org/quic) <br>
 
 ## gRPC
+- [Awesome gRPC list](https://github.com/grpc-ecosystem/awesome-grpc)
 - [gRPC status codes](https://github.com/grpc/grpc/blob/master/doc/statuscodes.md)
 - [gRPC 2 years in production](https://www.youtube.com/watch?v=7FZ6ZyzGex0)
 - [gRPC-Web client](https://github.com/improbable-eng/grpc-web/)
@@ -250,7 +251,7 @@ Online solutions: <br>
 [Edgecast](https://www.verizondigitalmedia.com/) <br>
 [Traffic Control (Self-hosted CDN)](https://trafficcontrol.apache.org/) <br>
 
-# Domain registrars #
+## Domain registrars
 - [MarkMonitor](https://www.markmonitor.com/)
 - [Cloudflare](https://www.cloudflare.com/registrar/)
 
