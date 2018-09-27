@@ -250,6 +250,10 @@ Online solutions: <br>
 [Edgecast](https://www.verizondigitalmedia.com/) <br>
 [Traffic Control (Self-hosted CDN)](https://trafficcontrol.apache.org/) <br>
 
+# Domain registrars #
+- [MarkMonitor](https://www.markmonitor.com/)
+- [Cloudflare](https://www.cloudflare.com/registrar/)
+
 ## AWS
 - [awscli](https://aws.amazon.com/cli/)
 - [awless](https://github.com/wallix/awless)
