@@ -364,22 +364,23 @@ Online solutions: <br>
 [libzbc (direct disk access)](https://github.com/hgst/libzbc) <br>
 [SMR drives at Dropbox](https://blogs.dropbox.com/tech/2018/06/extending-magic-pocket-innovation-with-the-first-petabyte-scale-smr-drive-deployment/) <br>
 
-# TLS/SSL #
-[Sonar](https://sonarwhal.com/) <br>
-[TLS information](https://istlsfastyet.com/) <br>
-[Mutuals TLS (mTLS)](https://www.codeproject.com/Articles/326574/An-Introduction-to-Mutual-SSL-Authentication) <br>
-[Mozilla server side TLS information](https://wiki.mozilla.org/Security/Server_Side_TLS) <br>
-[testssl.sh](https://github.com/drwetter/testssl.sh) <br>
-[Mozilla Observatory](https://observatory.mozilla.org/) <br>
-[HTTP security headers testing](https://securityheaders.io/) <br>
-[Qualys SSL tests](https://www.ssllabs.com/ssltest) <br>
-[High-Tech Bridge SSL test](https://www.htbridge.com/ssl/) <br>
-[HTTP security tools](https://report-uri.io/home/tools) <br>
-[HSTS preloading](https://hstspreload.org) <br>
-[SRI hash generator](https://www.srihash.org/) <br>
-[Client side TLS test](https://www.howsmyssl.com/) <br>
-[DNS CAA helper](https://sslmate.com/caa/) <br>
-[DNS over TLS](https://tools.ietf.org/html/rfc7858) <br>
+## TLS/SSL
+- [Sonar](https://sonarwhal.com/)
+- [TLS information](https://istlsfastyet.com/)
+- [Mutuals TLS (mTLS)](https://www.codeproject.com/Articles/326574/An-Introduction-to-Mutual-SSL-Authentication)
+- [Mozilla server side TLS information](https://wiki.mozilla.org/Security/Server_Side_TLS)
+- [testssl.sh](https://github.com/drwetter/testssl.sh)
+- [Mozilla Observatory](https://observatory.mozilla.org/)
+- [HTTP security headers testing](https://securityheaders.io/)
+- [Qualys SSL tests](https://www.ssllabs.com/ssltest)
+- [High-Tech Bridge SSL test](https://www.htbridge.com/ssl/)
+- [HTTP security tools](https://report-uri.io/home/tools)
+- [HSTS preloading](https://hstspreload.org)
+- [SRI hash generator](https://www.srihash.org/)
+- [Client side TLS test](https://www.howsmyssl.com/)
+- [DNS CAA helper](https://sslmate.com/caa/)
+- [DNS over TLS](https://tools.ietf.org/html/rfc7858)
+- [Encrypted SNI standard](https://tools.ietf.org/html/draft-ietf-tls-esni-01)
 
 ## Authorization
 - [The OAuth 2.0 Authorization Framework](https://tools.ietf.org/html/rfc6749)
