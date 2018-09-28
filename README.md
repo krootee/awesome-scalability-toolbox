@@ -452,6 +452,7 @@ Online solutions: <br>
 - [smenu](https://github.com/p-gen/smenu)
 - [awesome tmux](https://github.com/rothgar/awesome-tmux)
 - [py-spy (python profiler)](https://github.com/benfred/py-spy)
+- [kubespy](https://github.com/pulumi/kubespy)
 
 # Misc #
 [High Scalability/Availability/Stability articles list](https://github.com/binhnguyennus/awesome-scalability) <br>
