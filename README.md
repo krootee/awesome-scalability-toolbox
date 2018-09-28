@@ -54,7 +54,7 @@
 - [Why Uber Engineering Switched from Postgres to MySQL](https://eng.uber.com/mysql-migration/) and [Follow up 1](https://www.slideshare.net/AlexanderKorotkov/our-answer-to-uber/), [2](https://blog.2ndquadrant.com/thoughts-on-ubers-list-of-postgres-limitations/), [3](http://thebuild.com/presentations/uber-perconalive-2017.pdf), [4](https://rhaas.blogspot.gr/2016/08/ubers-move-away-from-postgresql.html), [5](https://devconf.ru/ru/archive/devconf2017/offer/314), [6](https://habr.com/company/devconf/blog/353682/), [7](https://use-the-index-luke.com/blog/2016-07-29/on-ubers-choice-of-databases)
 - [Redis](https://redis.io/)
 - [Memcached](https://github.com/memcached/memcached/), [extstore storage shim](https://github.com/memcached/memcached/wiki/Extstore), [Caching beyond RAM: the case for NVMe](https://memcached.org/blog/nvm-caching/)
-- [FASTER (Microsoft)](https://github.com/Microsoft/FASTER)
+- [FASTER (Microsoft)](https://github.com/Microsoft/FASTER), [official site](https://www.microsoft.com/en-us/research/project/FASTER/)
 - [MySQL](https://www.mysql.com/)
 - [RocksDB (InnoDB replacement by Facebook)](http://myrocks.io/), [Using NVM in Facebook (RocksDB)](https://dl.acm.org/citation.cfm?id=3190524)
 - [Vitess (MySQL auto horizontal scaling)](http://vitess.io/)
@@ -65,7 +65,7 @@
 - [Cassandra](https://cassandra.apache.org/)
 - [CockroachDB](https://www.cockroachlabs.com/)
 - [Aerospike](http://www.aerospike.com/)
-- [Anna (experimental, Berkeley RISE Lab)](https://github.com/fluent-project/fluent/tree/master/kvs) <br>
+- [Anna (experimental, Berkeley RISE Lab)](https://github.com/fluent-project/fluent/tree/master/kvs), [white paper](https://arxiv.org/abs/1809.00089)
 - [LogDevice (Facebook, distributed storage for sequential data)](https://github.com/facebookincubator/LogDevice)
 - [OrientDB (graph)](https://orientdb.com/)
 - [Database isolation levels](https://en.wikipedia.org/wiki/Isolation_(database_systems))
