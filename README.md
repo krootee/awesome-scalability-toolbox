@@ -65,6 +65,7 @@
 - [Cassandra](https://cassandra.apache.org/)
 - [CockroachDB](https://www.cockroachlabs.com/)
 - [Aerospike](http://www.aerospike.com/)
+- [Anna (experimental, Berkeley RISE Lab)](https://github.com/fluent-project/fluent/tree/master/kvs) <br>
 - [LogDevice (Facebook, distributed storage for sequential data)](https://github.com/facebookincubator/LogDevice)
 - [OrientDB (graph)](https://orientdb.com/)
 - [Database isolation levels](https://en.wikipedia.org/wiki/Isolation_(database_systems))
