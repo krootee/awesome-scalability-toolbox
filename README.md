@@ -52,7 +52,7 @@
 - [Postgres Pro (PostgreSQL)](https://postgrespro.ru/)
 - [JSON in Postgre 10.x, 11.x, PostgreSQL 9.6 vs Mongo 3.4](https://www.youtube.com/watch?v=SNzOZKvFZ68)
 - [Why Uber Engineering Switched from Postgres to MySQL](https://eng.uber.com/mysql-migration/) and [Follow up 1](https://www.slideshare.net/AlexanderKorotkov/our-answer-to-uber/), [2](https://blog.2ndquadrant.com/thoughts-on-ubers-list-of-postgres-limitations/), [3](http://thebuild.com/presentations/uber-perconalive-2017.pdf), [4](https://rhaas.blogspot.gr/2016/08/ubers-move-away-from-postgresql.html), [5](https://devconf.ru/ru/archive/devconf2017/offer/314), [6](https://habr.com/company/devconf/blog/353682/), [7](https://use-the-index-luke.com/blog/2016-07-29/on-ubers-choice-of-databases)
-- [Redis](https://redis.io/)
+- [Redis](https://redis.io/), [Redis modules (Open Source)](https://goodformcode.com/)
 - [Memcached](https://github.com/memcached/memcached/), [extstore storage shim](https://github.com/memcached/memcached/wiki/Extstore), [Caching beyond RAM: the case for NVMe](https://memcached.org/blog/nvm-caching/)
 - [FASTER (Microsoft)](https://github.com/Microsoft/FASTER), [official site](https://www.microsoft.com/en-us/research/project/FASTER/)
 - [MySQL](https://www.mysql.com/)
