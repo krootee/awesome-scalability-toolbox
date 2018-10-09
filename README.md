@@ -270,6 +270,7 @@ Online solutions: <br>
 [BPF introduction](https://qmonnet.github.io/whirl-offload/2016/09/01/dive-into-bpf/) <br>
 [XDP](https://www.iovisor.org/technology/xdp) <br>
 [BPFd (remote BPF by Google)](https://github.com/joelagnel/bpfd) <br>
+[bpftrace (high-level langauge for writing eBPF programs)](https://github.com/iovisor/bpftrace) <br>
 [BCC (Tools for BPF-based Linux IO analysis, networking, monitoring, and more)](https://github.com/iovisor/bcc) <br>
 [How to achieve low latency with 10Gbps Ethernet (Cloudflare)](https://blog.cloudflare.com/how-to-achieve-low-latency/) <br>
 [BBR: Congestion-based congestion control](https://blog.acolyer.org/2017/03/31/bbr-congestion-based-congestion-control/), [BBR, the new kid on the TCP block](https://blog.apnic.net/2017/05/09/bbr-new-kid-tcp-block/) <br>
@@ -445,6 +446,7 @@ Online solutions: <br>
 ## Tools
 - [htop](https://github.com/hishamhm/htop)
 - [gtop](https://github.com/aksakalli/gtop)
+- [nvtop](https://github.com/Syllo/nvtop)
 - [k6 (load testing)](https://k6.io/)
 - [dnstrace](https://github.com/rs/dnstrace)
 - [upx](https://upx.github.io/)
