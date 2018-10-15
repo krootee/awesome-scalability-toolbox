@@ -366,7 +366,8 @@ Online solutions: <br>
 [libzbc (direct disk access)](https://github.com/hgst/libzbc) <br>
 [SMR drives at Dropbox](https://blogs.dropbox.com/tech/2018/06/extending-magic-pocket-innovation-with-the-first-petabyte-scale-smr-drive-deployment/) <br>
 
-## TLS/SSL
+## TLS
+- [The Illustrated TLS Connection](https://tls.ulfheim.net/)
 - [Sonar](https://sonarwhal.com/)
 - [TLS information](https://istlsfastyet.com/)
 - [Mutuals TLS (mTLS)](https://www.codeproject.com/Articles/326574/An-Introduction-to-Mutual-SSL-Authentication)
