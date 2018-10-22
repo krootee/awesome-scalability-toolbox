@@ -394,7 +394,7 @@ Online solutions: <br>
 - [JSON Web Encryption (JWE)](https://tools.ietf.org/html/rfc7516)
 - [JWT playground](https://jwt.io/)
 
-# Encryption, hashing #
+# Encryption #
 [OpenSSL](https://www.openssl.org/) <br>
 [BoringSSL (Google)](https://boringssl.googlesource.com/boringssl/) <br>
 [s2n (AWS)](https://github.com/awslabs/s2n) <br>
@@ -425,13 +425,17 @@ Online solutions: <br>
 [Elliptic Curve Cryptography: a gentle introduction](http://andrea.corbellini.name/2015/05/17/elliptic-curve-cryptography-a-gentle-introduction/) <br>
 [Safe elliptic curvers](https://safecurves.cr.yp.to/) <br>
 [Curve25519](https://cr.yp.to/ecdh/curve25519-20060209.pdf) <br>
-[Fast Positive Hash](https://github.com/leo-yuriev/t1ha) <br>
-[HighwayHash and SipHash (Google)](https://github.com/google/highwayhash/) <br>
-[SipHash (original)](https://131002.net/siphash/) <br>
-[Blade2 (crypto)](https://blake2.net/) <br>
-[xxHash](http://www.xxhash.com/) <br>
-[MurmurHash3](https://github.com/aappleby/smhasher) <br>
-[Dieharder: A Random Number Test Suite](http://webhome.phy.duke.edu/~rgb/General/dieharder.php) <br>
+
+## Hashing
+- [smhasher testing suite](https://github.com/rurban/smhasher)
+- [Fast Positive Hash](https://github.com/leo-yuriev/t1ha)
+- [Meow hash](https://github.com/cmuratori/meow_hash)
+- [HighwayHash and SipHash (Google)](https://github.com/google/highwayhash/)
+- [SipHash (original)](https://131002.net/siphash/)
+- [Blade2 (crypto)](https://blake2.net/)
+- [xxHash](http://www.xxhash.com/)
+- [MurmurHash3](https://github.com/aappleby/smhasher)
+- [Dieharder: A Random Number Test Suite](http://webhome.phy.duke.edu/~rgb/General/dieharder.php)
 
 ## Videos
 - [Kafka 2017 Summit](https://www.confluent.io/kafka-summit-sf17/resource/) <br>
