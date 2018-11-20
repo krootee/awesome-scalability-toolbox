@@ -465,6 +465,7 @@ Online solutions: <br>
 - [up](https://github.com/akavel/up)
 - [doh](https://github.com/picatz/doh)
 - [fx](https://github.com/antonmedv/fx)
+- [jid](https://github.com/simeji/jid)
 
 # Misc #
 [High Scalability/Availability/Stability articles list](https://github.com/binhnguyennus/awesome-scalability) <br>
