@@ -1,4 +1,4 @@
-# Architecture diagrams, API documentation #documentation
+# Architecture diagrams, API documentation
 [Lucidchart](https://www.lucidchart.com/) <br>
 [Mermaid (diagrams from text)](https://mermaidjs.github.io/) <br>
 [Cloudcraft (AWS optimized)](https://cloudcraft.co/) <br>
@@ -8,7 +8,7 @@
 [Draw](https://www.draw.io/) <br>
 [Wording](https://www.ietf.org/rfc/rfc2119.txt), [definition syntax](https://www.ietf.org/rfc/rfc5234.txt) and [units](http://unitsofmeasure.org/ucum.html) for RFC specification creation <br>
 
-# Message queues #
+# Message queues
 [Kafka](https://kafka.apache.org/) <br>
 [RabbitMQ](https://www.rabbitmq.com/) <br>
 [ActiveMQ](http://activemq.apache.org/) <br>
