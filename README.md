@@ -21,7 +21,7 @@
 - [CDNs](#cdns)
 - [Domain registrars](#domain-registrars)
 - [AWS](#aws)
-- [Networking #networking](#networking-networking)
+- [Networking](#networking)
 - [SDN](#sdn)
 - [SRE (Site Reliability Engineering)](#sre-site-reliability-engineering)
 - [Disk storage](#disk-storage)
@@ -301,7 +301,7 @@ Online solutions: <br>
 - [EC2 instance cheat sheet](https://www.ec2instances.info/)
 - [S3 meta information](https://github.com/whitfin/s3-meta)
 
-# Networking #networking
+# Networking
 [BPF introduction](https://qmonnet.github.io/whirl-offload/2016/09/01/dive-into-bpf/) <br>
 [XDP](https://www.iovisor.org/technology/xdp) <br>
 [BPFd (remote BPF by Google)](https://github.com/joelagnel/bpfd) <br>
