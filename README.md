@@ -4,34 +4,34 @@
 - [Load balancers, reverse proxy, accelerators, web servers](#load-balancers-reverse-proxy-accelerators-web-servers)
 - [Service mesh](#service-mesh)
 - [Structured and unstructured data storage](#structured-and-unstructured-data-storage)
-- [Distributed consensus management, service discovery and configuration #](#distributed-consensus-management-service-discovery-and-configuration-)
+- [Distributed consensus management, service discovery and configuration](#distributed-consensus-management-service-discovery-and-configuration)
 - [Containers](#containers)
 - [Jsonnet](#jsonnet)
-- [Kubernetes #](#kubernetes-)
-- [RPC, Communication between system nodes #](#rpc-communication-between-system-nodes-)
+- [Kubernetes](#kubernetes)
+- [RPC, Communication between system nodes](#rpc-communication-between-system-nodes)
 - [gRPC](#grpc)
 - [Service monitoring, metrics collection / graphing](#service-monitoring-metrics-collection--graphing)
-- [Infrastructure information management #](#infrastructure-information-management-)
-- [Distributed request tracing #](#distributed-request-tracing-)
-- [Load testing #](#load-testing-)
-- [Log management #](#log-management-)
-- [Feature Flags #](#feature-flags-)
-- [Deployment tools #](#deployment-tools-)
-- [CI (Continuous Integration) #](#ci-continuous-integration-)
-- [CDNs #](#cdns-)
+- [Infrastructure information management](#infrastructure-information-management)
+- [Distributed request tracing](#distributed-request-tracing)
+- [Load testing](#load-testing)
+- [Log management](#log-management)
+- [Feature Flags](#feature-flags)
+- [Deployment tools](#deployment-tools)
+- [CI (Continuous Integration)](#ci-continuous-integration)
+- [CDNs](#cdns)
 - [Domain registrars](#domain-registrars)
 - [AWS](#aws)
 - [Networking #networking](#networking-networking)
-- [SDN #](#sdn-)
+- [SDN](#sdn)
 - [SRE (Site Reliability Engineering)](#sre-site-reliability-engineering)
-- [Disk storage #](#disk-storage-)
+- [Disk storage](#disk-storage)
 - [TLS](#tls)
 - [Authorization](#authorization)
-- [Encryption #](#encryption-)
+- [Encryption](#encryption)
 - [Hashing](#hashing)
 - [Videos](#videos)
 - [Tools](#tools)
-- [Misc #](#misc-)
+- [Misc](#misc)
 
 # Architecture diagrams, API documentation
 [Lucidchart](https://www.lucidchart.com/) <br>
@@ -107,7 +107,7 @@
 - [The Log-Structured Merge-Tree (LSM-Tree) whitepaper](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.44.2782&rep=rep1&type=pdf)
 - [B+ tree](https://en.wikipedia.org/wiki/B%2B_tree)
 
-# Distributed consensus management, service discovery and configuration #
+# Distributed consensus management, service discovery and configuration
 [Raft protocol](https://raft.github.io/) <br>
 [Paxos protocol](https://en.wikipedia.org/wiki/Paxos_(computer_science)) <br>
 [Paxos made simple](https://lamport.azurewebsites.net/pubs/paxos-simple.pdf) <br>
@@ -137,7 +137,7 @@
 - [IntelliJ plugin (alpha)](https://github.com/databricks/intellij-jsonnet)
 - [Style guide (Databricks)](https://github.com/databricks/jsonnet-style-guide)
 
-# Kubernetes #
+# Kubernetes
 [Kompose (Docker Compose to k8s)](http://kompose.io/) <br>
 [ksonnet](https://ksonnet.io/) <br>
 [kubecfg](https://github.com/ksonnet/kubecfg) <br>
@@ -169,7 +169,7 @@
 [Kubernetic (desktop UI client)](https://kubernetic.com/) <br>
 [50 Useful Kubernetes Tools](https://caylent.com/50-useful-kubernetes-tools/) <br>
 
-# RPC, Communication between system nodes #
+# RPC, Communication between system nodes
 [gRPC](https://grpc.io/) <br>
 [Dubbo (China version of gRPC)](https://dubbo.apache.org) <br>
 [Protocol Buffers](https://developers.google.com/protocol-buffers/) <br>
@@ -213,13 +213,13 @@
 - [PagerDuty](https://www.pagerduty.com)
 - [NewRelic](https://newrelic.com)
 
-# Infrastructure information management #
+# Infrastructure information management
 [Osquery (Facebook)](https://osquery.io/) <br>
 [Kolide Fleet (osquery)](http://www.kolide.co/fleet) <br>
 [Doorman (osquery)](https://github.com/mwielgoszewski/doorman) <br>
 [OSSEC](https://ossec.github.io/) <br>
 
-# Distributed request tracing #
+# Distributed request tracing
 [Dapper, a Large-Scale Distributed Systems Tracing Infrastructure (Google)](https://research.google.com/pubs/pub36356.html) <br>
 [OpenTracing standard](http://opentracing.io/) <br>
 [OpenTracing and Jaeger introduction](https://www.youtube.com/watch?v=fjYAU3jayVo) <br>
@@ -230,7 +230,7 @@
 [Lightstep](https://lightstep.com) <br>
 [Skywalking](http://skywalking.io/) <br>
 
-# Load testing #
+# Load testing
 [Yandex.Tank (C++, Python, Go)](https://github.com/yandex/yandex-tank) <br>
 [Overload (storage for Yandex.Tank results)](https://overload.yandex.net) <br>
 [Gatling (Scala)](https://gatling.io/) <br>
@@ -240,7 +240,7 @@
 [Selenium (Web UI)](http://www.seleniumhq.org/) <br>
 [Selenide (Web UI)](http://selenide.org/) <br>
 
-# Log management #
+# Log management
 [What you need to know about real-time logs](https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying) <br>
 [fluentd](https://www.fluentd.org/) <br>
 [Kafka](https://kafka.apache.org/) <br>
@@ -260,27 +260,27 @@ Online solutions: <br>
 [Sumo Logic](https://www.sumologic.com/) <br>
 [Humio](https://humio.com/) <br>
 
-# Feature Flags #
+# Feature Flags
 [Overview site](http://featureflags.io) <br>
 [FF4J](http://ff4j.org/) <br>
 [Togglz (Java)](https://www.togglz.org) <br>
 [Unleash (simple)](https://github.com/Unleash/unleash) <br>
 [LaunchDarkly (cloud provider)](https://launchdarkly.com) <br>
 
-# Deployment tools #
+# Deployment tools
 [Ansible](https://ansible.com/) <br>
 [Salt](https://saltstack.com/) <br>
 [Puppet](https://puppet.com/) <br>
 [Chef](https://www.chef.io/chef/) <br>
 [Teletraan](https://github.com/pinterest/teletraan) <br>
 
-# CI (Continuous Integration) #
+# CI (Continuous Integration)
 [TeamCity](https://www.jetbrains.com/teamcity) <br>
 [Jenkins](https://jenkins.io) <br>
 [Jenkins X (for k8s apps)](https://jenkins-x.io/) <br>
 [Concourse](https://concourse.ci) <br>
 
-# CDNs #
+# CDNs
 [Akamai](https://www.akamai.com/) <br>
 [Fastly](https://www.fastly.com/) <br>
 [Level3](http://www.level3.com/en/products/content-delivery-network/) <br>
@@ -348,7 +348,7 @@ Online solutions: <br>
 [How LinkedIn used TCP Anycast to make the site faster](https://www.slideshare.net/shawnzandi/how-linkedin-used-tcp-anycast-to-make-the-site-faster) <br>
 [Roughtime protocol](https://roughtime.googlesource.com/roughtime) <br>
 
-# SDN #
+# SDN
 [Stratum](https://stratumproject.org/) <br>
 [p4 language](https://p4.org/) <br>
 [p4 Runtime](https://p4.org/p4-runtime/) <br>
@@ -397,7 +397,7 @@ Online solutions: <br>
 [The tail at scale (reducing latency long tail)](https://www2.cs.duke.edu/courses/cps296.4/fall13/838-CloudPapers/dean_longtail.pdf) <br>
 [Optimizing ScyllaDB to run inside Docker container](https://www.scylladb.com/2018/08/09/cost-containerization-scylla/) <br>
 
-# Disk storage #
+# Disk storage
 [libzbc (direct disk access)](https://github.com/hgst/libzbc) <br>
 [SMR drives at Dropbox](https://blogs.dropbox.com/tech/2018/06/extending-magic-pocket-innovation-with-the-first-petabyte-scale-smr-drive-deployment/) <br>
 [Intel VROC overview and performance testing](https://www.storagereview.com/intel_virtual_raid_on_cpu_vroc_review) <br>
@@ -429,7 +429,7 @@ Online solutions: <br>
 - [JSON Web Encryption (JWE)](https://tools.ietf.org/html/rfc7516)
 - [JWT playground](https://jwt.io/)
 
-# Encryption #
+# Encryption
 [OpenSSL](https://www.openssl.org/) <br>
 [BoringSSL (Google)](https://boringssl.googlesource.com/boringssl/) <br>
 [s2n (AWS)](https://github.com/awslabs/s2n) <br>
@@ -504,6 +504,6 @@ Online solutions: <br>
 - [fx](https://github.com/antonmedv/fx)
 - [jid](https://github.com/simeji/jid)
 
-# Misc #
+# Misc
 [High Scalability/Availability/Stability articles list](https://github.com/binhnguyennus/awesome-scalability) <br>
 [Another github repo](https://github.com/rShetty/awesome-distributed-systems) <br>
