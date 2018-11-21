@@ -1,4 +1,4 @@
-# Architecture diagrams, API documentation #
+# Architecture diagrams, API documentation #documentation
 [Lucidchart](https://www.lucidchart.com/) <br>
 [Mermaid (diagrams from text)](https://mermaidjs.github.io/) <br>
 [Cloudcraft (AWS optimized)](https://cloudcraft.co/) <br>
@@ -19,7 +19,7 @@
 [HornetQ](http://hornetq.jboss.org/) <br>
 [IronMQ (cloud)](https://www.iron.io/platform/ironmq/) <br>
 
-## Load balancers, reverse proxy, accelerators, web servers
+# Load balancers, reverse proxy, accelerators, web servers
 - [Varnish](https://varnish-cache.org/)
 - [HAProxy](http://www.haproxy.org/)
 - [nginx](https://www.nginx.com/), [nginx config](https://nginxconfig.io/)
@@ -31,7 +31,7 @@
 - [katran (BPF/XDP L4 load balancer, Facebook)](https://github.com/facebookincubator/katran)
 - [GitHub Load Balancer Director (GUE, ECMP, DPDK)](https://github.com/github/glb-director)
 
-## Service mesh
+# Service mesh
 - [Envoy L3/4/7 proxy (Lyft/Google, C++)](https://www.envoyproxy.io/)
 - [Envoy introduction](https://www.youtube.com/watch?v=RVZX4CwKhGE)
 - [Learn Envoy](https://www.learnenvoy.io/)
@@ -47,7 +47,7 @@
 - [Kiali (observability, Istio)](https://kiali.org)
 - [Vistio (observability, Istio)](https://github.com/nmnellis/vistio)
 
-## Structured and unstructured data storage
+# Structured and unstructured data storage
 - [PostgreSQL](https://www.postgresql.org/)
 - [Postgres Pro (PostgreSQL)](https://postgrespro.ru/)
 - [JSON in Postgre 10.x, 11.x, PostgreSQL 9.6 vs Mongo 3.4](https://www.youtube.com/watch?v=SNzOZKvFZ68)
@@ -83,7 +83,7 @@
 [Secure Production Identity Framework For Everyone (SPIFFE)](https://github.com/spiffe/spiffe) <br>
 [ZooKeeper](https://zookeeper.apache.org/) <br>
 
-## Containers
+# Containers
 - [Docker](https://www.docker.com/)
 - [Awesome Docker list](https://github.com/veggiemonk/awesome-docker)
 - [docker-autoheal (restart on unhealthy event)](https://github.com/willfarrell/docker-autoheal)
@@ -95,7 +95,7 @@
 - [Weave Scope (monitoring)](https://github.com/weaveworks/scope)
 - [SysDig (monitoring)](https://github.com/draios/sysdig)
 
-## Jsonnet
+# Jsonnet
 - [jsonnet](http://jsonnet.org/)
 - [jsonnet builds](https://github.com/krootee/jsonnet-releases)
 - [Visual Studio Code plugin](https://github.com/heptio/vscode-jsonnet)
@@ -148,13 +148,13 @@
 [SMF](https://github.com/senior7515/smf) <br>
 [QUIC](https://www.chromium.org/quic) <br>
 
-## gRPC
+# gRPC
 - [Awesome gRPC list](https://github.com/grpc-ecosystem/awesome-grpc)
 - [gRPC status codes](https://github.com/grpc/grpc/blob/master/doc/statuscodes.md)
 - [gRPC 2 years in production](https://www.youtube.com/watch?v=7FZ6ZyzGex0)
 - [gRPC-Web client](https://github.com/improbable-eng/grpc-web/)
 
-## Service monitoring, metrics collection / graphing
+# Service monitoring, metrics collection / graphing
 - [Grafana](https://grafana.com/)
 - [Grafonnet-lib (generate dashboards for Grafana)](https://github.com/grafana/grafonnet-lib)
 - [Graphite](https://graphiteapp.org/)
@@ -252,11 +252,11 @@ Online solutions: <br>
 [Edgecast](https://www.verizondigitalmedia.com/) <br>
 [Traffic Control (Self-hosted CDN)](https://trafficcontrol.apache.org/) <br>
 
-## Domain registrars
+# Domain registrars
 - [MarkMonitor](https://www.markmonitor.com/)
 - [Cloudflare](https://www.cloudflare.com/registrar/)
 
-## AWS
+# AWS
 - [awscli](https://aws.amazon.com/cli/)
 - [awless](https://github.com/wallix/awless)
 - [S3 Browser](https://s3browser.com/)
@@ -266,7 +266,7 @@ Online solutions: <br>
 - [EC2 instance cheat sheet](https://www.ec2instances.info/)
 - [S3 meta information](https://github.com/whitfin/s3-meta)
 
-# Networking #
+# Networking #networking
 [BPF introduction](https://qmonnet.github.io/whirl-offload/2016/09/01/dive-into-bpf/) <br>
 [XDP](https://www.iovisor.org/technology/xdp) <br>
 [BPFd (remote BPF by Google)](https://github.com/joelagnel/bpfd) <br>
@@ -367,7 +367,7 @@ Online solutions: <br>
 [SMR drives at Dropbox](https://blogs.dropbox.com/tech/2018/06/extending-magic-pocket-innovation-with-the-first-petabyte-scale-smr-drive-deployment/) <br>
 [Intel VROC overview and performance testing](https://www.storagereview.com/intel_virtual_raid_on_cpu_vroc_review) <br>
 
-## TLS
+# TLS
 - [The Illustrated TLS Connection](https://tls.ulfheim.net/)
 - [Sonar](https://sonarwhal.com/)
 - [TLS information](https://istlsfastyet.com/)
@@ -386,7 +386,7 @@ Online solutions: <br>
 - [DNS over TLS](https://tools.ietf.org/html/rfc7858)
 - [Encrypted SNI standard](https://tools.ietf.org/html/draft-ietf-tls-esni-01)
 
-## Authorization
+# Authorization
 - [The OAuth 2.0 Authorization Framework](https://tools.ietf.org/html/rfc6749)
 - [OAuth 2.0 introduction](https://github.com/trimstray/sandmap)
 - [JSON Web Token (JWT)](https://tools.ietf.org/html/rfc7519)
@@ -428,7 +428,7 @@ Online solutions: <br>
 [Safe elliptic curvers](https://safecurves.cr.yp.to/) <br>
 [Curve25519](https://cr.yp.to/ecdh/curve25519-20060209.pdf) <br>
 
-## Hashing
+# Hashing
 - [smhasher testing suite](https://github.com/rurban/smhasher)
 - [Fast Positive Hash](https://github.com/leo-yuriev/t1ha)
 - [Meow hash](https://github.com/cmuratori/meow_hash)
@@ -439,7 +439,7 @@ Online solutions: <br>
 - [MurmurHash3](https://github.com/aappleby/smhasher)
 - [Dieharder: A Random Number Test Suite](http://webhome.phy.duke.edu/~rgb/General/dieharder.php)
 
-## Videos
+# Videos
 - [Kafka 2017 Summit](https://www.confluent.io/kafka-summit-sf17/resource/) <br>
 - [CppCon 2017](https://www.youtube.com/playlist?list=PLHTh1InhhwT6bwIpRk0ZbCA0N2p1taxd6) <br>
 - [@Scale 2017](https://atscaleconference.com/videos-articles/) <br>
@@ -451,7 +451,7 @@ Online solutions: <br>
 - [KubeCon + CloudNativeCon 2018](https://www.youtube.com/playlist?list=PLj6h78yzYM2N8GdbjmhVU65KYm_68qBmo)
 - [Networking @Scale 2018](https://code.fb.com/core-data/networking-scale-2018-recap/)
 
-## Tools
+# Tools
 - [htop](https://github.com/hishamhm/htop)
 - [gtop](https://github.com/aksakalli/gtop)
 - [nvtop](https://github.com/Syllo/nvtop)
