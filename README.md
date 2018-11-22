@@ -401,6 +401,7 @@ Online solutions: <br>
 [libzbc (direct disk access)](https://github.com/hgst/libzbc) <br>
 [SMR drives at Dropbox](https://blogs.dropbox.com/tech/2018/06/extending-magic-pocket-innovation-with-the-first-petabyte-scale-smr-drive-deployment/) <br>
 [Intel VROC overview and performance testing](https://www.storagereview.com/intel_virtual_raid_on_cpu_vroc_review) <br>
+[Blb (distributed object storage system developed by Upthere)](https://github.com/westerndigitalcorporation/blb) <br>
 
 # TLS
 - [The Illustrated TLS Connection](https://tls.ulfheim.net/)
