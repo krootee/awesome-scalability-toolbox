@@ -253,6 +253,7 @@
 [Bookkeeper](https://bookkeeper.apache.org/distributedlog/) <br>
 [LogDevice (Facebook)](https://code.facebook.com/posts/357056558062811/logdevice-a-distributed-data-store-for-logs/) <br>
 Online solutions: <br>
+[LogDNA](https://www.logdna.com/) <br>
 [Loggly](https://www.loggly.com/) <br>
 [Logentries](https://logentries.com/) <br>
 [Papertrail](https://papertrailapp.com/) <br>
