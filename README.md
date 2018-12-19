@@ -145,6 +145,7 @@
 [Kubeadm (cluster setup)](https://github.com/kubernetes/kubeadm) <br>
 [kops (cluster setup)](https://github.com/kubernetes/kops) <br>
 [kubectx & kubens (switch clusters and namespaces](https://github.com/ahmetb/kubectx) <br>
+[goldpinger](https://github.com/bloomberg/goldpinger) <br>
 [kube-ps1 (prompt info)](https://github.com/jonmosco/kube-ps1) <br>
 [stern (pod and container tailing)](https://github.com/wercker/stern) <br>
 [click (cli controller)](https://github.com/databricks/click) <br>
@@ -188,6 +189,7 @@
 - [gRPC status codes](https://github.com/grpc/grpc/blob/master/doc/statuscodes.md)
 - [gRPC 2 years in production](https://www.youtube.com/watch?v=7FZ6ZyzGex0)
 - [gRPC-Web client](https://github.com/improbable-eng/grpc-web/)
+- [gRPC GUI client](https://github.com/uw-labs/bloomrpc)
 
 # Service monitoring, metrics collection / graphing
 - [Grafana](https://grafana.com/)
