@@ -489,6 +489,7 @@ Online solutions: <br>
 - [KubeCon + CloudNativeCon 2018](https://www.youtube.com/playlist?list=PLj6h78yzYM2N8GdbjmhVU65KYm_68qBmo)
 - [Networking @Scale 2018](https://code.fb.com/core-data/networking-scale-2018-recap/)
 - [Highload++ Siberia 2018](http://www.highload.ru/siberia/2018/)
+- [GrafanaCon 2019](https://www.youtube.com/playlist?list=PLDGkOdUX1UjqKc3ryyoSpWZvs7yktklQr)
 
 # Tools
 - [htop](https://github.com/hishamhm/htop)
