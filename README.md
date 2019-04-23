@@ -398,7 +398,7 @@ Online solutions: <br>
 [On time and UTC](https://zachholman.com/talk/utc-is-enough-for-everyone-right) <br>
 [The tail at scale (reducing latency long tail)](https://www2.cs.duke.edu/courses/cps296.4/fall13/838-CloudPapers/dean_longtail.pdf) <br>
 [Optimizing ScyllaDB to run inside Docker container](https://www.scylladb.com/2018/08/09/cost-containerization-scylla/) <br>
-[Using PMM with EverSQL to optimize queries](https://www.percona.com/blog/2019/01/22/monitor-and-optimize-slow-queries-with-pmm-and-eversql-part-one/) and [part 2)(
+[Using PMM with EverSQL to optimize queries](https://www.percona.com/blog/2019/01/22/monitor-and-optimize-slow-queries-with-pmm-and-eversql-part-one/) and [part 2](
 https://www.percona.com/blog/2019/01/28/monitor-and-optimize-slow-queries-with-pmm-and-eversql-part-2/) <br>
 
 # Disk storage
