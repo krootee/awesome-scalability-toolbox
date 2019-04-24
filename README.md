@@ -400,6 +400,7 @@ Online solutions: <br>
 [Optimizing ScyllaDB to run inside Docker container](https://www.scylladb.com/2018/08/09/cost-containerization-scylla/) <br>
 [Using PMM with EverSQL to optimize queries](https://www.percona.com/blog/2019/01/22/monitor-and-optimize-slow-queries-with-pmm-and-eversql-part-one/) and [part 2](
 https://www.percona.com/blog/2019/01/28/monitor-and-optimize-slow-queries-with-pmm-and-eversql-part-2/) <br>
+[Learn where some of the network sysctl variables fit into the Linux/Kernel network flow](https://github.com/leandromoreira/linux-network-performance-parameters) <br>
 
 # Disk storage
 [libzbc (direct disk access)](https://github.com/hgst/libzbc) <br>
@@ -513,6 +514,7 @@ https://www.percona.com/blog/2019/01/28/monitor-and-optimize-slow-queries-with-p
 - [dive](https://github.com/wagoodman/dive)
 - [nnn](https://github.com/jarun/nnn)
 - [ethr](https://github.com/Microsoft/Ethr)
+- [termshark (CLI UI for Wireshark)](https://github.com/gcla/termshark)
 
 # Misc
 [High Scalability/Availability/Stability articles list](https://github.com/binhnguyennus/awesome-scalability) <br>
