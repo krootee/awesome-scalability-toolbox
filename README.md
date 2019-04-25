@@ -515,6 +515,7 @@ https://www.percona.com/blog/2019/01/28/monitor-and-optimize-slow-queries-with-p
 - [nnn](https://github.com/jarun/nnn)
 - [ethr](https://github.com/Microsoft/Ethr)
 - [termshark (CLI UI for Wireshark)](https://github.com/gcla/termshark)
+- [xdpcap (tcpdump for XDP)](https://github.com/cloudflare/xdpcap)
 
 # Misc
 [High Scalability/Availability/Stability articles list](https://github.com/binhnguyennus/awesome-scalability) <br>
