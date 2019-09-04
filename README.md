@@ -283,17 +283,18 @@ Online solutions: <br>
 [Concourse](https://concourse.ci) <br>
 
 # CDNs
-[Akamai](https://www.akamai.com/) <br>
-[Fastly](https://www.fastly.com/) <br>
-[Level3](http://www.level3.com/en/products/content-delivery-network/) <br>
-[Edgecast](https://www.verizondigitalmedia.com/) <br>
-[Traffic Control (Self-hosted CDN)](https://trafficcontrol.apache.org/) <br>
+- [Akamai](https://www.akamai.com/)
+- [Fastly](https://www.fastly.com/)
+- [Level3](http://www.level3.com/en/products/content-delivery-network/)
+- [Edgecast](https://www.verizondigitalmedia.com/)
+- [Traffic Control (Self-hosted CDN)](https://trafficcontrol.apache.org/)
 
 # Domain registrars
 - [MarkMonitor](https://www.markmonitor.com/)
 - [Cloudflare](https://www.cloudflare.com/registrar/)
 
 # AWS
+- [AWS Infrastructure overview](https://www.infrastructure.aws/)
 - [awscli](https://aws.amazon.com/cli/)
 - [awless](https://github.com/wallix/awless)
 - [S3 Browser](https://s3browser.com/)
