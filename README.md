@@ -5,7 +5,7 @@
 - [Service mesh](#service-mesh)
 - [Structured and unstructured data storage](#structured-and-unstructured-data-storage)
 - [Distributed consensus management, service discovery and configuration](#distributed-consensus-management-service-discovery-and-configuration)
-- [Infrastructure provisioning](#Infrastructure provisioning)
+- [Infrastructure provisioning](#Infrastructure-provisioning)
 - [Containers](#containers)
 - [Kubernetes](#kubernetes)
 - [Jsonnet](#jsonnet)
