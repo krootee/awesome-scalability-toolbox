@@ -5,9 +5,10 @@
 - [Service mesh](#service-mesh)
 - [Structured and unstructured data storage](#structured-and-unstructured-data-storage)
 - [Distributed consensus management, service discovery and configuration](#distributed-consensus-management-service-discovery-and-configuration)
+- [Infrastructure provisioning](#Infrastructure provisioning)
 - [Containers](#containers)
-- [Jsonnet](#jsonnet)
 - [Kubernetes](#kubernetes)
+- [Jsonnet](#jsonnet)
 - [RPC, Communication between system nodes](#rpc-communication-between-system-nodes)
 - [gRPC](#grpc)
 - [Service monitoring, metrics collection / graphing](#service-monitoring-metrics-collection--graphing)
@@ -36,7 +37,7 @@
 # Architecture diagrams, API documentation
 [Lucidchart](https://www.lucidchart.com/) <br>
 [Mermaid (diagrams from text)](https://mermaidjs.github.io/) <br>
-[Cloudcraft (AWS optimized)](https://cloudcraft.co/) <br>
+[Cloudcraft (AWS only)](https://cloudcraft.co/) <br>
 [Swagger](https://swagger.io/) <br>
 [Cacoo](https://cacoo.com/) <br>
 [Creately](https://creately.com/) <br>
@@ -118,6 +119,13 @@
 [Secure Production Identity Framework For Everyone (SPIFFE)](https://github.com/spiffe/spiffe) <br>
 [ZooKeeper](https://zookeeper.apache.org/) <br>
 
+# Infrastructure provisioning
+[Terraform](https://www.terraform.io/) <br>
+[Terragrunt](https://terragrunt.gruntwork.io/) <br>
+[Terraform best practices](https://www.terraform-best-practices.com/) <br>
+[Terraform AWS modules](https://github.com/terraform-aws-modules) <br>
+[modules.tf - Convert Cloudcraft diagrams to Terraform code](https://modules.tf/) <br>
+
 # Containers
 - [Docker](https://www.docker.com/)
 - [Awesome Docker list](https://github.com/veggiemonk/awesome-docker)
@@ -129,13 +137,6 @@
 - [gVisor (sandbox runtime)](https://github.com/google/gvisor)
 - [Weave Scope (monitoring)](https://github.com/weaveworks/scope)
 - [SysDig (monitoring)](https://github.com/draios/sysdig)
-
-# Jsonnet
-- [jsonnet](http://jsonnet.org/)
-- [jsonnet builds](https://github.com/krootee/jsonnet-releases)
-- [Visual Studio Code plugin](https://github.com/heptio/vscode-jsonnet)
-- [IntelliJ plugin (alpha)](https://github.com/databricks/intellij-jsonnet)
-- [Style guide (Databricks)](https://github.com/databricks/jsonnet-style-guide)
 
 # Kubernetes
 [Kompose (Docker Compose to k8s)](http://kompose.io/) <br>
@@ -169,6 +170,13 @@
 [Weave Scope](https://github.com/weaveworks/scope/) <br>
 [Kubernetic (desktop UI client)](https://kubernetic.com/) <br>
 [50 Useful Kubernetes Tools](https://caylent.com/50-useful-kubernetes-tools/) <br>
+
+# Jsonnet
+- [jsonnet](http://jsonnet.org/)
+- [jsonnet builds](https://github.com/krootee/jsonnet-releases)
+- [Visual Studio Code plugin](https://github.com/heptio/vscode-jsonnet)
+- [IntelliJ plugin (alpha)](https://github.com/databricks/intellij-jsonnet)
+- [Style guide (Databricks)](https://github.com/databricks/jsonnet-style-guide)
 
 # RPC, Communication between system nodes
 [gRPC](https://grpc.io/) <br>
