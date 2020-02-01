@@ -47,11 +47,11 @@
 # Message queues
 [Kafka](https://kafka.apache.org/) <br>
 [RabbitMQ](https://www.rabbitmq.com/) <br>
+[Disque (by antirez as Redis module in 6.0)](https://github.com/antirez/disque-module) <br>
 [ActiveMQ](http://activemq.apache.org/) <br>
 [ZeroMQ](http://zeromq.org/) <br>
 [nanomsg](http://nanomsg.org/) <br>
 [phxqueue (from Tencent)](https://github.com/Tencent/phxqueue) <br>
-[Disque (antirez)](https://github.com/antirez/disque) (Would be part of Redis 4.2) <br>
 [HornetQ](http://hornetq.jboss.org/) <br>
 [IronMQ (cloud)](https://www.iron.io/platform/ironmq/) <br>
 
