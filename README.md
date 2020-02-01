@@ -54,6 +54,7 @@
 [phxqueue (from Tencent)](https://github.com/Tencent/phxqueue) <br>
 [HornetQ](http://hornetq.jboss.org/) <br>
 [IronMQ (cloud)](https://www.iron.io/platform/ironmq/) <br>
+[nanomsg (C and Go only)](https://github.com/nanomsg/nng) <br>
 
 # Load balancers, reverse proxy, accelerators, web servers
 - [Varnish](https://varnish-cache.org/)
