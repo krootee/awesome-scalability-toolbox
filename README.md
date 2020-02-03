@@ -206,6 +206,7 @@
 - [Graphite](https://graphiteapp.org/)
 - [Prometheus](https://prometheus.io/)
 - [Thanos (Prometheus long term storage)](https://thanos.io/)
+- [Cortex (Prometheus long term storage)](https://cortexmetrics.io/)
 - [OpenMetrics](https://github.com/OpenObservability/OpenMetrics)
 - [eBPF exporter (Prometheus)](https://github.com/cloudflare/ebpf_exporter)
 - [Node Exporter (Prometheus)](https://github.com/prometheus/node_exporter)
