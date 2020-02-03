@@ -425,6 +425,7 @@ https://www.percona.com/blog/2019/01/28/monitor-and-optimize-slow-queries-with-p
 
 # TLS
 - [The Illustrated TLS Connection](https://tls.ulfheim.net/)
+- [A Readable Specification of TLS 1.3](https://davidwong.fr/tls13/)
 - [Sonar](https://sonarwhal.com/)
 - [TLS information](https://istlsfastyet.com/)
 - [Mutuals TLS (mTLS)](https://www.codeproject.com/Articles/326574/An-Introduction-to-Mutual-SSL-Authentication)
