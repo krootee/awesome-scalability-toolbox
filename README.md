@@ -360,6 +360,7 @@ Online solutions: <br>
 [How LinkedIn used TCP Anycast to make the site faster](https://www.slideshare.net/shawnzandi/how-linkedin-used-tcp-anycast-to-make-the-site-faster) <br>
 [Roughtime protocol](https://roughtime.googlesource.com/roughtime) <br>
 [List of reserved IPv4 ranges (IANA IPv4 Special-Purpose Address Registry)](https://www.iana.org/assignments/iana-ipv4-special-registry/iana-ipv4-special-registry.xhtml)<br>
+[List of reserved IPv6 ranges (IANA IPv6 Global Unicast Address Assignments)](https://www.iana.org/assignments/ipv6-unicast-address-assignments/ipv6-unicast-address-assignments.xhtml)<br>
 
 # SDN
 [Stratum](https://stratumproject.org/) <br>
