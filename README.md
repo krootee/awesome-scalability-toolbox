@@ -437,6 +437,7 @@ https://www.percona.com/blog/2019/01/28/monitor-and-optimize-slow-queries-with-p
 - [DNS CAA helper](https://sslmate.com/caa/)
 - [DNS over TLS](https://tools.ietf.org/html/rfc7858)
 - [Encrypted SNI standard](https://tools.ietf.org/html/draft-ietf-tls-esni-01)
+- [TLS Delegated Credentials](https://tools.ietf.org/html/draft-ietf-tls-subcerts-05)
 
 # Authorization
 - [The OAuth 2.0 Authorization Framework](https://tools.ietf.org/html/rfc6749)
