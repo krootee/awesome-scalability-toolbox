@@ -359,6 +359,7 @@ Online solutions: <br>
 [Equal-cost multi-path routing (ECMP)](https://en.wikipedia.org/wiki/Equal-cost_multi-path_routing) <br>
 [How LinkedIn used TCP Anycast to make the site faster](https://www.slideshare.net/shawnzandi/how-linkedin-used-tcp-anycast-to-make-the-site-faster) <br>
 [Roughtime protocol](https://roughtime.googlesource.com/roughtime) <br>
+[List of reserved IPv4 ranges (IANA IPv4 Special-Purpose Address Registry)](https://www.iana.org/assignments/iana-ipv4-special-registry/iana-ipv4-special-registry.xhtml)<br>
 
 # SDN
 [Stratum](https://stratumproject.org/) <br>
