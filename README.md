@@ -1,38 +1,38 @@
 # Index
-- [Architecture diagrams, API documentation](#architecture-diagrams-api-documentation)
-- [Message queues](#message-queues)
-- [Load balancers, reverse proxy, accelerators, web servers](#load-balancers-reverse-proxy-accelerators-web-servers)
-- [Service mesh](#service-mesh)
-- [Structured and unstructured data storage](#structured-and-unstructured-data-storage)
-- [Distributed consensus management, service discovery and configuration](#distributed-consensus-management-service-discovery-and-configuration)
-- [Infrastructure provisioning](#Infrastructure-provisioning)
-- [Containers](#containers)
-- [Kubernetes](#kubernetes)
-- [Jsonnet](#jsonnet)
-- [RPC, Communication between system nodes](#rpc-communication-between-system-nodes)
-- [gRPC](#grpc)
-- [Service monitoring, metrics collection / graphing](#service-monitoring-metrics-collection--graphing)
-- [Infrastructure information management](#infrastructure-information-management)
-- [Distributed request tracing](#distributed-request-tracing)
-- [Load testing](#load-testing)
-- [Log management](#log-management)
-- [Feature Flags](#feature-flags)
-- [Deployment tools](#deployment-tools)
-- [CI (Continuous Integration)](#ci-continuous-integration)
-- [CDNs](#cdns)
-- [Domain registrars](#domain-registrars)
-- [AWS](#aws)
-- [Networking](#networking)
-- [SDN](#sdn)
-- [SRE (Site Reliability Engineering)](#sre-site-reliability-engineering)
-- [Disk storage](#disk-storage)
-- [TLS](#tls)
-- [Authorization](#authorization)
-- [Encryption](#encryption)
-- [Hashing](#hashing)
-- [Videos](#videos)
-- [Tools](#tools)
-- [Misc](#misc)
+[Architecture diagrams, API documentation](#architecture-diagrams-api-documentation) <br>
+[Message queues](#message-queues) <br>
+[Load balancers, reverse proxy, accelerators, web servers](#load-balancers-reverse-proxy-accelerators-web-servers) <br>
+[Service mesh](#service-mesh) <br>
+[Structured and unstructured data storage](#structured-and-unstructured-data-storage) <br>
+[Distributed consensus management, service discovery and configuration](#distributed-consensus-management-service-discovery-and-configuration) <br>
+[Infrastructure provisioning](#Infrastructure-provisioning) <br>
+[Containers](#containers) <br>
+[Kubernetes](#kubernetes) <br>
+[Jsonnet](#jsonnet) <br>
+[RPC, Communication between system nodes](#rpc-communication-between-system-nodes) <br>
+[gRPC](#grpc) <br>
+[Service monitoring, metrics collection / graphing](#service-monitoring-metrics-collection--graphing) <br>
+[Infrastructure information management](#infrastructure-information-management) <br>
+[Distributed request tracing](#distributed-request-tracing) <br>
+[Load testing](#load-testing) <br>
+[Log management](#log-management) <br>
+[Feature Flags](#feature-flags) <br>
+[Deployment tools](#deployment-tools) <br>
+[CI (Continuous Integration)](#ci-continuous-integration) <br>
+[CDNs](#cdns) <br>
+[Domain registrars](#domain-registrars) <br>
+[AWS](#aws) <br>
+[Networking](#networking) <br>
+[SDN](#sdn) <br>
+[SRE (Site Reliability Engineering)](#sre-site-reliability-engineering) <br>
+[Disk storage](#disk-storage) <br>
+[TLS](#tls) <br>
+[Authorization](#authorization) <br>
+[Encryption](#encryption) <br>
+[Hashing](#hashing) <br>
+[Videos](#videos) <br>
+[Tools](#tools) <br>
+[Misc](#misc) <br>
 
 # Architecture diagrams, API documentation
 [Lucidchart](https://www.lucidchart.com/) <br>
@@ -57,57 +57,58 @@
 [nanomsg (C and Go only)](https://github.com/nanomsg/nng) <br>
 
 # Load balancers, reverse proxy, accelerators, web servers
-- [Varnish](https://varnish-cache.org/)
-- [HAProxy](http://www.haproxy.org/)
-- [nginx](https://www.nginx.com/), [nginx config](https://nginxconfig.io/)
-- [OpenResty](https://openresty.org/en/)
-- [Tomcat](https://tomcat.apache.org/)
-- [Træfik](https://traefik.io/)
-- [Tarantool (mail.ru)](https://tarantool.org/)
-- [lightttpd](https://www.lighttpd.net/)
-- [katran (BPF/XDP L4 load balancer, Facebook)](https://github.com/facebookincubator/katran)
-- [GitHub Load Balancer Director (GUE, ECMP, DPDK)](https://github.com/github/glb-director)
+[HAProxy](http://www.haproxy.org/) <br>
+[Envoy](https://www.envoyproxy.io/) <br>
+[nginx](https://www.nginx.com/), [nginx config](https://nginxconfig.io/) <br>
+[OpenResty](https://openresty.org/en/) <br>
+[Varnish](https://varnish-cache.org/) <br>
+[Tomcat](https://tomcat.apache.org/) <br>
+[Træfik](https://traefik.io/) <br>
+[Tarantool (mail.ru)](https://tarantool.org/) <br>
+[lightttpd](https://www.lighttpd.net/) <br>
+[katran (BPF/XDP L4 load balancer, Facebook)](https://github.com/facebookincubator/katran) <br>
+[GitHub Load Balancer Director (GUE, ECMP, DPDK)](https://github.com/github/glb-director) <br>
 
 # Service mesh
-- [Envoy L3/4/7 proxy (Lyft/Google, C++)](https://www.envoyproxy.io/)
-- [Envoy introduction](https://www.youtube.com/watch?v=RVZX4CwKhGE)
-- [Learn Envoy](https://www.learnenvoy.io/)
-- [Rotor (xDS, Turbine Labs)](https://github.com/turbinelabs/rotor)
-- [ModSecurity for Envoy (WAF)](https://github.com/octarinesec/ModSecurity-envoy)
-- [Envoy Java control plane](https://github.com/envoyproxy/java-control-plane)
-- [Istio service mesh controller](https://istio.io/)
-- [Istio introduction](https://www.youtube.com/watch?v=s4qasWn_mFc)
-- [linkerd L5 proxy (Finagle based, JVM)](https://linkerd.io/)
-- [linkerd introduction](https://www.youtube.com/watch?v=0xYSy6OmjUM)
-- [Conduit (Rust, linkerd devs)](https://conduit.io/)
-- [Netflix Vizceral (observability)](https://github.com/Netflix/vizceral)
-- [Kiali (observability, Istio)](https://kiali.org)
-- [Vistio (observability, Istio)](https://github.com/nmnellis/vistio)
+[Envoy](https://www.envoyproxy.io/) <br>
+[Envoy introduction](https://www.youtube.com/watch?v=RVZX4CwKhGE) <br>
+[Learn Envoy](https://www.learnenvoy.io/) <br>
+[Rotor (xDS, Turbine Labs)](https://github.com/turbinelabs/rotor) <br>
+[ModSecurity for Envoy (WAF)](https://github.com/octarinesec/ModSecurity-envoy) <br>
+[Envoy Java control plane](https://github.com/envoyproxy/java-control-plane) <br>
+[Istio service mesh controller](https://istio.io/) <br>
+[Istio introduction](https://www.youtube.com/watch?v=s4qasWn_mFc) <br>
+[linkerd L5 proxy (Finagle based, JVM)](https://linkerd.io/) <br>
+[linkerd introduction](https://www.youtube.com/watch?v=0xYSy6OmjUM) <br>
+[Conduit (Rust, linkerd devs)](https://conduit.io/) <br>
+[Netflix Vizceral (observability)](https://github.com/Netflix/vizceral) <br>
+[Kiali (observability, Istio)](https://kiali.org) <br>
+[Vistio (observability, Istio)](https://github.com/nmnellis/vistio) <br>
 
 # Structured and unstructured data storage
-- [PostgreSQL](https://www.postgresql.org/)
-- [Postgres Pro (PostgreSQL)](https://postgrespro.ru/)
-- [JSON in Postgre 10.x, 11.x, PostgreSQL 9.6 vs Mongo 3.4](https://www.youtube.com/watch?v=SNzOZKvFZ68)
-- [Why Uber Engineering Switched from Postgres to MySQL](https://eng.uber.com/mysql-migration/) and [Follow up 1](https://www.slideshare.net/AlexanderKorotkov/our-answer-to-uber/), [2](https://blog.2ndquadrant.com/thoughts-on-ubers-list-of-postgres-limitations/), [3](http://thebuild.com/presentations/uber-perconalive-2017.pdf), [4](https://rhaas.blogspot.gr/2016/08/ubers-move-away-from-postgresql.html), [5](https://devconf.ru/ru/archive/devconf2017/offer/314), [6](https://habr.com/company/devconf/blog/353682/), [7](https://use-the-index-luke.com/blog/2016-07-29/on-ubers-choice-of-databases)
-- [Redis](https://redis.io/), [Redis modules (Open Source)](https://goodformcode.com/)
-- [Memcached](https://github.com/memcached/memcached/), [extstore storage shim](https://github.com/memcached/memcached/wiki/Extstore), [Caching beyond RAM: the case for NVMe](https://memcached.org/blog/nvm-caching/)
-- [FASTER (Microsoft)](https://github.com/Microsoft/FASTER), [official site](https://www.microsoft.com/en-us/research/project/FASTER/)
-- [MySQL](https://www.mysql.com/)
-- [RocksDB (InnoDB replacement by Facebook)](http://myrocks.io/), [Using NVM in Facebook (RocksDB)](https://dl.acm.org/citation.cfm?id=3190524)
-- [Vitess (MySQL auto horizontal scaling)](http://vitess.io/)
-- [MariaDB (MySQL)](https://mariadb.com/)
-- [Percona (MySQL)](https://www.percona.com/)
-- [MongoDB](https://www.mongodb.com/)
-- [Scylla (Cassandra on steroids)](http://www.scylladb.com/), [ScyllaDB with Optane](https://www.scylladb.com/2017/08/08/intel-optane-review/)
-- [Cassandra](https://cassandra.apache.org/)
-- [CockroachDB](https://www.cockroachlabs.com/)
-- [Aerospike](http://www.aerospike.com/)
-- [Anna (experimental, Berkeley RISE Lab)](https://github.com/fluent-project/fluent/tree/master/kvs), [white paper](https://arxiv.org/abs/1809.00089)
-- [LogDevice (Facebook, distributed storage for sequential data)](https://github.com/facebookincubator/LogDevice)
-- [OrientDB (graph)](https://orientdb.com/)
-- [Database isolation levels](https://en.wikipedia.org/wiki/Isolation_(database_systems))
-- [The Log-Structured Merge-Tree (LSM-Tree) whitepaper](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.44.2782&rep=rep1&type=pdf)
-- [B+ tree](https://en.wikipedia.org/wiki/B%2B_tree)
+[PostgreSQL](https://www.postgresql.org/) <br>
+[Postgres Pro (PostgreSQL)](https://postgrespro.ru/) <br>
+[JSON in Postgre 10.x, 11.x, PostgreSQL 9.6 vs Mongo 3.4](https://www.youtube.com/watch?v=SNzOZKvFZ68) <br>
+[Why Uber Engineering Switched from Postgres to MySQL](https://eng.uber.com/mysql-migration/) and [Follow up 1](https://www.slideshare.net/AlexanderKorotkov/our-answer-to-uber/), [2](https://blog.2ndquadrant.com/thoughts-on-ubers-list-of-postgres-limitations/), [3](http://thebuild.com/presentations/uber-perconalive-2017.pdf), [4](https://rhaas.blogspot.gr/2016/08/ubers-move-away-from-postgresql.html), [5](https://devconf.ru/ru/archive/devconf2017/offer/314), [6](https://habr.com/company/devconf/blog/353682/), [7](https://use-the-index-luke.com/blog/2016-07-29/on-ubers-choice-of-databases) <br>
+[Redis](https://redis.io/), [Redis modules (Open Source)](https://goodformcode.com/) <br>
+[Memcached](https://github.com/memcached/memcached/), [extstore storage shim](https://github.com/memcached/memcached/wiki/Extstore), [Caching beyond RAM: the case for NVMe](https://memcached.org/blog/nvm-caching/) <br>
+[FASTER (Microsoft)](https://github.com/Microsoft/FASTER), [official site](https://www.microsoft.com/en-us/research/project/FASTER/) <br>
+[MySQL](https://www.mysql.com/) <br>
+[RocksDB (InnoDB replacement by Facebook)](http://myrocks.io/), [Using NVM in Facebook (RocksDB)](https://dl.acm.org/citation.cfm?id=3190524) <br>
+[Vitess (MySQL auto horizontal scaling)](http://vitess.io/) <br>
+[MariaDB (MySQL)](https://mariadb.com/) <br>
+[Percona (MySQL)](https://www.percona.com/) <br>
+[MongoDB](https://www.mongodb.com/) <br>
+[Scylla (Cassandra done right)](http://www.scylladb.com/), [ScyllaDB with Optane](https://www.scylladb.com/2017/08/08/intel-optane-review/) <br>
+[Cassandra](https://cassandra.apache.org/) <br>
+[CockroachDB](https://www.cockroachlabs.com/) <br>
+[Aerospike](http://www.aerospike.com/) <br>
+[Anna (experimental, Berkeley RISE Lab)](https://github.com/fluent-project/fluent/tree/master/kvs), [white paper](https://arxiv.org/abs/1809.00089) <br>
+[LogDevice (Facebook, distributed storage for sequential data)](https://github.com/facebookincubator/LogDevice) <br>
+[OrientDB (graph)](https://orientdb.com/) <br>
+[Database isolation levels](https://en.wikipedia.org/wiki/Isolation_(database_systems)) <br>
+[The Log-Structured Merge-Tree (LSM-Tree) whitepaper](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.44.2782&rep=rep1&type=pdf) <br>
+[B+ tree](https://en.wikipedia.org/wiki/B%2B_tree) <br>
 
 # Distributed consensus management, service discovery and configuration
 [Raft protocol](https://raft.github.io/) <br>
@@ -128,16 +129,16 @@
 [modules.tf - Convert Cloudcraft diagrams to Terraform code](https://modules.tf/) <br>
 
 # Containers
-- [Docker](https://www.docker.com/)
-- [Awesome Docker list](https://github.com/veggiemonk/awesome-docker)
-- [docker-autoheal (restart on unhealthy event)](https://github.com/willfarrell/docker-autoheal)
-- [Kubernetes](https://kubernetes.io/)
-- [Container Network Interface](https://github.com/containernetworking/cni)
-- [Mesosphere](https://mesosphere.com/)
-- [Mesos](https://mesos.apache.org/)
-- [gVisor (sandbox runtime)](https://github.com/google/gvisor)
-- [Weave Scope (monitoring)](https://github.com/weaveworks/scope)
-- [SysDig (monitoring)](https://github.com/draios/sysdig)
+[Docker](https://www.docker.com/) <br>
+[Awesome Docker list](https://github.com/veggiemonk/awesome-docker) <br>
+[docker-autoheal (restart on unhealthy event)](https://github.com/willfarrell/docker-autoheal) <br>
+[Kubernetes](https://kubernetes.io/) <br>
+[Container Network Interface](https://github.com/containernetworking/cni) <br>
+[Mesosphere](https://mesosphere.com/) <br>
+[Mesos](https://mesos.apache.org/) <br>
+[gVisor (sandbox runtime)](https://github.com/google/gvisor) <br>
+[Weave Scope (monitoring)](https://github.com/weaveworks/scope) <br>
+[SysDig (monitoring)](https://github.com/draios/sysdig) <br>
 
 # Kubernetes
 [Kompose (Docker Compose to k8s)](http://kompose.io/) <br>
@@ -173,11 +174,11 @@
 [50 Useful Kubernetes Tools](https://caylent.com/50-useful-kubernetes-tools/) <br>
 
 # Jsonnet
-- [jsonnet](http://jsonnet.org/)
-- [jsonnet builds](https://github.com/krootee/jsonnet-releases)
-- [Visual Studio Code plugin](https://github.com/heptio/vscode-jsonnet)
-- [IntelliJ plugin (alpha)](https://github.com/databricks/intellij-jsonnet)
-- [Style guide (Databricks)](https://github.com/databricks/jsonnet-style-guide)
+[jsonnet](http://jsonnet.org/) <br>
+[jsonnet builds](https://github.com/krootee/jsonnet-releases) <br>
+[Visual Studio Code plugin](https://github.com/heptio/vscode-jsonnet) <br>
+[IntelliJ plugin (alpha)](https://github.com/databricks/intellij-jsonnet) <br>
+[Style guide (Databricks)](https://github.com/databricks/jsonnet-style-guide) <br>
 
 # RPC, Communication between system nodes
 [gRPC](https://grpc.io/) <br>
@@ -194,11 +195,11 @@
 [QUIC](https://www.chromium.org/quic) <br>
 
 # gRPC
-- [Awesome gRPC list](https://github.com/grpc-ecosystem/awesome-grpc)
-- [gRPC status codes](https://github.com/grpc/grpc/blob/master/doc/statuscodes.md)
-- [gRPC 2 years in production](https://www.youtube.com/watch?v=7FZ6ZyzGex0)
-- [gRPC-Web client](https://github.com/improbable-eng/grpc-web/)
-- [gRPC GUI client](https://github.com/uw-labs/bloomrpc)
+[Awesome gRPC list](https://github.com/grpc-ecosystem/awesome-grpc) <br>
+[gRPC status codes](https://github.com/grpc/grpc/blob/master/doc/statuscodes.md) <br>
+[gRPC 2 years in production](https://www.youtube.com/watch?v=7FZ6ZyzGex0) <br>
+[gRPC-Web client](https://github.com/improbable-eng/grpc-web/) <br>
+[gRPC GUI client](https://github.com/uw-labs/bloomrpc) <br>
 
 # Service monitoring, metrics collection / graphing
 - [Grafana](https://grafana.com/)
@@ -295,26 +296,27 @@ Online solutions: <br>
 [JetBrains Space](https://www.jetbrains.com/space/) <br>
 
 # CDNs
-- [Akamai](https://www.akamai.com/)
-- [Fastly](https://www.fastly.com/)
-- [Level3](http://www.level3.com/en/products/content-delivery-network/)
-- [Edgecast](https://www.verizondigitalmedia.com/)
-- [Traffic Control (Self-hosted CDN)](https://trafficcontrol.apache.org/)
+[Akamai](https://www.akamai.com/) <br>
+[Fastly](https://www.fastly.com/) <br>
+[Cloudflare](https://www.cloudflare.com/cdn/) <br>
+[Level3](http://www.level3.com/en/products/content-delivery-network/) <br>
+[Edgecast](https://www.verizondigitalmedia.com/) <br>
+[Traffic Control (Self-hosted CDN)](https://trafficcontrol.apache.org/) <br>
 
 # Domain registrars
-- [MarkMonitor](https://www.markmonitor.com/)
-- [Cloudflare](https://www.cloudflare.com/registrar/)
+[MarkMonitor](https://www.markmonitor.com/) <br>
+[Cloudflare](https://www.cloudflare.com/registrar/) <br>
 
 # AWS
-- [AWS Infrastructure overview](https://www.infrastructure.aws/)
-- [awscli](https://aws.amazon.com/cli/)
-- [awless](https://github.com/wallix/awless)
-- [S3 Browser](https://s3browser.com/)
-- [CloudBerry S3 Explorer](https://www.cloudberrylab.com/explorer/amazon-s3.aspx)
-- [Analyze S3 speed from your location](https://cloudharmony.com/speedtest-for-aws:s3)
-- [Analyze AWS S3 and CloudFront logs](https://github.com/nagyv/s3stat) + [GoAccess](https://goaccess.io/)
-- [EC2 instance cheat sheet](https://www.ec2instances.info/)
-- [S3 meta information](https://github.com/whitfin/s3-meta)
+[AWS Infrastructure overview](https://www.infrastructure.aws/) <br>
+[awscli](https://aws.amazon.com/cli/) <br>
+[awless](https://github.com/wallix/awless) <br>
+[S3 Browser](https://s3browser.com/) <br>
+[CloudBerry S3 Explorer](https://www.cloudberrylab.com/explorer/amazon-s3.aspx) <br>
+[Analyze S3 speed from your location](https://cloudharmony.com/speedtest-for-aws:s3) <br>
+[Analyze AWS S3 and CloudFront logs](https://github.com/nagyv/s3stat) + [GoAccess](https://goaccess.io/) <br>
+[EC2 instance cheat sheet](https://www.ec2instances.info/) <br>
+[S3 meta information](https://github.com/whitfin/s3-meta) <br>
 
 # Networking
 [BPF introduction](https://qmonnet.github.io/whirl-offload/2016/09/01/dive-into-bpf/) <br>
@@ -447,12 +449,12 @@ https://www.percona.com/blog/2019/01/28/monitor-and-optimize-slow-queries-with-p
 - [TLS Delegated Credentials](https://tools.ietf.org/html/draft-ietf-tls-subcerts-05)
 
 # Authorization
-- [The OAuth 2.0 Authorization Framework](https://tools.ietf.org/html/rfc6749)
-- [OAuth 2.0 introduction](https://github.com/trimstray/sandmap)
-- [JSON Web Token (JWT)](https://tools.ietf.org/html/rfc7519)
-- [JSON Web Signature (JWS)](https://tools.ietf.org/html/rfc7515)
-- [JSON Web Encryption (JWE)](https://tools.ietf.org/html/rfc7516)
-- [JWT playground](https://jwt.io/)
+[The OAuth 2.0 Authorization Framework](https://tools.ietf.org/html/rfc6749) <br>
+[OAuth 2.0 introduction](https://github.com/trimstray/sandmap) <br>
+[JSON Web Token (JWT)](https://tools.ietf.org/html/rfc7519) <br>
+[JSON Web Signature (JWS)](https://tools.ietf.org/html/rfc7515) <br>
+[JSON Web Encryption (JWE)](https://tools.ietf.org/html/rfc7516) <br>
+[JWT playground](https://jwt.io/) <br>
 
 # Encryption
 [OpenSSL](https://www.openssl.org/) <br>
