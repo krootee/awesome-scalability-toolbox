@@ -202,30 +202,29 @@
 [gRPC GUI client](https://github.com/uw-labs/bloomrpc) <br>
 
 # Service monitoring, metrics collection / graphing
-- [Grafana](https://grafana.com/)
-- [Grafonnet-lib (generate dashboards for Grafana)](https://github.com/grafana/grafonnet-lib)
-- [Graphite](https://graphiteapp.org/)
-- [Prometheus](https://prometheus.io/)
-- [Thanos (Prometheus long term storage)](https://thanos.io/)
-- [Cortex (Prometheus long term storage)](https://cortexmetrics.io/)
-- [OpenMetrics](https://github.com/OpenObservability/OpenMetrics)
-- [eBPF exporter (Prometheus)](https://github.com/cloudflare/ebpf_exporter)
-- [Node Exporter (Prometheus)](https://github.com/prometheus/node_exporter)
-- [cAdvisor (container monitoring)](https://github.com/google/cadvisor)
-- [ClichHouse (Yandex)](https://clickhouse.yandex/)
-- [Druid (Imply)](http://druid.io/)
-- [Pinot (Linkedin)](https://github.com/linkedin/pinot/)
-- [Architecture analysis of ClickHouse, Druid and Pinot](https://medium.com/@leventov/comparison-of-the-open-source-olap-systems-for-big-data-clickhouse-druid-and-pinot-8e042a5ed1c7)
-- [HTTP Analytics for 6M requests per second using ClickHouse](https://blog.cloudflare.com/http-analytics-for-6m-requests-per-second-using-clickhouse/)
-- [NetData](https://my-netdata.io)
-- [Vector (on-host monitoring)](http://vectoross.io)
-- [okmeter](https://okmeter.io)
-- [Datadog](https://www.datadoghq.com)
-- [TimescaleDB](https://github.com/timescale/timescaledb)
-- [KairosDB](https://kairosdb.github.io)
-- [Zabbix](https://www.zabbix.com)
-- [PagerDuty](https://www.pagerduty.com)
-- [NewRelic](https://newrelic.com)
+[Grafana](https://grafana.com/) <br>
+[Grafonnet-lib (generate dashboards for Grafana)](https://github.com/grafana/grafonnet-lib) <br>
+[Graphite](https://graphiteapp.org/) <br>
+[Prometheus](https://prometheus.io/) <br>
+[Thanos (Prometheus long term storage)](https://thanos.io/) <br>
+[Cortex (Prometheus long term storage)](https://cortexmetrics.io/) <br>
+[OpenMetrics](https://github.com/OpenObservability/OpenMetrics) <br>
+[eBPF exporter (Prometheus)](https://github.com/cloudflare/ebpf_exporter) <br>
+[Node Exporter (Prometheus)](https://github.com/prometheus/node_exporter) <br>
+[cAdvisor (container monitoring)](https://github.com/google/cadvisor) <br>
+[ClichHouse (Yandex)](https://clickhouse.yandex/) <br>
+[Druid (Imply)](http://druid.io/) <br>
+[Pinot (Linkedin)](https://github.com/linkedin/pinot/) <br>
+[Architecture analysis of ClickHouse, Druid and Pinot](https://medium.com/@leventov/comparison-of-the-open-source-olap-systems-for-big-data-clickhouse-druid-and-pinot-8e042a5ed1c7) <br>
+[HTTP Analytics for 6M requests per second using ClickHouse](https://blog.cloudflare.com/http-analytics-for-6m-requests-per-second-using-clickhouse/) <br>
+[NetData](https://my-netdata.io) <br>
+[Vector (on-host monitoring)](http://vectoross.io) <br>
+[okmeter](https://okmeter.io) <br>
+[Datadog](https://www.datadoghq.com) <br>
+[TimescaleDB](https://github.com/timescale/timescaledb) <br>
+[KairosDB](https://kairosdb.github.io) <br>
+[Zabbix](https://www.zabbix.com) <br>
+[PagerDuty](https://www.pagerduty.com) <br>
 
 # Infrastructure information management
 [Osquery (Facebook)](https://osquery.io/) <br>
@@ -428,25 +427,25 @@ https://www.percona.com/blog/2019/01/28/monitor-and-optimize-slow-queries-with-p
 [Blb (distributed object storage system developed by Upthere)](https://github.com/westerndigitalcorporation/blb) <br>
 
 # TLS
-- [The Illustrated TLS Connection](https://tls.ulfheim.net/)
-- [A Readable Specification of TLS 1.3](https://davidwong.fr/tls13/)
-- [Sonar](https://sonarwhal.com/)
-- [TLS information](https://istlsfastyet.com/)
-- [Mutuals TLS (mTLS)](https://www.codeproject.com/Articles/326574/An-Introduction-to-Mutual-SSL-Authentication)
-- [Mozilla server side TLS information](https://wiki.mozilla.org/Security/Server_Side_TLS)
-- [testssl.sh](https://github.com/drwetter/testssl.sh)
-- [Mozilla Observatory](https://observatory.mozilla.org/)
-- [HTTP security headers testing](https://securityheaders.io/)
-- [Qualys SSL tests](https://www.ssllabs.com/ssltest)
-- [High-Tech Bridge SSL test](https://www.htbridge.com/ssl/)
-- [HTTP security tools](https://report-uri.io/home/tools)
-- [HSTS preloading](https://hstspreload.org)
-- [SRI hash generator](https://www.srihash.org/)
-- [Client side TLS test](https://www.howsmyssl.com/)
-- [DNS CAA helper](https://sslmate.com/caa/)
-- [DNS over TLS](https://tools.ietf.org/html/rfc7858)
-- [Encrypted SNI standard](https://tools.ietf.org/html/draft-ietf-tls-esni-01)
-- [TLS Delegated Credentials](https://tools.ietf.org/html/draft-ietf-tls-subcerts-05)
+[The Illustrated TLS Connection](https://tls.ulfheim.net/) <br>
+[A Readable Specification of TLS 1.3](https://davidwong.fr/tls13/) <br>
+[Sonar](https://sonarwhal.com/) <br>
+[TLS information](https://istlsfastyet.com/) <br>
+[Mutuals TLS (mTLS)](https://www.codeproject.com/Articles/326574/An-Introduction-to-Mutual-SSL-Authentication) <br>
+[Mozilla server side TLS information](https://wiki.mozilla.org/Security/Server_Side_TLS) <br>
+[testssl.sh](https://github.com/drwetter/testssl.sh) <br>
+[Mozilla Observatory](https://observatory.mozilla.org/) <br>
+[HTTP security headers testing](https://securityheaders.io/) <br>
+[Qualys SSL tests](https://www.ssllabs.com/ssltest) <br>
+[High-Tech Bridge SSL test](https://www.htbridge.com/ssl/) <br>
+[HTTP security tools](https://report-uri.io/home/tools) <br>
+[HSTS preloading](https://hstspreload.org) <br>
+[SRI hash generator](https://www.srihash.org/) <br>
+[Client side TLS test](https://www.howsmyssl.com/) <br>
+[DNS CAA helper](https://sslmate.com/caa/) <br>
+[DNS over TLS](https://tools.ietf.org/html/rfc7858) <br>
+[Encrypted SNI standard](https://tools.ietf.org/html/draft-ietf-tls-esni-01) <br>
+[TLS Delegated Credentials](https://tools.ietf.org/html/draft-ietf-tls-subcerts-05) <br>
 
 # Authorization
 [The OAuth 2.0 Authorization Framework](https://tools.ietf.org/html/rfc6749) <br>
@@ -491,53 +490,53 @@ https://www.percona.com/blog/2019/01/28/monitor-and-optimize-slow-queries-with-p
 [Curve25519](https://cr.yp.to/ecdh/curve25519-20060209.pdf) <br>
 
 # Hashing
-- [smhasher testing suite](https://github.com/rurban/smhasher)
-- [Fast Positive Hash](https://github.com/leo-yuriev/t1ha)
-- [Meow hash](https://github.com/cmuratori/meow_hash)
-- [HighwayHash and SipHash (Google)](https://github.com/google/highwayhash/)
-- [SipHash (original)](https://131002.net/siphash/)
-- [Blade2 (crypto)](https://blake2.net/)
-- [xxHash](http://www.xxhash.com/)
-- [MurmurHash3](https://github.com/aappleby/smhasher)
-- [Dieharder: A Random Number Test Suite](http://webhome.phy.duke.edu/~rgb/General/dieharder.php)
+[smhasher testing suite](https://github.com/rurban/smhasher) <br>
+[Fast Positive Hash](https://github.com/leo-yuriev/t1ha) <br>
+[Meow hash](https://github.com/cmuratori/meow_hash) <br>
+[HighwayHash and SipHash (Google)](https://github.com/google/highwayhash/) <br>
+[SipHash (original)](https://131002.net/siphash/) <br>
+[Blade2 (crypto)](https://blake2.net/) <br>
+[xxHash](http://www.xxhash.com/) <br>
+[MurmurHash3](https://github.com/aappleby/smhasher) <br>
+[Dieharder: A Random Number Test Suite](http://webhome.phy.duke.edu/~rgb/General/dieharder.php) <br>
 
 # Videos
-- [Kafka 2017 Summit](https://www.confluent.io/kafka-summit-sf17/resource/) <br>
-- [CppCon 2017](https://www.youtube.com/playlist?list=PLHTh1InhhwT6bwIpRk0ZbCA0N2p1taxd6) <br>
-- [@Scale 2017](https://atscaleconference.com/videos-articles/) <br>
-- [Strange Loop 2017](https://www.youtube.com/channel/UC_QIfHvN9auy2CoOdSfMWDw) <br>
-- [FOSDEM 2018](https://www.youtube.com/user/fosdemtalks/videos) <br>
-- [Computer Architecture course taught at ETH Zürich in Fall 2017](https://www.youtube.com/playlist?list=PL5Q2soXY2Zi9OhoVQBXYFIZywZXCPl4M_) <br>
-- [GrafanaCon 2018](https://www.youtube.com/playlist?list=PLDGkOdUX1UjpXR6BexaDoOIc0ksE2MzFI) <br>
-- [SREcon 2018](https://www.youtube.com/playlist?list=PLbRoZ5Rrl5lcszsvhnb4P9Ds4pSmVtkfp) <br>
-- [KubeCon + CloudNativeCon 2018](https://www.youtube.com/playlist?list=PLj6h78yzYM2N8GdbjmhVU65KYm_68qBmo)
-- [Networking @Scale 2018](https://code.fb.com/core-data/networking-scale-2018-recap/)
-- [Highload++ Siberia 2018](http://www.highload.ru/siberia/2018/)
-- [GrafanaCon 2019](https://www.youtube.com/playlist?list=PLDGkOdUX1UjqKc3ryyoSpWZvs7yktklQr)
+[Kafka 2017 Summit](https://www.confluent.io/kafka-summit-sf17/resource/) <br>
+[CppCon 2017](https://www.youtube.com/playlist?list=PLHTh1InhhwT6bwIpRk0ZbCA0N2p1taxd6) <br>
+[@Scale 2017](https://atscaleconference.com/videos-articles/) <br>
+[Strange Loop 2017](https://www.youtube.com/channel/UC_QIfHvN9auy2CoOdSfMWDw) <br>
+[FOSDEM 2018](https://www.youtube.com/user/fosdemtalks/videos) <br>
+[Computer Architecture course taught at ETH Zürich in Fall 2017](https://www.youtube.com/playlist?list=PL5Q2soXY2Zi9OhoVQBXYFIZywZXCPl4M_) <br>
+[GrafanaCon 2018](https://www.youtube.com/playlist?list=PLDGkOdUX1UjpXR6BexaDoOIc0ksE2MzFI) <br>
+[SREcon 2018](https://www.youtube.com/playlist?list=PLbRoZ5Rrl5lcszsvhnb4P9Ds4pSmVtkfp) <br>
+[KubeCon + CloudNativeCon 2018](https://www.youtube.com/playlist?list=PLj6h78yzYM2N8GdbjmhVU65KYm_68qBmo) <br>
+[Networking @Scale 2018](https://code.fb.com/core-data/networking-scale-2018-recap/) <br>
+[Highload++ Siberia 2018](http://www.highload.ru/siberia/2018/) <br>
+[GrafanaCon 2019](https://www.youtube.com/playlist?list=PLDGkOdUX1UjqKc3ryyoSpWZvs7yktklQr) <br>
 
 # Tools
-- [htop](https://github.com/hishamhm/htop)
-- [gtop](https://github.com/aksakalli/gtop)
-- [nvtop](https://github.com/Syllo/nvtop)
-- [k6 (load testing)](https://k6.io/)
-- [dnstrace](https://github.com/rs/dnstrace)
-- [upx](https://upx.github.io/)
-- [bat](https://github.com/sharkdp/bat)
-- [httpie](https://github.com/jakubroztocil/httpie)
-- [smenu](https://github.com/p-gen/smenu)
-- [awesome tmux](https://github.com/rothgar/awesome-tmux)
-- [py-spy (python profiler)](https://github.com/benfred/py-spy)
-- [kubespy](https://github.com/pulumi/kubespy)
-- [up](https://github.com/akavel/up)
-- [doh](https://github.com/picatz/doh)
-- [fx](https://github.com/antonmedv/fx)
-- [jid](https://github.com/simeji/jid)
-- [dive](https://github.com/wagoodman/dive)
-- [nnn](https://github.com/jarun/nnn)
-- [ethr](https://github.com/Microsoft/Ethr)
-- [termshark (CLI UI for Wireshark)](https://github.com/gcla/termshark)
-- [xdpcap (tcpdump for XDP)](https://github.com/cloudflare/xdpcap)
-- [flan (nmap based vulnerability scanner)](https://github.com/cloudflare/flan)
+[htop](https://github.com/hishamhm/htop) <br>
+[gtop](https://github.com/aksakalli/gtop) <br>
+[nvtop](https://github.com/Syllo/nvtop) <br>
+[k6 (load testing)](https://k6.io/) <br>
+[dnstrace](https://github.com/rs/dnstrace) <br>
+[upx](https://upx.github.io/) <br>
+[bat](https://github.com/sharkdp/bat) <br>
+[httpie](https://github.com/jakubroztocil/httpie) <br>
+[smenu](https://github.com/p-gen/smenu) <br>
+[awesome tmux](https://github.com/rothgar/awesome-tmux) <br>
+[py-spy (python profiler)](https://github.com/benfred/py-spy) <br>
+[kubespy](https://github.com/pulumi/kubespy) <br>
+[up](https://github.com/akavel/up) <br>
+[doh](https://github.com/picatz/doh) <br>
+[fx](https://github.com/antonmedv/fx) <br>
+[jid](https://github.com/simeji/jid) <br>
+[dive](https://github.com/wagoodman/dive) <br>
+[nnn](https://github.com/jarun/nnn) <br>
+[ethr](https://github.com/Microsoft/Ethr) <br>
+[termshark (CLI UI for Wireshark)](https://github.com/gcla/termshark) <br>
+[xdpcap (tcpdump for XDP)](https://github.com/cloudflare/xdpcap) <br>
+[flan (nmap based vulnerability scanner)](https://github.com/cloudflare/flan) <br>
 
 # Misc
 [High Scalability/Availability/Stability articles list](https://github.com/binhnguyennus/awesome-scalability) <br>
