@@ -291,7 +291,8 @@ Online solutions: <br>
 [TeamCity](https://www.jetbrains.com/teamcity) <br>
 [Jenkins](https://jenkins.io) <br>
 [Jenkins X (for k8s apps)](https://jenkins-x.io/) <br>
-[Concourse](https://concourse.ci) <br>
+[Azure DevOps](https://azure.microsoft.com/en-us/services/devops/) <br>
+[JetBrains Space](https://www.jetbrains.com/space/) <br>
 
 # CDNs
 - [Akamai](https://www.akamai.com/)
