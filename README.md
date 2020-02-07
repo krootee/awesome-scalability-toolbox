@@ -143,37 +143,31 @@
 # Kubernetes
 [minikube](https://minikube.sigs.k8s.io/) <br>
 [kubectl](https://kubernetes.io/docs/reference/kubectl/overview/) <br>
-[Helm (package manager)](https://helm.sh/) <br>
+[kustomize](https://github.com/kubernetes-sigs/kustomize) <br>
+[Helm](https://helm.sh/) <br>
+[List of K8s application management tools](https://docs.google.com/spreadsheets/d/1FCgqz1Ci7_VCz_wdh8vBitZ3giBtac_H8SBw4uxnrsE/edit#gid=0) <br>
 [Kompose (Docker Compose to k8s)](http://kompose.io/) <br>
 [ksonnet](https://ksonnet.io/) <br>
 [kubecfg](https://github.com/ksonnet/kubecfg) <br>
+[Skaffold](https://github.com/GoogleCloudPlatform/skaffold) <br>
+[Draft](https://github.com/Azure/draft) <br>
 [Kubespray (cluster setup)](https://kubespray.io/) <br>
-[Kubeadm (cluster setup)](https://github.com/kubernetes/kubeadm) <br>
 [kops (cluster setup)](https://github.com/kubernetes/kops) <br>
 [kubectx & kubens (switch clusters and namespaces](https://github.com/ahmetb/kubectx) <br>
-[goldpinger](https://github.com/bloomberg/goldpinger) <br>
-[kube-ps1 (prompt info)](https://github.com/jonmosco/kube-ps1) <br>
-[stern (pod and container tailing)](https://github.com/wercker/stern) <br>
-[click (cli controller)](https://github.com/databricks/click) <br>
-[prow (Github hooks)](https://github.com/kubernetes/test-infra/tree/master/prow) <br>
-[KubeGPU (Microsoft)](https://github.com/Microsoft/KubeGPU) <br>
-[Skaffold](https://github.com/GoogleCloudPlatform/skaffold) <br>
-[K8s management tools](https://docs.google.com/spreadsheets/u/1/d/1FCgqz1Ci7_VCz_wdh8vBitZ3giBtac_H8SBw4uxnrsE/htmlview#gid=0) <br>
-[Telepresence (fast dev environments)](https://www.telepresence.io/) <br>
-[Squash microservice debugger](https://github.com/solo-io/squash) <br>
-[AWS VPC Kubernetes CNI driver using IPvlan](https://github.com/lyft/cni-ipvlan-vpc-k8s) <br>
-[Kedge (Simple, Concise & Declarative Kubernetes Applications)](http://kedgeproject.org/) <br>
-[Contour (Ingress controller using Envoy)](https://github.com/heptio/contour) <br>
-[Gimbal (Ingress load balancer to many clusters)](https://github.com/heptio/gimbal) <br>
+[goldpinger (nodes connectivity test/display](https://github.com/bloomberg/goldpinger) <br>
+[kube-ps1 (bash prompt)](https://github.com/jonmosco/kube-ps1) <br>
+[stern (pod and container logs tailing)](https://github.com/wercker/stern) <br>
+[click (cli for large clusters)](https://github.com/databricks/click) <br>
+[Telepresence (for k8s services development)](https://www.telepresence.io/) <br>
 [Cilium](https://github.com/cilium/cilium) <br>
 [Calico](https://www.projectcalico.org) <br>
+[AWS VPC Kubernetes CNI driver using IPvlan](https://github.com/lyft/cni-ipvlan-vpc-k8s) <br>
+[Contour (Ingress controller using Envoy)](https://github.com/heptio/contour) <br>
+[Gimbal (Ingress load balancer to many clusters)](https://github.com/heptio/gimbal) <br>
 [Vault with Kubernetes](https://github.com/Boostport/kubernetes-vault) and [Video on improvements](https://www.youtube.com/watch?v=IulNdGlQR3A) <br>
-[Gitkube](https://gitkube.sh/) <br>
+[Weave Scope (Monitoring, visualisation & management for k8s)](https://github.com/weaveworks/scope/) <br>
 [Guide to Kubernetes networking (part 1)](https://medium.com/@ApsOps/an-illustrated-guide-to-kubernetes-networking-part-1-d1ede3322727), [Part 2](https://medium.com/@ApsOps/an-illustrated-guide-to-kubernetes-networking-part-2-13fdc6c4e24c) <br>
 [Kubernetes Security - Best Practice Guide](https://github.com/freach/kubernetes-security-best-practice) <br>
-[Weave Scope](https://github.com/weaveworks/scope/) <br>
-[Kubernetic (desktop UI client)](https://kubernetic.com/) <br>
-[50 Useful Kubernetes Tools](https://caylent.com/50-useful-kubernetes-tools/) <br>
 
 # Jsonnet
 [jsonnet](http://jsonnet.org/) <br>
