@@ -141,6 +141,9 @@
 [SysDig (monitoring)](https://github.com/draios/sysdig) <br>
 
 # Kubernetes
+[minikube](https://minikube.sigs.k8s.io/) <br>
+[kubectl](https://kubernetes.io/docs/reference/kubectl/overview/) <br>
+[Helm (package manager)](https://helm.sh/) <br>
 [Kompose (Docker Compose to k8s)](http://kompose.io/) <br>
 [ksonnet](https://ksonnet.io/) <br>
 [kubecfg](https://github.com/ksonnet/kubecfg) <br>
@@ -159,7 +162,6 @@
 [Telepresence (fast dev environments)](https://www.telepresence.io/) <br>
 [Squash microservice debugger](https://github.com/solo-io/squash) <br>
 [AWS VPC Kubernetes CNI driver using IPvlan](https://github.com/lyft/cni-ipvlan-vpc-k8s) <br>
-[Helm (package manager)](https://helm.sh/) <br>
 [Kedge (Simple, Concise & Declarative Kubernetes Applications)](http://kedgeproject.org/) <br>
 [Contour (Ingress controller using Envoy)](https://github.com/heptio/contour) <br>
 [Gimbal (Ingress load balancer to many clusters)](https://github.com/heptio/gimbal) <br>
