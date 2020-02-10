@@ -379,11 +379,10 @@ Online solutions: <br>
 [The Docker Book](https://www.dockerbook.com/) <br>
 [Site Reliability Engineer HandBook](https://s905060.gitbooks.io/site-reliability-engineer-handbook/) <br>
 [Linux Performance tools and materials](http://www.brendangregg.com/linuxperf.html) <br>
+[Understanding swap in Linux](https://chrisdown.name/2018/01/02/in-defence-of-swap.html) and [Video: Linux Memory Management at Scale: Under the Hood](https://www.youtube.com/watch?v=beefUhRH5lU) <br>
 [U2F devices review](https://github.com/hillbrad/U2FReviews) <br>
-[A self-service CA for OpenSSH](https://github.com/nsheridan/cashier) <br>
 [Optimizing web servers for high throughput and low latency (Dropbox)](https://blogs.dropbox.com/tech/2017/09/optimizing-web-servers-for-high-throughput-and-low-latency/) <br>
 [Shipilev Close Encounters of The Java Memory Model Kind](https://shipilev.net/blog/2016/close-encounters-of-jmm-kind/) <br>
-[Shipilev JVM Anatomy Park](https://shipilev.net/jvm-anatomy-park/) <br>
 [On disk IO - part 1](https://medium.com/@ifesdjeen/on-disk-io-part-1-flavours-of-io-8e1ace1de017), [part 2](https://medium.com/@ifesdjeen/on-disk-io-part-2-more-flavours-of-io-c945db3edb13), [part 3](https://medium.com/@ifesdjeen/on-disk-io-part-3-lsm-trees-8b2da218496f), [part 4](https://medium.com/@ifesdjeen/on-disk-storage-part-4-b-trees-30791060741), [part 5](https://medium.com/@ifesdjeen/on-disk-io-access-patterns-in-lsm-trees-2ba8dffc05f9) <br>
 [Transparent Hugepages: measuring the performance impact](https://alexandrnikitin.github.io/blog/transparent-hugepages-measuring-the-performance-impact/) <br>
 [Introduction 2016 NUMA Deep Dive Series](http://frankdenneman.nl/2016/07/06/introduction-2016-numa-deep-dive-series/) <br>
@@ -415,6 +414,8 @@ Online solutions: <br>
 https://www.percona.com/blog/2019/01/28/monitor-and-optimize-slow-queries-with-pmm-and-eversql-part-2/) <br>
 [Learn where some of the network sysctl variables fit into the Linux/Kernel network flow](https://github.com/leandromoreira/linux-network-performance-parameters) <br>
 [Understanding CORS: Mozilla page](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS), [Stackoverflow on CORS](https://stackoverflow.com/questions/29954037/why-is-an-options-request-sent-and-can-i-disable-it) <br>
+[A self-service CA for OpenSSH](https://github.com/nsheridan/cashier) <br>
+[Shipilev JVM Anatomy Park](https://shipilev.net/jvm-anatomy-park/) <br>
 
 # Disk storage
 [libzbc (direct disk access)](https://github.com/hgst/libzbc) <br>
