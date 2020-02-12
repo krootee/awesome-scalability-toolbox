@@ -496,7 +496,8 @@ https://www.percona.com/blog/2019/01/28/monitor-and-optimize-slow-queries-with-p
 [Meow hash](https://github.com/cmuratori/meow_hash) <br>
 [HighwayHash and SipHash (Google)](https://github.com/google/highwayhash/) <br>
 [SipHash (original)](https://131002.net/siphash/) <br>
-[Blade2 (crypto)](https://blake2.net/) <br>
+[BLAKE3 (crypto)](https://github.com/BLAKE3-team/BLAKE3) <br>
+[BLAKE2 (crypto)](https://blake2.net/) <br>
 [xxHash](http://www.xxhash.com/) <br>
 [MurmurHash3](https://github.com/aappleby/smhasher) <br>
 [Dieharder: A Random Number Test Suite](http://webhome.phy.duke.edu/~rgb/General/dieharder.php) <br>
