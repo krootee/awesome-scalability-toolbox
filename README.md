@@ -539,6 +539,7 @@ https://www.percona.com/blog/2019/01/28/monitor-and-optimize-slow-queries-with-p
 [termshark (CLI UI for Wireshark)](https://github.com/gcla/termshark) <br>
 [xdpcap (tcpdump for XDP)](https://github.com/cloudflare/xdpcap) <br>
 [flan (nmap based vulnerability scanner)](https://github.com/cloudflare/flan) <br>
+[broot (files)](https://github.com/Canop/broot) <br>  
 
 # Misc
 [High Scalability/Availability/Stability articles list](https://github.com/binhnguyennus/awesome-scalability) <br>
