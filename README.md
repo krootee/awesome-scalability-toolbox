@@ -145,6 +145,7 @@
 [kubectl](https://kubernetes.io/docs/reference/kubectl/overview/) <br>
 [kustomize](https://github.com/kubernetes-sigs/kustomize) <br>
 [Helm](https://helm.sh/) <br>
+[Knative (run serverless apps on top of Istio](https://knative.dev/) <br>)
 [List of K8s application management tools](https://docs.google.com/spreadsheets/d/1FCgqz1Ci7_VCz_wdh8vBitZ3giBtac_H8SBw4uxnrsE/edit#gid=0) <br>
 [Kompose (Docker Compose to k8s)](http://kompose.io/) <br>
 [ksonnet](https://ksonnet.io/) <br>
@@ -289,6 +290,7 @@ Online solutions: <br>
 [Jenkins X (for k8s apps)](https://jenkins-x.io/) <br>
 [Azure DevOps](https://azure.microsoft.com/en-us/services/devops/) <br>
 [JetBrains Space](https://www.jetbrains.com/space/) <br>
+[Tekton Pipelines (k8s native using CRD)](https://tekton.dev/) <br>
 
 # CDNs
 [Akamai](https://www.akamai.com/) <br>
