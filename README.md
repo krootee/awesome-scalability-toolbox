@@ -46,7 +46,7 @@
 [Wording](https://www.ietf.org/rfc/rfc2119.txt), [definition syntax](https://www.ietf.org/rfc/rfc5234.txt) and [units](http://unitsofmeasure.org/ucum.html) for RFC specification creation <br>
 
 # Message queues
-[Kafka](https://kafka.apache.org/) <br>
+[Kafka](https://kafka.apache.org/), [Unofficial GUI](https://github.com/tchiotludo/kafkahq) <br>
 [RabbitMQ](https://www.rabbitmq.com/) <br>
 [Disque (by antirez as Redis module in 6.0)](https://github.com/antirez/disque-module) <br>
 [ActiveMQ](http://activemq.apache.org/) <br>
@@ -257,7 +257,6 @@
 # Log management
 [What you need to know about real-time logs](https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying) <br>
 [fluentd](https://www.fluentd.org/) <br>
-[Kafka](https://kafka.apache.org/) <br>
 [Logstash](https://www.elastic.co/products/logstash) <br>
 [Graylog2](https://www.graylog.org/) <br>
 [syslog-ng](https://syslog-ng.org/) <br>
