@@ -144,6 +144,7 @@
 # Kubernetes
 [minikube](https://minikube.sigs.k8s.io/) <br>
 [kubectl](https://kubernetes.io/docs/reference/kubectl/overview/) <br>
+[Krew (kubectl plugin manager)](https://krew.dev/), [list of plugins](https://github.com/kubernetes-sigs/krew-index/blob/master/plugins.md) <br>
 [kustomize](https://github.com/kubernetes-sigs/kustomize) <br>
 [Helm](https://helm.sh/) <br>
 [Knative (run serverless apps on top of Istio](https://knative.dev/) <br>)
