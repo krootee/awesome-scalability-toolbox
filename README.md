@@ -451,6 +451,7 @@ https://www.percona.com/blog/2019/01/28/monitor-and-optimize-slow-queries-with-p
 
 # Authorization
 OAuth 2.0 information: [Specification](https://www.oauth.com/), [practical information](https://oauth.net/), [book](https://oauth2simplified.com/), [best practices (RFC)](https://tools.ietf.org/html/draft-ietf-oauth-security-topics-14), [browser-bases apps guideline (RFC)](https://tools.ietf.org/html/draft-ietf-oauth-browser-based-apps-04), [RFC](https://tools.ietf.org/html/rfc6749) <br>
+[AppAuth (OAuth 2.0 client library)](https://appauth.io/) <br>
 [JSON Web Token (JWT)](https://tools.ietf.org/html/rfc7519) <br>
 [JSON Web Signature (JWS)](https://tools.ietf.org/html/rfc7515) <br>
 [JSON Web Encryption (JWE)](https://tools.ietf.org/html/rfc7516) <br>
