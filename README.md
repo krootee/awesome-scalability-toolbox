@@ -450,8 +450,7 @@ https://www.percona.com/blog/2019/01/28/monitor-and-optimize-slow-queries-with-p
 [TLS Delegated Credentials](https://tools.ietf.org/html/draft-ietf-tls-subcerts-05) <br>
 
 # Authorization
-[The OAuth 2.0 Authorization Framework](https://tools.ietf.org/html/rfc6749) <br>
-[OAuth 2.0 introduction](https://github.com/trimstray/sandmap) <br>
+OAuth 2.0 information: [Specification](https://www.oauth.com/), [practical information](https://oauth.net/), [book](https://oauth2simplified.com/), [best practices (RFC)](https://tools.ietf.org/html/draft-ietf-oauth-security-topics-14), [browser-bases apps guideline (RFC)](https://tools.ietf.org/html/draft-ietf-oauth-browser-based-apps-04), [RFC](https://tools.ietf.org/html/rfc6749) <br>
 [JSON Web Token (JWT)](https://tools.ietf.org/html/rfc7519) <br>
 [JSON Web Signature (JWS)](https://tools.ietf.org/html/rfc7515) <br>
 [JSON Web Encryption (JWE)](https://tools.ietf.org/html/rfc7516) <br>
@@ -542,6 +541,7 @@ https://www.percona.com/blog/2019/01/28/monitor-and-optimize-slow-queries-with-p
 [flan (nmap based vulnerability scanner)](https://github.com/cloudflare/flan) <br>
 [broot (files)](https://github.com/Canop/broot) <br>  
 [bandwidth](https://github.com/imsnif/bandwhich) <br>
+[sandmap](https://github.com/trimstray/sandmap) <br>
 
 # Misc
 [High Scalability/Availability/Stability articles list](https://github.com/binhnguyennus/awesome-scalability) <br>
