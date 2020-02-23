@@ -543,6 +543,7 @@ OAuth 2.0 information: [Practical information](https://oauth.net/), [book](https
 [broot (files)](https://github.com/Canop/broot) <br>  
 [bandwidth](https://github.com/imsnif/bandwhich) <br>
 [sandmap](https://github.com/trimstray/sandmap) <br>
+[iredis (improved CLI for Redis)](https://github.com/laixintao/iredis/) <br>
 
 # Misc
 [High Scalability/Availability/Stability articles list](https://github.com/binhnguyennus/awesome-scalability) <br>
