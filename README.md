@@ -501,6 +501,7 @@ OAuth 2.0 information: [Practical information](https://oauth.net/), [book](https
 [BLAKE2 (crypto)](https://blake2.net/) <br>
 [xxHash](http://www.xxhash.com/) <br>
 [MurmurHash3](https://github.com/aappleby/smhasher) <br>
+[argon2 (password hashing)](https://github.com/P-H-C/phc-winner-argon2) <br>
 [Dieharder: A Random Number Test Suite](http://webhome.phy.duke.edu/~rgb/General/dieharder.php) <br>
 
 # Videos
