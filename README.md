@@ -319,6 +319,7 @@ Online solutions: <br>
 [S3 meta information](https://github.com/whitfin/s3-meta) <br>
 
 # Networking
+[chrony (NTP)](https://chrony.tuxfamily.org/) and [Facebook measuring chrony vs ntpd](https://engineering.fb.com/production-engineering/ntp-service/) <br>
 [BPF introduction](https://qmonnet.github.io/whirl-offload/2016/09/01/dive-into-bpf/) <br>
 [XDP](https://www.iovisor.org/technology/xdp) <br>
 [BPFd (remote BPF by Google)](https://github.com/joelagnel/bpfd) <br>
