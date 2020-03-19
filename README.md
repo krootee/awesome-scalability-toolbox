@@ -251,6 +251,7 @@
 [Locust (Python)](https://locust.io/) <br>
 [Vegeta (HTTP 1.1/2)](https://github.com/tsenart/vegeta) <br>
 [h2load (HTTP 1.1/2)](https://nghttp2.org/documentation/h2load.1.html) <br>
+[autocannon (HTTP 1.1)](https://github.com/mcollina/autocannon) <br>
 [Selenium (Web UI)](http://www.seleniumhq.org/) <br>
 [Selenide (Web UI)](http://selenide.org/) <br>
 
