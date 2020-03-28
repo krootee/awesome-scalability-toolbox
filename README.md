@@ -142,6 +142,7 @@
 [SysDig (monitoring)](https://github.com/draios/sysdig) <br>
 
 # Kubernetes
+[Lens (k8s IDE)](https://github.com/lensapp/lens) <br>
 [minikube](https://minikube.sigs.k8s.io/) <br>
 [kubectl](https://kubernetes.io/docs/reference/kubectl/overview/) <br>
 [Krew (kubectl plugin manager)](https://krew.dev/), [list of plugins](https://github.com/kubernetes-sigs/krew-index/blob/master/plugins.md) <br>
