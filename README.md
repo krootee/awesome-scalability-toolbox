@@ -37,6 +37,7 @@
 # Architecture diagrams, API documentation
 [Lucidchart](https://www.lucidchart.com/) <br>
 [Mermaid (diagrams from text)](https://mermaidjs.github.io/) <br>
+[Diagram.codes (diagrams from code)](https://www.diagram.codes/) <br>
 [Mingrammer Diagrams (from Python code)](https://github.com/mingrammer/diagrams) <br>
 [Cloudcraft (AWS only)](https://cloudcraft.co/) <br>
 [Swagger](https://swagger.io/) <br>
