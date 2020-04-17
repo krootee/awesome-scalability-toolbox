@@ -384,6 +384,8 @@ Online solutions: <br>
 
 # SRE (Site Reliability Engineering)
 [Google Site Reliability Engineering book](https://landing.google.com/sre/book.html) <br>
+[Experience from running Uber payment service](https://blog.pragmaticengineer.com/operating-a-high-scale-distributed-system/) <br>
+[Best practices of on-call (Increment journal issue)](https://increment.com/on-call/) <br>
 [High Performance Browser Networking book](https://hpbn.co/) <br>
 [The Docker Book](https://www.dockerbook.com/) <br>
 [Site Reliability Engineer HandBook](https://s905060.gitbooks.io/site-reliability-engineer-handbook/) <br>
