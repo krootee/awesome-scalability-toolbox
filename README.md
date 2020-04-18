@@ -114,6 +114,7 @@
 [Cassandra](https://cassandra.apache.org/) <br>
 [CockroachDB](https://www.cockroachlabs.com/) <br>
 [Aerospike](http://www.aerospike.com/) <br>
+[FastoNoSQL (GUI for storages like Redis without build-in GUI)](https://github.com/fastogt/fastonosql) <br>
 [Anna (experimental, Berkeley RISE Lab)](https://github.com/fluent-project/fluent/tree/master/kvs), [white paper](https://arxiv.org/abs/1809.00089) <br>
 [LogDevice (Facebook, distributed storage for sequential data)](https://github.com/facebookincubator/LogDevice) <br>
 [OrientDB (graph)](https://orientdb.com/) <br>
