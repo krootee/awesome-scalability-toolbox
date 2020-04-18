@@ -1,5 +1,6 @@
 # Index
 [Architecture diagrams, API documentation](#architecture-diagrams-api-documentation) <br>
+[Public API](#public-api) <br>
 [Message queues](#message-queues) <br>
 [Load balancers, reverse proxy, accelerators, web servers](#load-balancers-reverse-proxy-accelerators-web-servers) <br>
 [Service mesh](#service-mesh) <br>
@@ -45,6 +46,13 @@
 [Creately](https://creately.com/) <br>
 [Draw](https://www.draw.io/) <br>
 [Wording](https://www.ietf.org/rfc/rfc2119.txt), [definition syntax](https://www.ietf.org/rfc/rfc5234.txt) and [units](http://unitsofmeasure.org/ucum.html) for RFC specification creation <br>
+
+# Public API
+[OpenAPI](https://www.openapis.org/) <br>
+[API Stylebook](http://apistylebook.com/) <br>
+[Spectral (API linter)](https://github.com/stoplightio/spectral) <br>
+[Dredd (API tester)](https://github.com/apiaryio/dredd) <br>
+[Zally (API linter)](https://github.com/zalando/zally) <br>
 
 # Message queues
 [Kafka](https://kafka.apache.org/), [Unofficial GUI](https://github.com/tchiotludo/kafkahq) <br>
