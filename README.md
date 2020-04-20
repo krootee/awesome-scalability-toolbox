@@ -438,6 +438,7 @@ https://www.percona.com/blog/2019/01/28/monitor-and-optimize-slow-queries-with-p
 [Understanding CORS: Mozilla page](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS), [Stackoverflow on CORS](https://stackoverflow.com/questions/29954037/why-is-an-options-request-sent-and-can-i-disable-it) <br>
 [A self-service CA for OpenSSH](https://github.com/nsheridan/cashier) <br>
 [Shipilev JVM Anatomy Park](https://shipilev.net/jvm-anatomy-park/) <br>
+[How does a relational database work](http://coding-geek.com/how-databases-work/) <br>
 
 # Disk storage
 [libzbc (direct disk access)](https://github.com/hgst/libzbc) <br>
