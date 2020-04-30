@@ -28,7 +28,7 @@
 [SRE (Site Reliability Engineering)](#sre-site-reliability-engineering) <br>
 [Disk storage](#disk-storage) <br>
 [TLS](#tls) <br>
-[HTTP/3](#http-3) <br>
+[HTTP/3](#http3) <br>
 [Authorization](#authorization) <br>
 [Encryption](#encryption) <br>
 [Hashing](#hashing) <br>
