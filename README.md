@@ -28,6 +28,7 @@
 [SRE (Site Reliability Engineering)](#sre-site-reliability-engineering) <br>
 [Disk storage](#disk-storage) <br>
 [TLS](#tls) <br>
+[HTTP/3](#http-3) <br>
 [Authorization](#authorization) <br>
 [Encryption](#encryption) <br>
 [Hashing](#hashing) <br>
@@ -467,7 +468,11 @@ https://www.percona.com/blog/2019/01/28/monitor-and-optimize-slow-queries-with-p
 [DNS over TLS](https://tools.ietf.org/html/rfc7858) <br>
 [Encrypted SNI standard](https://tools.ietf.org/html/draft-ietf-tls-esni-01) <br>
 [TLS Delegated Credentials](https://tools.ietf.org/html/draft-ietf-tls-subcerts-05) <br>
-[http/3 test site (Fastly)](https://http3.is/) <br>
+
+# HTTP/3
+[HTTP/3 for everyone (video)](https://fosdem.org/2020/schedule/event/http3/) <br>
+[HTTP/3 test site (Fastly)](https://http3.is/) <br>
+[HTTP/3 Explained (book)](https://http3-explained.haxx.se/) <br>
 
 # Authorization
 OAuth 2.0 information: [Practical information](https://oauth.net/), [book](https://oauth2simplified.com/), [online version of the book](https://www.oauth.com/), [best practices (RFC)](https://tools.ietf.org/html/draft-ietf-oauth-security-topics-14), [browser-bases apps guideline (RFC)](https://tools.ietf.org/html/draft-ietf-oauth-browser-based-apps-04), [RFC](https://tools.ietf.org/html/rfc6749) <br>
