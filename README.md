@@ -28,7 +28,7 @@
 [SRE (Site Reliability Engineering)](#sre-site-reliability-engineering) <br>
 [Disk storage](#disk-storage) <br>
 [TLS](#tls) <br>
-[HTTP/3](#http3) <br>
+[HTTP/3 and QUIC](#http3-and-quic) <br>
 [Authorization](#authorization) <br>
 [Encryption](#encryption) <br>
 [Hashing](#hashing) <br>
@@ -207,7 +207,6 @@
 [Aeron](https://github.com/real-logic/aeron) <br>
 [ZeroMQ](http://zeromq.org/) <br>
 [SMF](https://github.com/senior7515/smf) <br>
-[QUIC](https://www.chromium.org/quic) <br>
 
 # gRPC
 [Awesome gRPC list](https://github.com/grpc-ecosystem/awesome-grpc) <br>
@@ -469,10 +468,11 @@ https://www.percona.com/blog/2019/01/28/monitor-and-optimize-slow-queries-with-p
 [Encrypted SNI standard](https://tools.ietf.org/html/draft-ietf-tls-esni-01) <br>
 [TLS Delegated Credentials](https://tools.ietf.org/html/draft-ietf-tls-subcerts-05) <br>
 
-# HTTP/3
+# HTTP/3 and QUIC
 [HTTP/3 for everyone (video)](https://fosdem.org/2020/schedule/event/http3/) <br>
 [HTTP/3 test site (Fastly)](https://http3.is/) <br>
 [HTTP/3 Explained (book)](https://http3-explained.haxx.se/) <br>
+[msquic (QUIC protocol implementation from Microsoft)](https://github.com/microsoft/msquic) <br>
 
 # Authorization
 OAuth 2.0 information: [Practical information](https://oauth.net/), [book](https://oauth2simplified.com/), [online version of the book](https://www.oauth.com/), [best practices (RFC)](https://tools.ietf.org/html/draft-ietf-oauth-security-topics-14), [browser-bases apps guideline (RFC)](https://tools.ietf.org/html/draft-ietf-oauth-browser-based-apps-04), [RFC](https://tools.ietf.org/html/rfc6749) <br>
