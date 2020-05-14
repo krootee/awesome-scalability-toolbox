@@ -105,7 +105,7 @@
 [KeyDB (Redis fork with I/O multithreading)](https://keydb.dev/) <br>
 [Memcached](https://github.com/memcached/memcached/), [extstore storage shim](https://github.com/memcached/memcached/wiki/Extstore), [Caching beyond RAM: the case for NVMe](https://memcached.org/blog/nvm-caching/) <br>
 [FASTER (Microsoft)](https://github.com/Microsoft/FASTER), [official site](https://www.microsoft.com/en-us/research/project/FASTER/) <br>
-[MySQL](https://www.mysql.com/) <br>
+[MySQL](https://www.mysql.com/), [ProxySQL (for MySQL)](https://proxysql.com/) <br>
 [RocksDB (InnoDB replacement by Facebook)](http://myrocks.io/), [Using NVM in Facebook (RocksDB)](https://dl.acm.org/citation.cfm?id=3190524) <br>
 [Vitess (MySQL auto horizontal scaling)](http://vitess.io/) <br>
 [MariaDB (MySQL)](https://mariadb.com/) <br>
