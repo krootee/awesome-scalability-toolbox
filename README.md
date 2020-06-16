@@ -294,6 +294,7 @@ Online solutions: <br>
 [Togglz (Java)](https://www.togglz.org) <br>
 [Unleash (simple)](https://github.com/Unleash/unleash) <br>
 [LaunchDarkly (cloud provider)](https://launchdarkly.com) <br>
+[piranha (Uber tool to refactor feature flag code)](https://github.com/uber/piranha) <br>
 
 # Deployment tools
 [Ansible](https://ansible.com/) <br>
