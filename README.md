@@ -442,6 +442,7 @@ https://www.percona.com/blog/2019/01/28/monitor-and-optimize-slow-queries-with-p
 [A self-service CA for OpenSSH](https://github.com/nsheridan/cashier) <br>
 [Shipilev JVM Anatomy Park](https://shipilev.net/jvm-anatomy-park/) <br>
 [How does a relational database work](http://coding-geek.com/how-databases-work/) <br>
+[Using systemd timers instead of cronjobs](https://opensource.com/article/20/7/systemd-timers) <br>
 
 # Disk storage
 [libzbc (direct disk access)](https://github.com/hgst/libzbc) <br>
