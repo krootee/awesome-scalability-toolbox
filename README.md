@@ -249,14 +249,14 @@
 
 # Distributed request tracing
 [Dapper, a Large-Scale Distributed Systems Tracing Infrastructure (Google)](https://research.google.com/pubs/pub36356.html) <br>
-[OpenTracing standard](http://opentracing.io/) <br>
+[OpenTelemetry](https://opentelemetry.io/) <br>
 [OpenTracing and Jaeger introduction](https://www.youtube.com/watch?v=fjYAU3jayVo) <br>
-[OpenCensus (Google, tracing and stats)](http://opencensus.io/) <br>
 [TraceContext propagation format](https://github.com/w3c/distributed-tracing) <br>
 [Jaeger (Uber)](https://uber.github.io/jaeger/) <br>
 [Zipkin](http://zipkin.io/) <br>
 [Lightstep](https://lightstep.com) <br>
 [Skywalking](http://skywalking.io/) <br>
+[AWS X-Ray](https://aws.amazon.com/xray/) <br>
 
 # Load testing
 [Yandex.Tank (C++, Python, Go)](https://github.com/yandex/yandex-tank) <br>
