@@ -443,6 +443,7 @@ https://www.percona.com/blog/2019/01/28/monitor-and-optimize-slow-queries-with-p
 [Shipilev JVM Anatomy Park](https://shipilev.net/jvm-anatomy-park/) <br>
 [How does a relational database work](http://coding-geek.com/how-databases-work/) <br>
 [Using systemd timers instead of cronjobs](https://opensource.com/article/20/7/systemd-timers) <br>
+[Story of age, cache-control headers and prefetching mechanism in modern browsers](https://timkadlec.com/remembers/2020-06-17-prefetching-at-this-age/) <br>
 
 # Disk storage
 [libzbc (direct disk access)](https://github.com/hgst/libzbc) <br>
