@@ -537,7 +537,7 @@ OAuth 2.0 information: [Practical information](https://oauth.net/), [book](https
 [Dieharder: A Random Number Test Suite](http://webhome.phy.duke.edu/~rgb/General/dieharder.php) <br>
 
 # Real User Monitoring
-[boomerang library](https://github.com/akamai/boomerang>) and [How to use boomerang](https://developer.akamai.com/tools/boomerang/) <br>
+[boomerang library](https://github.com/akamai/boomerang) and [How to use boomerang](https://developer.akamai.com/tools/boomerang/) <br>
 [sitespeed.io tools](https://github.com/sitespeedio) <br>
 [Matomo](https://matomo.org/) <br>
 User access information from logs: [GoAccess](https://goaccess.io/) and [AWStats](https://github.com/eldy/awstats) <br>
