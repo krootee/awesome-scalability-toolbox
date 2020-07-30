@@ -538,11 +538,11 @@ OAuth 2.0 information: [Practical information](https://oauth.net/), [book](https
 
 # Real User Monitoring
 [boomerang library](https://github.com/akamai/boomerang) and [How to use boomerang](https://developer.akamai.com/tools/boomerang/) <br>
+Custome backend required for boomerang - could use [boomcatch](https://github.com/springernature/boomcatch) and [statsd](https://github.com/statsd/statsd) <br>
+Commercial solution is [Akamai mPulse](https://www.akamai.com/us/en/products/performance/mpulse-real-user-monitoring.jsp) <br>
 [sitespeed.io tools](https://github.com/sitespeedio) <br>
 [Matomo](https://matomo.org/) <br>
 User access information from logs: [GoAccess](https://goaccess.io/) and [AWStats](https://github.com/eldy/awstats) <br>
-[Akamai mPulse (commercial)](https://www.akamai.com/us/en/products/performance/mpulse-real-user-monitoring.jsp) <br>
-[webpagetest](https://www.webpagetest.org/) <br>
 [Compress data from ResourceTiming API](https://github.com/nicjansma/resourcetiming-compression.js) <br>
 [Javascript Performance APIs](https://developer.mozilla.org/en-US/docs/Web/API/Performance) <br>
 [Javascript Navigation Timing API](https://developer.mozilla.org/en-US/docs/Web/API/Navigation_timing_API) <br>
