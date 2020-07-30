@@ -545,6 +545,7 @@ OAuth 2.0 information: [Practical information](https://oauth.net/), [book](https
 [webpagetest](https://www.webpagetest.org/) <br>
 [Javascript Performance APIs](https://developer.mozilla.org/en-US/docs/Web/API/Performance) <br>
 [Javascript Navigation Timing API](https://developer.mozilla.org/en-US/docs/Web/API/Navigation_timing_API) <br>
+User access information from logs: [GoAccess](https://goaccess.io/) and [AWStats](https://github.com/eldy/awstats) <br>
 
 # Videos
 [Kafka 2017 Summit](https://www.confluent.io/kafka-summit-sf17/resource/) <br>
