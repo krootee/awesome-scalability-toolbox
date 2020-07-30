@@ -33,6 +33,7 @@
 [Encryption](#encryption) <br>
 [Hashing](#hashing) <br>
 [Videos](#videos) <br>
+[Real User Monitoring](#real-user-Monitoring] <br>
 [Tools](#tools) <br>
 [Misc](#misc) <br>
 
@@ -162,7 +163,7 @@
 [Krew (kubectl plugin manager)](https://krew.dev/), [list of plugins](https://github.com/kubernetes-sigs/krew-index/blob/master/plugins.md) <br>
 [kustomize](https://github.com/kubernetes-sigs/kustomize) <br>
 [Helm](https://helm.sh/) <br>
-[Knative (run serverless apps on top of Istio](https://knative.dev/) <br>)
+[Knative (run serverless apps on top of Istio](https://knative.dev/) <br>
 [List of K8s application management tools](https://docs.google.com/spreadsheets/d/1FCgqz1Ci7_VCz_wdh8vBitZ3giBtac_H8SBw4uxnrsE/edit#gid=0) <br>
 [Kompose (Docker Compose to k8s)](http://kompose.io/) <br>
 [ksonnet](https://ksonnet.io/) <br>
@@ -534,6 +535,16 @@ OAuth 2.0 information: [Practical information](https://oauth.net/), [book](https
 [MurmurHash3](https://github.com/aappleby/smhasher) <br>
 [argon2 (password hashing)](https://github.com/P-H-C/phc-winner-argon2) <br>
 [Dieharder: A Random Number Test Suite](http://webhome.phy.duke.edu/~rgb/General/dieharder.php) <br>
+
+# Real User Monitoring
+[boomerang library](https://github.com/akamai/boomerang>) <br>
+[How to use boomerang](https://developer.akamai.com/tools/boomerang/) <br>
+[sitespeed.io tools](https://github.com/sitespeedio) <br>
+[Compress data from ResourceTiming API](https://github.com/nicjansma/resourcetiming-compression.js) <br>
+[Matomo](https://matomo.org/) <br>
+[webpagetest](https://www.webpagetest.org/) <br>
+[Javascript Performance APIs](https://developer.mozilla.org/en-US/docs/Web/API/Performance) <br>
+[Javascript Navigation Timing API](https://developer.mozilla.org/en-US/docs/Web/API/Navigation_timing_API) <br>
 
 # Videos
 [Kafka 2017 Summit](https://www.confluent.io/kafka-summit-sf17/resource/) <br>
