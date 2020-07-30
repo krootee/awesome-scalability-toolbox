@@ -537,15 +537,15 @@ OAuth 2.0 information: [Practical information](https://oauth.net/), [book](https
 [Dieharder: A Random Number Test Suite](http://webhome.phy.duke.edu/~rgb/General/dieharder.php) <br>
 
 # Real User Monitoring
-[boomerang library](https://github.com/akamai/boomerang>) <br>
-[How to use boomerang](https://developer.akamai.com/tools/boomerang/) <br>
+[boomerang library](https://github.com/akamai/boomerang>) and [How to use boomerang](https://developer.akamai.com/tools/boomerang/) <br>
 [sitespeed.io tools](https://github.com/sitespeedio) <br>
-[Compress data from ResourceTiming API](https://github.com/nicjansma/resourcetiming-compression.js) <br>
 [Matomo](https://matomo.org/) <br>
+User access information from logs: [GoAccess](https://goaccess.io/) and [AWStats](https://github.com/eldy/awstats) <br>
+[Akamai mPulse (commercial)](https://www.akamai.com/us/en/products/performance/mpulse-real-user-monitoring.jsp) <br>
 [webpagetest](https://www.webpagetest.org/) <br>
+[Compress data from ResourceTiming API](https://github.com/nicjansma/resourcetiming-compression.js) <br>
 [Javascript Performance APIs](https://developer.mozilla.org/en-US/docs/Web/API/Performance) <br>
 [Javascript Navigation Timing API](https://developer.mozilla.org/en-US/docs/Web/API/Navigation_timing_API) <br>
-User access information from logs: [GoAccess](https://goaccess.io/) and [AWStats](https://github.com/eldy/awstats) <br>
 
 # Videos
 [Kafka 2017 Summit](https://www.confluent.io/kafka-summit-sf17/resource/) <br>
