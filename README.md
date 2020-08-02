@@ -71,7 +71,7 @@
 
 # Load balancers, reverse proxy, accelerators, web servers
 [HAProxy](http://www.haproxy.org/) <br>
-[Envoy](https://www.envoyproxy.io/) <br>
+[Envoy](https://www.envoyproxy.io/) and [Dropbox migration to Envoy from nginx](https://dropbox.tech/infrastructure/how-we-migrated-dropbox-from-nginx-to-envoy) <br>
 [nginx](https://www.nginx.com/), [nginx config](https://nginxconfig.io/) <br>
 [OpenResty](https://openresty.org/en/) <br>
 [Varnish](https://varnish-cache.org/) <br>
