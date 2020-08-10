@@ -62,7 +62,6 @@
 [Kafka](https://kafka.apache.org/) <br>
 Kafka Web UI solutions: [AKHQ](https://github.com/tchiotludo/akhq), [Kafdrop](https://github.com/obsidiandynamics/kafdrop), [Kowl](https://github.com/cloudhut/kowl), [CMAK](https://github.com/yahoo/CMAK), [Lenses Box](https://github.com/lensesio/fast-data-dev)  <br>
 [RabbitMQ](https://www.rabbitmq.com/) <br>
-[Disque (by antirez as Redis module in 6.0)](https://github.com/antirez/disque-module) <br>
 [ActiveMQ](http://activemq.apache.org/) <br>
 [ZeroMQ](http://zeromq.org/) <br>
 [nanomsg](http://nanomsg.org/) <br>
@@ -105,7 +104,10 @@ Kafka Web UI solutions: [AKHQ](https://github.com/tchiotludo/akhq), [Kafdrop](ht
 [Postgres Pro (PostgreSQL)](https://postgrespro.ru/) <br>
 [JSON in Postgre 10.x, 11.x, PostgreSQL 9.6 vs Mongo 3.4](https://www.youtube.com/watch?v=SNzOZKvFZ68) <br>
 [Why Uber Engineering Switched from Postgres to MySQL](https://eng.uber.com/mysql-migration/) and [Follow up 1](https://www.slideshare.net/AlexanderKorotkov/our-answer-to-uber/), [2](https://blog.2ndquadrant.com/thoughts-on-ubers-list-of-postgres-limitations/), [3](http://thebuild.com/presentations/uber-perconalive-2017.pdf), [4](https://rhaas.blogspot.gr/2016/08/ubers-move-away-from-postgresql.html), [5](https://devconf.ru/ru/archive/devconf2017/offer/314), [6](https://habr.com/company/devconf/blog/353682/), [7](https://use-the-index-luke.com/blog/2016-07-29/on-ubers-choice-of-databases) <br>
-[Redis](https://redis.io/), [Redis modules (Open Source)](https://goodformcode.com/), [JSON module](https://github.com/RedisJSON/RedisJSON) <br>
+[Redis](https://redis.io/) <br>
+Redis modules: [5 open source modules](https://goodformcode.com/), [JSON module](https://github.com/RedisJSON/RedisJSON) <br>
+Redis WebUI: [RedisInsight](https://redislabs.com/redisinsight/), [Redis-UI](https://github.com/patrikx3/redis-ui/), [Redis Desktop Manager](https://github.com/uglide/RedisDesktopManager) <br>
+[iredis (improved CLI for Redis)](https://github.com/laixintao/iredis/) <br>
 [KeyDB (Redis fork with I/O multithreading)](https://keydb.dev/) <br>
 [Memcached](https://github.com/memcached/memcached/), [extstore storage shim](https://github.com/memcached/memcached/wiki/Extstore), [Caching beyond RAM: the case for NVMe](https://memcached.org/blog/nvm-caching/) <br>
 [FASTER (Microsoft)](https://github.com/Microsoft/FASTER), [official site](https://www.microsoft.com/en-us/research/project/FASTER/) <br>
@@ -588,7 +590,6 @@ User access information from logs: [GoAccess](https://goaccess.io/) and [AWStats
 [broot (files)](https://github.com/Canop/broot) <br>  
 [bandwidth](https://github.com/imsnif/bandwhich) <br>
 [sandmap](https://github.com/trimstray/sandmap) <br>
-[iredis (improved CLI for Redis)](https://github.com/laixintao/iredis/) <br>
 
 # Misc
 [High Scalability/Availability/Stability articles list](https://github.com/binhnguyennus/awesome-scalability) <br>
