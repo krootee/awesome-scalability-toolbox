@@ -59,7 +59,8 @@
 [Zally (API linter)](https://github.com/zalando/zally) <br>
 
 # Message queues
-[Kafka](https://kafka.apache.org/), [Unofficial GUI](https://github.com/tchiotludo/kafkahq) <br>
+[Kafka](https://kafka.apache.org/) <br>
+Kafka Web UI solutions: [AKHQ](https://github.com/tchiotludo/akhq), [Kafdrop](https://github.com/obsidiandynamics/kafdrop), [Kowl](https://github.com/cloudhut/kowl), [CMAK](https://github.com/yahoo/CMAK), [Lenses Box](https://github.com/lensesio/fast-data-dev)  <br>
 [RabbitMQ](https://www.rabbitmq.com/) <br>
 [Disque (by antirez as Redis module in 6.0)](https://github.com/antirez/disque-module) <br>
 [ActiveMQ](http://activemq.apache.org/) <br>
