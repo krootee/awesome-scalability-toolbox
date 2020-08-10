@@ -275,6 +275,7 @@ Redis WebUI: [RedisInsight](https://redislabs.com/redisinsight/), [Redis-UI](htt
 
 # Log management
 [What you need to know about real-time logs](https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying) <br>
+[Vector](https://github.com/timberio/vector) <br>
 [fluentd](https://www.fluentd.org/) <br>
 [Logstash](https://www.elastic.co/products/logstash) <br>
 [Graylog2](https://www.graylog.org/) <br>
