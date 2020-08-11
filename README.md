@@ -282,6 +282,7 @@ Redis WebUI: [RedisInsight](https://redislabs.com/redisinsight/), [Redis-UI](htt
 [syslog-ng](https://syslog-ng.org/) <br>
 [rsyslog](http://www.rsyslog.com/) <br>
 [Kibana](https://www.elastic.co/kibana) <br>
+[Loki](https://github.com/grafana/loki) <br>
 [Splunk](https://www.splunk.com/) <br>
 [GoAccess](https://goaccess.io/) <br>
 [Bookkeeper](https://bookkeeper.apache.org/distributedlog/) <br>
