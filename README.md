@@ -71,7 +71,7 @@ Kafka Web UI solutions: [AKHQ](https://github.com/tchiotludo/akhq), [Kafdrop](ht
 [nanomsg (C and Go only)](https://github.com/nanomsg/nng) <br>
 
 # Load balancers, reverse proxy, accelerators, web servers
-[HAProxy](http://www.haproxy.org/) <br>
+[HAProxy](http://www.haproxy.org/), [Unofficial Web UI](https://github.com/Aidaho12/haproxy-wi) <br>
 [Envoy](https://www.envoyproxy.io/) and [Dropbox migration to Envoy from nginx](https://dropbox.tech/infrastructure/how-we-migrated-dropbox-from-nginx-to-envoy) <br>
 [nginx](https://www.nginx.com/), [nginx config](https://nginxconfig.io/) <br>
 [OpenResty](https://openresty.org/en/) <br>
