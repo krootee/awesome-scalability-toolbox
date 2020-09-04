@@ -281,6 +281,8 @@ Redis WebUI: [RedisInsight](https://redislabs.com/redisinsight/), [Redis-UI](htt
 [Graylog2](https://www.graylog.org/) <br>
 [syslog-ng](https://syslog-ng.org/) <br>
 [rsyslog](http://www.rsyslog.com/) <br>
+[fluentbit](https://github.com/fluent/fluent-bit/) <br>
+[filebit](https://www.elastic.co/guide/en/beats/filebeat/master/filebeat-overview.html) <br>
 [Kibana](https://www.elastic.co/kibana) <br>
 [Loki](https://github.com/grafana/loki) <br>
 [Splunk](https://www.splunk.com/) <br>
