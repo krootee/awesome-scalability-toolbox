@@ -395,6 +395,7 @@ Online solutions: <br>
 [List of reserved IPv4 ranges (IANA IPv4 Special-Purpose Address Registry)](https://www.iana.org/assignments/iana-ipv4-special-registry/iana-ipv4-special-registry.xhtml)<br>
 [List of reserved IPv6 ranges (IANA IPv6 Global Unicast Address Assignments)](https://www.iana.org/assignments/ipv6-unicast-address-assignments/ipv6-unicast-address-assignments.xhtml)<br>
 [Wikipedia on reserved IP addresses](https://en.wikipedia.org/wiki/Reserved_IP_addresses)<br>
+[TCP window scaling, timestamps and SACK](https://fedoramagazine.org/tcp-window-scaling-timestamps-and-sack/) <br>
 
 # SDN
 [Stratum](https://stratumproject.org/) <br>
