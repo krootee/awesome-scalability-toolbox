@@ -145,6 +145,7 @@ Redis WebUI: [RedisInsight](https://redislabs.com/redisinsight/), [Redis-UI](htt
 [Terragrunt](https://terragrunt.gruntwork.io/) <br>
 [Terraform best practices](https://www.terraform-best-practices.com/) <br>
 [Terraform AWS modules](https://github.com/terraform-aws-modules) <br>
+[Infracost - calculate Terraform deployment costs (AWS)](https://github.com/infracost/infracost) <br>
 [modules.tf - Convert Cloudcraft diagrams to Terraform code](https://modules.tf/) <br>
 
 # Containers
