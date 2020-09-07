@@ -121,6 +121,7 @@ Redis WebUI: [RedisInsight](https://redislabs.com/redisinsight/), [Redis-UI](htt
 [Cassandra](https://cassandra.apache.org/) <br>
 [CockroachDB](https://www.cockroachlabs.com/) <br>
 [Aerospike](http://www.aerospike.com/) <br>
+[TiDB](https://docs.pingcap.com/tidb/stable/overview) <br>
 [Anna (experimental, Berkeley RISE Lab)](https://github.com/fluent-project/fluent/tree/master/kvs), [white paper](https://arxiv.org/abs/1809.00089) <br>
 [LogDevice (Facebook, distributed storage for sequential data)](https://github.com/facebookincubator/LogDevice) <br>
 [OrientDB (graph)](https://orientdb.com/) <br>
