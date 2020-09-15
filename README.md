@@ -259,7 +259,7 @@ Redis WebUI: [RedisInsight](https://redislabs.com/redisinsight/), [Redis-UI](htt
 [OpenTelemetry](https://opentelemetry.io/) <br>
 [OpenTracing and Jaeger introduction](https://www.youtube.com/watch?v=fjYAU3jayVo) <br>
 [TraceContext propagation format](https://github.com/w3c/distributed-tracing) <br>
-[Jaeger (Uber)](https://uber.github.io/jaeger/) <br>
+[Jaeger (Uber)](https://www.jaegertracing.io/) <br>
 [Zipkin](http://zipkin.io/) <br>
 [Lightstep](https://lightstep.com) <br>
 [Skywalking](http://skywalking.io/) <br>
