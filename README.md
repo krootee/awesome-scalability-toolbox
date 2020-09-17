@@ -40,6 +40,7 @@
 # Architecture diagrams, API documentation
 [Lucidchart](https://www.lucidchart.com/) <br>
 [Mermaid (from code)](https://mermaidjs.github.io/) <br>
+[PlantUML (from code)](https://plantuml.com/) <br>
 [ilograph (interactive service diagrams from code)](https://www.ilograph.com/) <br>
 [Diagram.codes (diagrams from code)](https://www.diagram.codes/) <br>
 [Mingrammer Diagrams (from Python code)](https://github.com/mingrammer/diagrams) <br>
