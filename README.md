@@ -34,6 +34,7 @@
 [Hashing](#hashing) <br>
 [Videos](#videos) <br>
 [Real User Monitoring](#real-user-Monitoring) <br>
+[QA Automation](#qa-automation) <br>
 [Tools](#tools) <br>
 [Misc](#misc) <br>
 
@@ -572,6 +573,16 @@ User access information from logs: [GoAccess](https://goaccess.io/) and [AWStats
 [Networking @Scale 2018](https://code.fb.com/core-data/networking-scale-2018-recap/) <br>
 [Highload++ Siberia 2018](http://www.highload.ru/siberia/2018/) <br>
 [GrafanaCon 2019](https://www.youtube.com/playlist?list=PLDGkOdUX1UjqKc3ryyoSpWZvs7yktklQr) <br>
+
+# QA Automation
+[Learn headless browser automation](https://theheadless.dev/) <br>
+[Playwright](https://playwright.dev/) <br>
+[QA Wolf (Playwright scripts generation)](https://github.com/qawolf/qawolf) <br>
+[Headless Recorder (Playwright/Puppeteer scripts generation)](https://github.com/checkly/headless-recorder) <br>
+[Puppeteer](https://pptr.dev/) <br>
+[Selenium](https://www.selenium.dev/) <br>
+[Cypress](https://www.cypress.io/) <br>
+
 
 # Tools
 [htop](https://github.com/hishamhm/htop) <br>
