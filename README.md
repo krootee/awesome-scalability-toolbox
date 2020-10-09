@@ -419,6 +419,7 @@ Online solutions: <br>
 [Site Reliability Engineer HandBook](https://s905060.gitbooks.io/site-reliability-engineer-handbook/) <br>
 [Linux Performance tools and materials](http://www.brendangregg.com/linuxperf.html) <br>
 [Understanding swap in Linux](https://chrisdown.name/2018/01/02/in-defence-of-swap.html) and [Video: Linux Memory Management at Scale: Under the Hood](https://www.youtube.com/watch?v=beefUhRH5lU) <br>
+[How Much Memory Does the Process Really Take on Linux?](https://www.percona.com/blog/2020/09/11/how-much-memory-does-the-process-really-take-on-linux/) <br>
 [U2F devices review](https://github.com/hillbrad/U2FReviews) <br>
 [Optimizing web servers for high throughput and low latency (Dropbox)](https://blogs.dropbox.com/tech/2017/09/optimizing-web-servers-for-high-throughput-and-low-latency/) <br>
 [Shipilev Close Encounters of The Java Memory Model Kind](https://shipilev.net/blog/2016/close-encounters-of-jmm-kind/) <br>
