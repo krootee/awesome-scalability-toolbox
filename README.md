@@ -82,8 +82,9 @@ Kafka Web UI solutions: [AKHQ](https://github.com/tchiotludo/akhq), [Kafdrop](ht
 [Træfik](https://traefik.io/) <br>
 [Tarantool (mail.ru)](https://tarantool.org/) <br>
 [lightttpd](https://www.lighttpd.net/) <br>
-[katran (BPF/XDP L4 load balancer, Facebook)](https://github.com/facebookincubator/katran) <br>
-[GitHub Load Balancer Director (GUE, ECMP, DPDK)](https://github.com/github/glb-director) <br>
+[katran (BPF/XDP L4LB, Facebook)](https://github.com/facebookincubator/katran) <br>
+[GLB Director (DPDK L4LB, Github)](https://github.com/github/glb-director) <br>
+[Cloudflare Unimog design](https://blog.cloudflare.com/unimog-cloudflares-edge-load-balancer/) <br>
 
 # Service mesh
 [Envoy](https://www.envoyproxy.io/) <br>
