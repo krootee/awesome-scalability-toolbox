@@ -585,7 +585,7 @@ User access information from logs: [GoAccess](https://goaccess.io/) and [AWStats
 [Puppeteer](https://pptr.dev/) <br>
 [Selenium](https://www.selenium.dev/) <br>
 [Cypress](https://www.cypress.io/) <br>
-
+[mimesis (fake data generator)](https://github.com/lk-geimfari/mimesis) <br>
 
 # Tools
 [htop](https://github.com/hishamhm/htop) <br>
