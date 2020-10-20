@@ -610,7 +610,7 @@ User access information from logs: [GoAccess](https://goaccess.io/) and [AWStats
 [termshark (CLI UI for Wireshark)](https://github.com/gcla/termshark) <br>
 [xdpcap (tcpdump for XDP)](https://github.com/cloudflare/xdpcap) <br>
 [flan (nmap based vulnerability scanner)](https://github.com/cloudflare/flan) <br>
-[broot (files)](https://github.com/Canop/broot) <br>  
+[broot (files)](https://github.com/Canop/broot) <br>
 [bandwidth](https://github.com/imsnif/bandwhich) <br>
 [sandmap](https://github.com/trimstray/sandmap) <br>
 [duf (advanced du)](https://github.com/muesli/duf) <br>
