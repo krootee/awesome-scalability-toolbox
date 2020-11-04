@@ -463,6 +463,7 @@ https://www.percona.com/blog/2019/01/28/monitor-and-optimize-slow-queries-with-p
 [Story of age, cache-control headers and prefetching mechanism in modern browsers](https://timkadlec.com/remembers/2020-06-17-prefetching-at-this-age/) <br>
 
 # Disk storage
+[Minio (local storage with AWS S3 API)](https://github.com/minio/minio) <br>
 [libzbc (direct disk access)](https://github.com/hgst/libzbc) <br>
 [SMR drives at Dropbox](https://blogs.dropbox.com/tech/2018/06/extending-magic-pocket-innovation-with-the-first-petabyte-scale-smr-drive-deployment/) <br>
 [Intel VROC overview and performance testing](https://www.storagereview.com/intel_virtual_raid_on_cpu_vroc_review) <br>
