@@ -47,14 +47,14 @@
 [Mingrammer Diagrams (from Python code)](https://github.com/mingrammer/diagrams) <br>
 [Cloudcraft (AWS only)](https://cloudcraft.co/) <br>
 [draft (GraphViz based service architecture)](https://github.com/lucasepe/draft) <br>
-[Swagger](https://swagger.io/) <br>
 [Cacoo](https://cacoo.com/) <br>
 [Creately](https://creately.com/) <br>
 [Draw](https://www.draw.io/) <br>
-[Wording](https://www.ietf.org/rfc/rfc2119.txt), [definition syntax](https://www.ietf.org/rfc/rfc5234.txt) and [units](http://unitsofmeasure.org/ucum.html) for RFC specification creation <br>
 
 # Public API
 [OpenAPI](https://www.openapis.org/) <br>
+[Swagger](https://swagger.io/) <br>
+[Wording](https://www.ietf.org/rfc/rfc2119.txt), [definition syntax](https://www.ietf.org/rfc/rfc5234.txt) and [units](http://unitsofmeasure.org/ucum.html) for RFC specification creation <br>
 [API Stylebook](http://apistylebook.com/) <br>
 [Spectral (API linter)](https://github.com/stoplightio/spectral) <br>
 [Dredd (API tester)](https://github.com/apiaryio/dredd) <br>
