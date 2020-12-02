@@ -273,6 +273,7 @@ Redis WebUI: [RedisInsight](https://redislabs.com/redisinsight/), [Redis-UI](htt
 [Yandex.Tank (C++, Python, Go)](https://github.com/yandex/yandex-tank) <br>
 [Overload (storage for Yandex.Tank results)](https://overload.yandex.net) <br>
 [Gatling (Scala)](https://gatling.io/) <br>
+[k6](https://github.com/loadimpact/k6) <br>
 [Locust (Python)](https://locust.io/) <br>
 [Vegeta (HTTP 1.1/2)](https://github.com/tsenart/vegeta) <br>
 [h2load (HTTP 1.1/2)](https://nghttp2.org/documentation/h2load.1.html) <br>
