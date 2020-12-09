@@ -403,6 +403,7 @@ Online solutions: <br>
 [Wikipedia on reserved IP addresses](https://en.wikipedia.org/wiki/Reserved_IP_addresses)<br>
 [TCP window scaling, timestamps and SACK](https://fedoramagazine.org/tcp-window-scaling-timestamps-and-sack/) <br>
 [DNS SVCB and HTTPS records RFC (draft)](https://tools.ietf.org/html/draft-ietf-dnsop-svcb-https-01) <br>
+[Oblivious DNS over HTTPS RFC (draft)](https://tools.ietf.org/html/draft-pauly-dprive-oblivious-doh-03) <br>
 
 # SDN
 [Stratum](https://stratumproject.org/) <br>
