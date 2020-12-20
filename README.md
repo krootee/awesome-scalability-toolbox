@@ -403,7 +403,6 @@ Online solutions: <br>
 [Wikipedia on reserved IP addresses](https://en.wikipedia.org/wiki/Reserved_IP_addresses)<br>
 [TCP window scaling, timestamps and SACK](https://fedoramagazine.org/tcp-window-scaling-timestamps-and-sack/) <br>
 [DNS SVCB and HTTPS records RFC (draft)](https://tools.ietf.org/html/draft-ietf-dnsop-svcb-https-01) <br>
-[Oblivious DNS over HTTPS RFC (draft)](https://tools.ietf.org/html/draft-pauly-dprive-oblivious-doh-03) <br>
 [Networking ASICS overview in 2020](https://blog.cloudflare.com/asics-at-the-edge/) <br>
 
 # SDN
@@ -494,6 +493,8 @@ https://www.percona.com/blog/2019/01/28/monitor-and-optimize-slow-queries-with-p
 [DNS over TLS](https://tools.ietf.org/html/rfc7858) <br>
 [Encrypted SNI standard](https://tools.ietf.org/html/draft-ietf-tls-esni-01) <br>
 [TLS Delegated Credentials](https://tools.ietf.org/html/draft-ietf-tls-subcerts-05) <br>
+[Oblivious DNS over HTTPS RFC (draft)](https://tools.ietf.org/html/draft-pauly-dprive-oblivious-doh-03) <br>
+[ECH (TLS Encrypted Client Hello) RFC](https://tools.ietf.org/html/draft-ietf-tls-esni), [Introduction to ECH](https://blog.cloudflare.com/encrypted-client-hello/) <br>
 
 # HTTP/3 and QUIC
 [HTTP/3 for everyone (video)](https://fosdem.org/2020/schedule/event/http3/) <br>
