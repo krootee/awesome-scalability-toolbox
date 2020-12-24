@@ -569,20 +569,6 @@ User access information from logs: [GoAccess](https://goaccess.io/) and [AWStats
 [Javascript Performance APIs](https://developer.mozilla.org/en-US/docs/Web/API/Performance) <br>
 [Javascript Navigation Timing API](https://developer.mozilla.org/en-US/docs/Web/API/Navigation_timing_API) <br>
 
-# Videos
-[Kafka 2017 Summit](https://www.confluent.io/kafka-summit-sf17/resource/) <br>
-[CppCon 2017](https://www.youtube.com/playlist?list=PLHTh1InhhwT6bwIpRk0ZbCA0N2p1taxd6) <br>
-[@Scale 2017](https://atscaleconference.com/videos-articles/) <br>
-[Strange Loop 2017](https://www.youtube.com/channel/UC_QIfHvN9auy2CoOdSfMWDw) <br>
-[FOSDEM 2018](https://www.youtube.com/user/fosdemtalks/videos) <br>
-[Computer Architecture course taught at ETH Zürich in Fall 2017](https://www.youtube.com/playlist?list=PL5Q2soXY2Zi9OhoVQBXYFIZywZXCPl4M_) <br>
-[GrafanaCon 2018](https://www.youtube.com/playlist?list=PLDGkOdUX1UjpXR6BexaDoOIc0ksE2MzFI) <br>
-[SREcon 2018](https://www.youtube.com/playlist?list=PLbRoZ5Rrl5lcszsvhnb4P9Ds4pSmVtkfp) <br>
-[KubeCon + CloudNativeCon 2018](https://www.youtube.com/playlist?list=PLj6h78yzYM2N8GdbjmhVU65KYm_68qBmo) <br>
-[Networking @Scale 2018](https://code.fb.com/core-data/networking-scale-2018-recap/) <br>
-[Highload++ Siberia 2018](http://www.highload.ru/siberia/2018/) <br>
-[GrafanaCon 2019](https://www.youtube.com/playlist?list=PLDGkOdUX1UjqKc3ryyoSpWZvs7yktklQr) <br>
-
 # QA Automation
 [Learn headless browser automation](https://theheadless.dev/) <br>
 [Playwright](https://playwright.dev/) <br>
@@ -624,3 +610,18 @@ User access information from logs: [GoAccess](https://goaccess.io/) and [AWStats
 # Misc
 [High Scalability/Availability/Stability articles list](https://github.com/binhnguyennus/awesome-scalability) <br>
 [Another github repo](https://github.com/rShetty/awesome-distributed-systems) <br>
+
+# Videos
+[Kafka 2017 Summit](https://www.confluent.io/kafka-summit-sf17/resource/) <br>
+[CppCon 2017](https://www.youtube.com/playlist?list=PLHTh1InhhwT6bwIpRk0ZbCA0N2p1taxd6) <br>
+[@Scale 2017](https://atscaleconference.com/videos-articles/) <br>
+[Strange Loop 2017](https://www.youtube.com/channel/UC_QIfHvN9auy2CoOdSfMWDw) <br>
+[FOSDEM 2018](https://www.youtube.com/user/fosdemtalks/videos) <br>
+[Computer Architecture course taught at ETH Zürich in Fall 2017](https://www.youtube.com/playlist?list=PL5Q2soXY2Zi9OhoVQBXYFIZywZXCPl4M_) <br>
+[GrafanaCon 2018](https://www.youtube.com/playlist?list=PLDGkOdUX1UjpXR6BexaDoOIc0ksE2MzFI) <br>
+[SREcon 2018](https://www.youtube.com/playlist?list=PLbRoZ5Rrl5lcszsvhnb4P9Ds4pSmVtkfp) <br>
+[KubeCon + CloudNativeCon 2018](https://www.youtube.com/playlist?list=PLj6h78yzYM2N8GdbjmhVU65KYm_68qBmo) <br>
+[Networking @Scale 2018](https://code.fb.com/core-data/networking-scale-2018-recap/) <br>
+[Highload++ Siberia 2018](http://www.highload.ru/siberia/2018/) <br>
+[GrafanaCon 2019](https://www.youtube.com/playlist?list=PLDGkOdUX1UjqKc3ryyoSpWZvs7yktklQr) <br>
+[SREcon 2020 Americas](https://www.youtube.com/playlist?list=PLbRoZ5Rrl5lfLXUjFjS0mP1XzNzNZMhYN) <br>
