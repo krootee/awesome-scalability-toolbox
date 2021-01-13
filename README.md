@@ -404,6 +404,7 @@ Online solutions: <br>
 [TCP window scaling, timestamps and SACK](https://fedoramagazine.org/tcp-window-scaling-timestamps-and-sack/) <br>
 [DNS SVCB and HTTPS records RFC (draft)](https://tools.ietf.org/html/draft-ietf-dnsop-svcb-https-01) <br>
 [Networking ASICS overview in 2020](https://blog.cloudflare.com/asics-at-the-edge/) <br>
+[How NAT traversal works](https://tailscale.com/blog/how-nat-traversal-works/) <br>
 
 # SDN
 [Stratum](https://stratumproject.org/) <br>
