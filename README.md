@@ -109,7 +109,7 @@ Kafka Web UI solutions: [AKHQ](https://github.com/tchiotludo/akhq), [Kafdrop](ht
 [Why Uber Engineering Switched from Postgres to MySQL](https://eng.uber.com/mysql-migration/) and [Follow up 1](https://www.slideshare.net/AlexanderKorotkov/our-answer-to-uber/), [2](https://blog.2ndquadrant.com/thoughts-on-ubers-list-of-postgres-limitations/), [3](http://thebuild.com/presentations/uber-perconalive-2017.pdf), [4](https://rhaas.blogspot.gr/2016/08/ubers-move-away-from-postgresql.html), [5](https://devconf.ru/ru/archive/devconf2017/offer/314), [6](https://habr.com/company/devconf/blog/353682/), [7](https://use-the-index-luke.com/blog/2016-07-29/on-ubers-choice-of-databases) <br>
 [Redis](https://redis.io/), [Community Slack Channel](https://rediscommunity.slack.com/) <br>
 Redis modules: [5 open source modules](https://goodformcode.com/), [JSON module](https://github.com/RedisJSON/RedisJSON) <br>
-Redis WebUI: [RedisInsight](https://redislabs.com/redisinsight/), [Redis-UI](https://github.com/patrikx3/redis-ui/), [Redis Desktop Manager](https://github.com/uglide/RedisDesktopManager) <br>
+Redis UI: [RedisInsight](https://redislabs.com/redisinsight/), [AnotherRedisDesktopManager](https://github.com/qishibo/AnotherRedisDesktopManager), [Redis-UI](https://github.com/patrikx3/redis-ui/), [Redis Desktop Manager](https://github.com/uglide/RedisDesktopManager) <br>
 [iredis (improved CLI for Redis)](https://github.com/laixintao/iredis/) <br>
 [KeyDB (Redis fork with I/O multithreading)](https://keydb.dev/) <br>
 [Memcached](https://github.com/memcached/memcached/), [extstore storage shim](https://github.com/memcached/memcached/wiki/Extstore), [Caching beyond RAM: the case for NVMe](https://memcached.org/blog/nvm-caching/) <br>
