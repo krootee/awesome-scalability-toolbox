@@ -59,6 +59,7 @@
 [Spectral (API linter)](https://github.com/stoplightio/spectral) <br>
 [Dredd (API tester)](https://github.com/apiaryio/dredd) <br>
 [Zally (API linter)](https://github.com/zalando/zally) <br>
+[GraphQL](https://graphql.org/), [UI client](https://altair.sirmuel.design/) <br>
 
 # Message queues
 [Kafka](https://kafka.apache.org/) <br>
