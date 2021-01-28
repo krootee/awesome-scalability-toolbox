@@ -1,6 +1,6 @@
 # Index
-[Architecture diagrams, API documentation](#architecture-diagrams-api-documentation) <br>
-[Public API](#public-api) <br>
+[Architecture diagrams](#architecture-diagrams) <br>
+[API documentation](#api-documentation) <br>
 [Message queues](#message-queues) <br>
 [Load balancers, reverse proxy, accelerators, web servers](#load-balancers-reverse-proxy-accelerators-web-servers) <br>
 [Service mesh](#service-mesh) <br>
@@ -38,7 +38,7 @@
 [Tools](#tools) <br>
 [Misc](#misc) <br>
 
-# Architecture diagrams, API documentation
+# Architecture diagrams
 [Lucidchart](https://www.lucidchart.com/) <br>
 [Mermaid (from code)](https://mermaidjs.github.io/) <br>
 [PlantUML (from code)](https://plantuml.com/) <br>
@@ -51,7 +51,7 @@
 [Creately](https://creately.com/) <br>
 [Draw](https://www.draw.io/) <br>
 
-# Public API
+# API documentation
 [OpenAPI](https://www.openapis.org/) <br>
 [Swagger](https://swagger.io/) <br>
 [Wording](https://www.ietf.org/rfc/rfc2119.txt), [definition syntax](https://www.ietf.org/rfc/rfc5234.txt) and [units](http://unitsofmeasure.org/ucum.html) for RFC specification creation <br>
