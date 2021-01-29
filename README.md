@@ -155,6 +155,7 @@ Redis UI: [RedisInsight](https://redislabs.com/redisinsight/), [AnotherRedisDesk
 
 # Containers
 [Docker](https://www.docker.com/) <br>
+Docker Registries: [Harbor](https://goharbor.io/), [Quay](https://github.com/quay/quay) <br>
 [Awesome Docker list](https://github.com/veggiemonk/awesome-docker) <br>
 [docker-autoheal (restart on unhealthy event)](https://github.com/willfarrell/docker-autoheal) <br>
 [Kubernetes](https://kubernetes.io/) <br>
