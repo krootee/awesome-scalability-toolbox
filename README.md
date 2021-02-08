@@ -475,6 +475,7 @@ https://www.percona.com/blog/2019/01/28/monitor-and-optimize-slow-queries-with-p
 [Intel VROC overview and performance testing](https://www.storagereview.com/intel_virtual_raid_on_cpu_vroc_review) <br>
 [Blb (distributed object storage system developed by Upthere)](https://github.com/westerndigitalcorporation/blb) <br>
 [Configuring OpenZFS to run 24x NVMe drives for high-load MySQL](https://github.com/letsencrypt/openzfs-nvme-databases) <br>
+[Achieving 11M IOPS & 66 GB/s IO on a Single ThreadRipper Workstation](https://tanelpoder.com/posts/11m-iops-with-10-ssds-on-amd-threadripper-pro-workstation/) and follow up [video](https://www.youtube.com/watch?v=5A531KE8O9Q)<br>
 
 # TLS
 [The Illustrated TLS Connection](https://tls.ulfheim.net/) <br>
