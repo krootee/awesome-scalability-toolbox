@@ -548,6 +548,7 @@ OAuth 2.0 information: [Practical information](https://oauth.net/), [book](https
 [Elliptic Curve Cryptography: a gentle introduction](http://andrea.corbellini.name/2015/05/17/elliptic-curve-cryptography-a-gentle-introduction/) <br>
 [Safe elliptic curvers](https://safecurves.cr.yp.to/) <br>
 [Curve25519](https://cr.yp.to/ecdh/curve25519-20060209.pdf) <br>
+[Hybrid Public Key Encryption (HPKE) RFC](https://tools.ietf.org/html/draft-irtf-cfrg-hpke-07), [Example of HPKE usage in Cloudflare](https://blog.cloudflare.com/using-hpke-to-encrypt-request-payloads/) <br>
 
 # Hashing
 [smhasher testing suite](https://github.com/rurban/smhasher) <br>
