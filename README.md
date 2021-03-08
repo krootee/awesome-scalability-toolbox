@@ -465,6 +465,7 @@ https://www.percona.com/blog/2019/01/28/monitor-and-optimize-slow-queries-with-p
 [How does a relational database work](http://coding-geek.com/how-databases-work/) <br>
 [Using systemd timers instead of cronjobs](https://opensource.com/article/20/7/systemd-timers) <br>
 [Story of age, cache-control headers and prefetching mechanism in modern browsers](https://timkadlec.com/remembers/2020-06-17-prefetching-at-this-age/) <br>
+[Is Your Linux Version Hiding Interrupt CPU Usage From You?](https://tanelpoder.com/posts/linux-hiding-interrupt-cpu-usage/) <br>
 
 # Disk storage
 [Minio (local storage with AWS S3 API)](https://github.com/minio/minio) <br>
