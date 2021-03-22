@@ -630,3 +630,4 @@ User access information from logs: [GoAccess](https://goaccess.io/) and [AWStats
 [Highload++ Siberia 2018](http://www.highload.ru/siberia/2018/) <br>
 [GrafanaCon 2019](https://www.youtube.com/playlist?list=PLDGkOdUX1UjqKc3ryyoSpWZvs7yktklQr) <br>
 [SREcon 2020 Americas](https://www.youtube.com/playlist?list=PLbRoZ5Rrl5lfLXUjFjS0mP1XzNzNZMhYN) <br>
+[FAST '21](https://www.youtube.com/watch?v=yjme8LOyhfY&list=PLbRoZ5Rrl5lckayzBszGg_Pq6O1nq5EdV) <br>
