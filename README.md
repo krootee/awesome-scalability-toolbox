@@ -405,6 +405,7 @@ Online solutions: <br>
 [DNS SVCB and HTTPS records RFC (draft)](https://tools.ietf.org/html/draft-ietf-dnsop-svcb-https-01) <br>
 [Networking ASICS overview in 2020](https://blog.cloudflare.com/asics-at-the-edge/) <br>
 [How NAT traversal works](https://tailscale.com/blog/how-nat-traversal-works/) <br>
+[Ethernet and IP Networking 101](https://iximiuz.com/en/posts/computer-networking-101/) <br>
 
 # SDN
 [Stratum](https://stratumproject.org/) <br>
