@@ -566,6 +566,7 @@ OAuth 2.0 information: [Practical information](https://oauth.net/), [book](https
 [MurmurHash3](https://github.com/aappleby/smhasher) <br>
 [argon2 (password hashing)](https://github.com/P-H-C/phc-winner-argon2) <br>
 [Dieharder: A Random Number Test Suite](http://webhome.phy.duke.edu/~rgb/General/dieharder.php) <br>
+[yescrypt (KDF and password hashing)](https://www.openwall.com/yescrypt/) <br>
 
 # Real User Monitoring
 [boomerang library](https://github.com/akamai/boomerang) and [How to use boomerang](https://developer.akamai.com/tools/boomerang/) <br>
