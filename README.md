@@ -519,6 +519,9 @@ OAuth 2.0 information: [Practical information](https://oauth.net/), [book](https
 [JSON Web Signature (JWS)](https://tools.ietf.org/html/rfc7515) <br>
 [JSON Web Encryption (JWE)](https://tools.ietf.org/html/rfc7516) <br>
 [JWT playground](https://jwt.io/) <br>
+[CBOR Web Token (CWT)](https://datatracker.ietf.org/doc/html/rfc8392) <br>
+[CBOR information](https://cbor.io/) <br>
+[CBOR playground](http://cbor.me/) <br>
 
 # Encryption
 [OpenSSL](https://www.openssl.org/) <br>
