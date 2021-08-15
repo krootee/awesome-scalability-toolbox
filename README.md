@@ -578,7 +578,7 @@ OAuth 2.0 information: [Practical information](https://oauth.net/), [book](https
 [UUIDv7 RFC draft](https://datatracker.ietf.org/doc/html/draft-peabody-dispatch-new-uuid-format-01) <br>
 [UUIDv6/7 RFC work in progress](https://github.com/uuid6/uuid6-ietf-draft) <br>
 [UUIDv7 playground](http://www.new-uuid.info/) <br>
-[Why UUIDb7? (RU)](https://habr.com/ru/post/572700/) <br>
+[Why UUIDv7? (RU)](https://habr.com/ru/post/572700/) <br>
 
 # Real User Monitoring
 [boomerang library](https://github.com/akamai/boomerang) and [How to use boomerang](https://developer.akamai.com/tools/boomerang/) <br>
