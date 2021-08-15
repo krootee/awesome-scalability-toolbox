@@ -31,6 +31,7 @@
 [HTTP/3 and QUIC](#http3-and-quic) <br>
 [Authorization](#authorization) <br>
 [Encryption](#encryption) <br>
+[UUID](#uuid) <br>
 [Hashing](#hashing) <br>
 [Videos](#videos) <br>
 [Real User Monitoring](#real-user-Monitoring) <br>
@@ -572,6 +573,12 @@ OAuth 2.0 information: [Practical information](https://oauth.net/), [book](https
 [argon2 (password hashing)](https://github.com/P-H-C/phc-winner-argon2) <br>
 [Dieharder: A Random Number Test Suite](http://webhome.phy.duke.edu/~rgb/General/dieharder.php) <br>
 [yescrypt (KDF and password hashing)](https://www.openwall.com/yescrypt/) <br>
+
+# UUID
+[UUIDv7 RFC draft](https://datatracker.ietf.org/doc/html/draft-peabody-dispatch-new-uuid-format-01) <br>
+[UUIDv6/7 RFC work in progress](https://github.com/uuid6/uuid6-ietf-draft) <br>
+[UUIDv7 playground](http://www.new-uuid.info/) <br>
+[Why UUIDb7? (RU)](https://habr.com/ru/post/572700/) <br>
 
 # Real User Monitoring
 [boomerang library](https://github.com/akamai/boomerang) and [How to use boomerang](https://developer.akamai.com/tools/boomerang/) <br>
