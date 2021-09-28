@@ -228,6 +228,8 @@ Docker Registries: [Harbor](https://goharbor.io/), [Quay](https://github.com/qua
 # gRPC
 [Awesome gRPC list](https://github.com/grpc-ecosystem/awesome-grpc) <br>
 [gRPC status codes](https://github.com/grpc/grpc/blob/master/doc/statuscodes.md) <br>
+[gRPC Field Mask](https://developers.google.com/protocol-buffers/docs/reference/csharp/class/google/protobuf/well-known-types/field-mask) and Netflix guide to using it [Get operations](https://netflixtechblog.com/practical-api-design-at-netflix-part-1-using-protobuf-fieldmask-35cfdc606518] and [Update operations](https://netflixtechblog.com/practical-api-design-at-netflix-part-2-protobuf-fieldmask-for-mutation-operations-2e75e1d230e4)
+[gRPC field presence (v3.15+)](https://github.com/protocolbuffers/protobuf/blob/master/docs/field_presence.md) <br>
 [gRPC 2 years in production](https://www.youtube.com/watch?v=7FZ6ZyzGex0) <br>
 [gRPC-Web client](https://github.com/improbable-eng/grpc-web/) <br>
 [gRPC GUI client](https://github.com/uw-labs/bloomrpc) <br>
