@@ -29,7 +29,7 @@
 [Disk storage](#disk-storage) <br>
 [TLS](#tls) <br>
 [HTTP/3 and QUIC](#http3-and-quic) <br>
-[Authorization](#authorization) <br>
+[Authorization and Authentication](#authorization-and-authentication) <br>
 [Encryption](#encryption) <br>
 [UUID](#uuid) <br>
 [Hashing](#hashing) <br>
@@ -327,6 +327,7 @@ Online solutions: <br>
 [Teletraan](https://github.com/pinterest/teletraan) <br>
 
 # CI (Continuous Integration)
+[Github Actions](https://github.com/features/actions) <br>
 [TeamCity](https://www.jetbrains.com/teamcity) <br>
 [Jenkins](https://jenkins.io) <br>
 [Jenkins X (for k8s apps)](https://jenkins-x.io/) <br>
@@ -515,7 +516,7 @@ https://www.percona.com/blog/2019/01/28/monitor-and-optimize-slow-queries-with-p
 [msquic (QUIC protocol implementation from Microsoft)](https://github.com/microsoft/msquic) <br>
 [quiche (QUIC protocol implementation from Cloudflare)](https://github.com/cloudflare/quiche) <br>
 
-# Authorization
+# Authorization and Authentication
 OAuth 2.0 information: [Practical information](https://oauth.net/), [book](https://oauth2simplified.com/), [online version of the book](https://www.oauth.com/), [best practices (RFC)](https://tools.ietf.org/html/draft-ietf-oauth-security-topics-14), [browser-bases apps guideline (RFC)](https://tools.ietf.org/html/draft-ietf-oauth-browser-based-apps-04), [RFC](https://tools.ietf.org/html/rfc6749) <br>
 [AppAuth (OAuth 2.0 client library)](https://appauth.io/) <br>
 [JSON Web Token (JWT)](https://tools.ietf.org/html/rfc7519) <br>
