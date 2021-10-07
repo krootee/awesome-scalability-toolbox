@@ -358,6 +358,7 @@ Online solutions: <br>
 [S3 meta information](https://github.com/whitfin/s3-meta) <br>
 
 # Networking
+[Understanding all DNS records](https://www.netmeister.org/blog/dns-rrs.html) <br>
 [Understanding cost of bandwidth](https://blog.cloudflare.com/the-relative-cost-of-bandwidth-around-the-world/), [AWS egress cost analysis](https://blog.cloudflare.com/aws-egregious-egress/) <br>
 [Peering database](https://www.peeringdb.com/) <br>
 [chrony (NTP)](https://chrony.tuxfamily.org/) and [Facebook measuring chrony vs ntpd](https://engineering.fb.com/production-engineering/ntp-service/) <br>
