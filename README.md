@@ -68,10 +68,9 @@
 Kafka Web UI solutions: [AKHQ](https://github.com/tchiotludo/akhq), [Kafdrop](https://github.com/obsidiandynamics/kafdrop), [Kowl](https://github.com/cloudhut/kowl), [CMAK](https://github.com/yahoo/CMAK), [Lenses Box](https://github.com/lensesio/fast-data-dev)  <br>
 [RabbitMQ](https://www.rabbitmq.com/) <br>
 [ActiveMQ](http://activemq.apache.org/) <br>
+[NATS](https://nats.io/) <br>
 [ZeroMQ](http://zeromq.org/) <br>
 [nanomsg](http://nanomsg.org/) <br>
-[phxqueue (from Tencent)](https://github.com/Tencent/phxqueue) <br>
-[HornetQ](http://hornetq.jboss.org/) <br>
 [IronMQ (cloud)](https://www.iron.io/platform/ironmq/) <br>
 [nanomsg (C and Go only)](https://github.com/nanomsg/nng) <br>
 
@@ -90,6 +89,7 @@ Kafka Web UI solutions: [AKHQ](https://github.com/tchiotludo/akhq), [Kafdrop](ht
 [Cloudflare Unimog design](https://blog.cloudflare.com/unimog-cloudflares-edge-load-balancer/) <br>
 
 # Service mesh
+[Linkerd](https://linkerd.io/) <br>
 [Envoy](https://www.envoyproxy.io/) <br>
 [Envoy introduction](https://www.youtube.com/watch?v=RVZX4CwKhGE) <br>
 [Learn Envoy](https://www.learnenvoy.io/) <br>
@@ -98,8 +98,6 @@ Kafka Web UI solutions: [AKHQ](https://github.com/tchiotludo/akhq), [Kafdrop](ht
 [Envoy Java control plane](https://github.com/envoyproxy/java-control-plane) <br>
 [Istio service mesh controller](https://istio.io/) <br>
 [Istio introduction](https://www.youtube.com/watch?v=s4qasWn_mFc) <br>
-[linkerd L5 proxy (Finagle based, JVM)](https://linkerd.io/) <br>
-[linkerd introduction](https://www.youtube.com/watch?v=0xYSy6OmjUM) <br>
 [Conduit (Rust, linkerd devs)](https://conduit.io/) <br>
 [Netflix Vizceral (observability)](https://github.com/Netflix/vizceral) <br>
 [Kiali (observability, Istio)](https://kiali.org) <br>
@@ -360,6 +358,8 @@ Online solutions: <br>
 [S3 meta information](https://github.com/whitfin/s3-meta) <br>
 
 # Networking
+[Understanding cost of bandwidth](https://blog.cloudflare.com/the-relative-cost-of-bandwidth-around-the-world/), [AWS egress cost analysis](https://blog.cloudflare.com/aws-egregious-egress/) <br>
+[Peering database](https://www.peeringdb.com/) <br>
 [chrony (NTP)](https://chrony.tuxfamily.org/) and [Facebook measuring chrony vs ntpd](https://engineering.fb.com/production-engineering/ntp-service/) <br>
 [BPF introduction](https://qmonnet.github.io/whirl-offload/2016/09/01/dive-into-bpf/) <br>
 [XDP](https://www.iovisor.org/technology/xdp) <br>
