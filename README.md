@@ -358,9 +358,11 @@ Online solutions: <br>
 [S3 meta information](https://github.com/whitfin/s3-meta) <br>
 
 # Networking
+[Streams support in modern browsers](https://streams.spec.whatwg.org/) and [Current browser support state](https://caniuse.com/streams) <br>
 [Understanding all DNS records](https://www.netmeister.org/blog/dns-rrs.html) <br>
 [Understanding cost of bandwidth](https://blog.cloudflare.com/the-relative-cost-of-bandwidth-around-the-world/), [AWS egress cost analysis](https://blog.cloudflare.com/aws-egregious-egress/) <br>
 [Peering database](https://www.peeringdb.com/) <br>
+[WebTransport protocol (improving on WebSockets and WebRTC use cases)](https://github.com/w3c/webtransport) <br>
 [chrony (NTP)](https://chrony.tuxfamily.org/) and [Facebook measuring chrony vs ntpd](https://engineering.fb.com/production-engineering/ntp-service/) <br>
 [BPF introduction](https://qmonnet.github.io/whirl-offload/2016/09/01/dive-into-bpf/) <br>
 [XDP](https://www.iovisor.org/technology/xdp) <br>
@@ -415,7 +417,6 @@ Online solutions: <br>
 [Networking ASICS overview in 2020](https://blog.cloudflare.com/asics-at-the-edge/) <br>
 [How NAT traversal works](https://tailscale.com/blog/how-nat-traversal-works/) <br>
 [Ethernet and IP Networking 101](https://iximiuz.com/en/posts/computer-networking-101/) <br>
-[WebTransport protocol (improving on WebSockets and WebRTC use cases)](https://github.com/w3c/webtransport) <br>
 
 # SDN
 [Stratum](https://stratumproject.org/) <br>
