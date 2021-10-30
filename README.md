@@ -66,6 +66,7 @@
 # Message queues
 [Kafka](https://kafka.apache.org/) <br>
 Kafka Web UI solutions: [AKHQ](https://github.com/tchiotludo/akhq), [Kafdrop](https://github.com/obsidiandynamics/kafdrop), [Kowl](https://github.com/cloudhut/kowl), [CMAK](https://github.com/yahoo/CMAK), [Lenses Box](https://github.com/lensesio/fast-data-dev)  <br>
+[Pulsar](https://pulsar.apache.org/) <br>
 [RabbitMQ](https://www.rabbitmq.com/) <br>
 [ActiveMQ](http://activemq.apache.org/) <br>
 [NATS](https://nats.io/) <br>
