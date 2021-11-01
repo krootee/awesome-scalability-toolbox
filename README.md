@@ -107,17 +107,6 @@ Kafka Web UI solutions: [AKHQ](https://github.com/tchiotludo/akhq), [Kafdrop](ht
 # Structured and unstructured data storage
 [PostgreSQL](https://www.postgresql.org/) <br>
 [Postgres Pro (PostgreSQL)](https://postgrespro.ru/) <br>
-[JSON in Postgre 10.x, 11.x, PostgreSQL 9.6 vs Mongo 3.4](https://www.youtube.com/watch?v=SNzOZKvFZ68) <br>
-[Why Uber Engineering Switched from Postgres to MySQL](https://eng.uber.com/mysql-migration/) and [Follow up 1](https://www.slideshare.net/AlexanderKorotkov/our-answer-to-uber/), [2](https://blog.2ndquadrant.com/thoughts-on-ubers-list-of-postgres-limitations/), [3](http://thebuild.com/presentations/uber-perconalive-2017.pdf), [4](https://rhaas.blogspot.gr/2016/08/ubers-move-away-from-postgresql.html), [5](https://devconf.ru/ru/archive/devconf2017/offer/314), [6](https://habr.com/company/devconf/blog/353682/), [7](https://use-the-index-luke.com/blog/2016-07-29/on-ubers-choice-of-databases) <br>
-[Redis](https://redis.io/), [Community Slack Channel](https://rediscommunity.slack.com/) <br>
-Redis modules: [5 open source modules](https://goodformcode.com/), [JSON module](https://github.com/RedisJSON/RedisJSON) <br>
-Redis UI: [RedisInsight](https://redislabs.com/redisinsight/), [AnotherRedisDesktopManager](https://github.com/qishibo/AnotherRedisDesktopManager), [Redis-UI](https://github.com/patrikx3/redis-ui/), [Redis Desktop Manager](https://github.com/uglide/RedisDesktopManager) <br>
-[iredis (improved CLI for Redis)](https://github.com/laixintao/iredis/) <br>
-[KeyDB (Redis fork with I/O multithreading)](https://keydb.dev/) <br>
-[Memcached](https://github.com/memcached/memcached/), [extstore storage shim](https://github.com/memcached/memcached/wiki/Extstore), [Caching beyond RAM: the case for NVMe](https://memcached.org/blog/nvm-caching/) <br>
-[Memcached-SR with BMC(BPF Memory Cache)](https://github.com/Orange-OpenSource/bmc-cache) and it's [paper with video](https://pchaigno.github.io/ebpf/2021/04/12/bmc-accelerating-memcached-using-bpf-and-xdp.html) <br>
-[Segcache (in-memory storage optimized for small objects with short TTL, Twitter)](https://github.com/Thesys-lab/Segcache) <br>
-[FASTER (Microsoft)](https://github.com/Microsoft/FASTER), [official site](https://www.microsoft.com/en-us/research/project/FASTER/) <br>
 [MySQL](https://www.mysql.com/), [ProxySQL (for MySQL)](https://proxysql.com/), [mydumper (MySQL multi-threaded backup/restore)](https://github.com/maxbube/mydumper) <br>
 [RocksDB (InnoDB replacement by Facebook)](http://myrocks.io/), [Using NVM in Facebook (RocksDB)](https://dl.acm.org/citation.cfm?id=3190524) <br>
 [Vitess (MySQL auto horizontal scaling)](http://vitess.io/) <br>
@@ -128,7 +117,19 @@ Redis UI: [RedisInsight](https://redislabs.com/redisinsight/), [AnotherRedisDesk
 [Cassandra](https://cassandra.apache.org/) <br>
 [CockroachDB](https://www.cockroachlabs.com/) <br>
 [Aerospike](http://www.aerospike.com/) <br>
+[FoundationDB](https://www.foundationdb.org/) <br>
 [TiDB](https://docs.pingcap.com/tidb/stable/overview) <br>
+[JSON in Postgre 10.x, 11.x, PostgreSQL 9.6 vs Mongo 3.4](https://www.youtube.com/watch?v=SNzOZKvFZ68) <br>
+[Why Uber Engineering Switched from Postgres to MySQL](https://eng.uber.com/mysql-migration/) and [Follow up 1](https://www.slideshare.net/AlexanderKorotkov/our-answer-to-uber/), [2](https://blog.2ndquadrant.com/thoughts-on-ubers-list-of-postgres-limitations/), [3](http://thebuild.com/presentations/uber-perconalive-2017.pdf), [4](https://rhaas.blogspot.gr/2016/08/ubers-move-away-from-postgresql.html), [5](https://devconf.ru/ru/archive/devconf2017/offer/314), [6](https://habr.com/company/devconf/blog/353682/), [7](https://use-the-index-luke.com/blog/2016-07-29/on-ubers-choice-of-databases) <br>
+[Redis](https://redis.io/), [Community Slack Channel](https://rediscommunity.slack.com/) <br>
+Redis modules: [5 open source modules](https://goodformcode.com/), [JSON module](https://github.com/RedisJSON/RedisJSON) <br>
+Redis UI: [RedisInsight](https://redislabs.com/redisinsight/), [AnotherRedisDesktopManager](https://github.com/qishibo/AnotherRedisDesktopManager), [Redis-UI](https://github.com/patrikx3/redis-ui/), [Redis Desktop Manager](https://github.com/uglide/RedisDesktopManager) <br>
+[iredis (improved CLI for Redis)](https://github.com/laixintao/iredis/) <br>
+[KeyDB (Redis fork with I/O multithreading and offloading to flash)](https://keydb.dev/) <br>
+[Memcached](https://github.com/memcached/memcached/), [extstore storage shim](https://github.com/memcached/memcached/wiki/Extstore), [Caching beyond RAM: the case for NVMe](https://memcached.org/blog/nvm-caching/) <br>
+[Memcached-SR with BMC(BPF Memory Cache)](https://github.com/Orange-OpenSource/bmc-cache) and it's [paper with video](https://pchaigno.github.io/ebpf/2021/04/12/bmc-accelerating-memcached-using-bpf-and-xdp.html) <br>
+[Segcache (in-memory storage optimized for small objects with short TTL, Twitter)](https://github.com/Thesys-lab/Segcache) <br>
+[FASTER (Microsoft)](https://github.com/Microsoft/FASTER), [official site](https://www.microsoft.com/en-us/research/project/FASTER/) <br>
 [Anna (experimental, Berkeley RISE Lab)](https://github.com/fluent-project/fluent/tree/master/kvs), [white paper](https://arxiv.org/abs/1809.00089) <br>
 [LogDevice (Facebook, distributed storage for sequential data)](https://github.com/facebookincubator/LogDevice) <br>
 [OrientDB (graph)](https://orientdb.com/) <br>
