@@ -94,6 +94,10 @@ Kafka Web UI solutions: [AKHQ](https://github.com/tchiotludo/akhq), [Kafdrop](ht
 [Envoy](https://www.envoyproxy.io/) <br>
 [Envoy introduction](https://www.youtube.com/watch?v=RVZX4CwKhGE) <br>
 [Learn Envoy](https://www.learnenvoy.io/) <br>
+[Consul Connect](https://www.consul.io/docs/connect) <br>
+[Kuma (from Kong)](https://kuma.io/) <br>
+[Kong Mesh](https://konghq.com/kong-mesh) <br>
+[xDS control protocol](https://github.com/cncf/xds) <br>
 [Rotor (xDS, Turbine Labs)](https://github.com/turbinelabs/rotor) <br>
 [ModSecurity for Envoy (WAF)](https://github.com/octarinesec/ModSecurity-envoy) <br>
 [Envoy Java control plane](https://github.com/envoyproxy/java-control-plane) <br>
