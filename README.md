@@ -640,6 +640,7 @@ User access information from logs: [GoAccess](https://goaccess.io/) and [AWStats
 [bandwidth](https://github.com/imsnif/bandwhich) <br>
 [sandmap](https://github.com/trimstray/sandmap) <br>
 [duf (advanced du)](https://github.com/muesli/duf) <br>
+[GUI Tool for cloud infrastructure](https://www.brainboard.co/) <br/>
 
 # Misc
 [High Scalability/Availability/Stability articles list](https://github.com/binhnguyennus/awesome-scalability) <br>
