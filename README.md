@@ -111,6 +111,7 @@ Kafka Web UI solutions: [AKHQ](https://github.com/tchiotludo/akhq), [Kafdrop](ht
 # Structured and unstructured data storage
 [PostgreSQL](https://www.postgresql.org/) <br>
 [Postgres Pro (PostgreSQL)](https://postgrespro.ru/) <br>
+[RDS Postgres vs Aurora Postgres 13](https://www.migops.com/blog/2021/11/26/is-aurora-postgresql-really-faster-and-cheaper-than-rds-postgresql-benchmarking/) <br>
 [MySQL](https://www.mysql.com/), [ProxySQL (for MySQL)](https://proxysql.com/), [mydumper (MySQL multi-threaded backup/restore)](https://github.com/maxbube/mydumper) <br>
 [RocksDB (InnoDB replacement by Facebook)](http://myrocks.io/), [Using NVM in Facebook (RocksDB)](https://dl.acm.org/citation.cfm?id=3190524) <br>
 [Vitess (MySQL auto horizontal scaling)](http://vitess.io/) <br>
