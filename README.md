@@ -546,6 +546,7 @@ OAuth 2.0 information: [Practical information](https://oauth.net/), [book](https
 [Google Tink](https://github.com/google/tink) <br>
 [Thesis (encryption framework)](https://github.com/cossacklabs/themis) <br>
 [Acra (DB encryption proxy)](https://github.com/cossacklabs/acra) <br>
+[Lightweight cryptography algorithms (NIST)](https://csrc.nist.gov/projects/lightweight-cryptography) <br>
 [Cryptography Engineering: Design Principles and Practical Applications (book)](https://www.amazon.com/Cryptography-Engineering-Principles-Practical-Applications/dp/0470474246) <br>
 [Introduction to Modern Cryptography, Second Edition (book)](https://www.amazon.com/Introduction-Cryptography-Chapman-Network-Security/dp/1466570261) <br>
 [Security Engineering, 2nd edition (book)](https://www.amazon.com/Security-Engineering-Building-Dependable-Distributed/dp/0470068523) <br>
