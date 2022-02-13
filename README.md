@@ -235,6 +235,10 @@ Docker Registries: [Harbor](https://goharbor.io/), [Quay](https://github.com/qua
 [gRPC status codes](https://github.com/grpc/grpc/blob/master/doc/statuscodes.md) <br>
 [gRPC Field Mask](https://developers.google.com/protocol-buffers/docs/reference/csharp/class/google/protobuf/well-known-types/field-mask) and Netflix guide to using it [Get operations](https://netflixtechblog.com/practical-api-design-at-netflix-part-1-using-protobuf-fieldmask-35cfdc606518) and [Update operations](https://netflixtechblog.com/practical-api-design-at-netflix-part-2-protobuf-fieldmask-for-mutation-operations-2e75e1d230e4) <br>
 [gRPC field presence (v3.15+)](https://github.com/protocolbuffers/protobuf/blob/master/docs/field_presence.md) <br>
+[Insomnia (test client)](https://insomnia.rest/) <br>
+[Postman (test client)](https://www.postman.com/) <br>
+[Hoppscotch (test client)](https://hoppscotch.io/) <br>
+[httpYac (test client)](https://httpyac.github.io/) <br>
 [milkman test client (via gRPC plugin)](https://github.com/warmuuh/milkman) <br>
 [improbabl test client (Web)](https://github.com/improbable-eng/grpc-web/) <br>
 [bloomrpc test client (GUI)](https://github.com/uw-labs/bloomrpc) <br>
