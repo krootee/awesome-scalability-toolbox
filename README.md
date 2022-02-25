@@ -579,6 +579,7 @@ OAuth 2.0 information: [Practical information](https://oauth.net/), [book](https
 [Curve25519](https://cr.yp.to/ecdh/curve25519-20060209.pdf) <br>
 [Hybrid Public Key Encryption (HPKE) RFC](https://tools.ietf.org/html/draft-irtf-cfrg-hpke-07), [Example of HPKE usage in Cloudflare](https://blog.cloudflare.com/using-hpke-to-encrypt-request-payloads/) <br>
 [Fully Homomorphic Encryption library (Google, C++)](https://github.com/google/fully-homomorphic-encryption) <br>
+[Understanding HKDF](https://soatok.blog/2021/11/17/understanding-hkdf/) <br>
 
 # Hashing
 [smhasher testing suite](https://github.com/rurban/smhasher) <br>
