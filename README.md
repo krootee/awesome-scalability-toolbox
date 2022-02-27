@@ -1,5 +1,5 @@
 # Index
-[Architecture diagrams](#architecture-diagrams) <br>
+[Diagrams](#diagrams) <br>
 [API documentation](#api-documentation) <br>
 [Message queues](#message-queues) <br>
 [Load balancers, reverse proxy, accelerators, web servers](#load-balancers-reverse-proxy-accelerators-web-servers) <br>
@@ -39,19 +39,15 @@
 [Tools](#tools) <br>
 [Misc](#misc) <br>
 
-# Architecture diagrams
-[Lucidchart](https://www.lucidchart.com/) <br>
-[Mermaid (from code)](https://mermaidjs.github.io/) <br>
-[PlantUML (from code)](https://plantuml.com/) <br>
-[ilograph (interactive service diagrams from code)](https://www.ilograph.com/) <br>
-[Diagram.codes (diagrams from code)](https://www.diagram.codes/) <br>
-[Mingrammer Diagrams (from Python code)](https://github.com/mingrammer/diagrams) <br>
+# Diagrams
+[PlantUML](https://plantuml.com/) <br>
+[Mermaid](https://mermaidjs.github.io/) <br>
+[C4 (multi-level architecture diagrams)](https://c4model.com/) <br>
+[Structurizr (multi-level DSL)](https://structurizr.com/) <br>
+[dbdiagrams (DB ERD)](https://dbdiagram.io/) <br>
 [Cloudcraft (AWS only)](https://cloudcraft.co/) <br>
-[draft (GraphViz based service architecture)](https://github.com/lucasepe/draft) <br>
-[Cacoo](https://cacoo.com/) <br>
-[Creately](https://creately.com/) <br>
-[Draw](https://www.draw.io/) <br>
-[Drakon (open source UI diagrams)](https://drakonhub.com/) <br>
+[vega (visualization from JSON)](https://github.com/vega/vega) and [vega light](https://github.com/vega/vega-lite) <br>
+[arc42](https://arc42.org/) <br>
 
 # API documentation
 [OpenAPI](https://www.openapis.org/) <br>
