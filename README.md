@@ -234,6 +234,7 @@ Docker Registries: [Harbor](https://goharbor.io/), [Quay](https://github.com/qua
 [Insomnia (test client)](https://insomnia.rest/) <br>
 [Postman (test client)](https://www.postman.com/) <br>
 [Hoppscotch (test client)](https://hoppscotch.io/) <br>
+[Kreay (test client)](https://kreya.app/) <br>
 [httpYac (test client)](https://httpyac.github.io/) <br>
 [milkman test client (via gRPC plugin)](https://github.com/warmuuh/milkman) <br>
 [improbabl test client (Web)](https://github.com/improbable-eng/grpc-web/) <br>
