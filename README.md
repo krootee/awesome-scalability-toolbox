@@ -365,6 +365,7 @@ Online solutions: <br>
 [EC2 instance cheat sheet](https://www.ec2instances.info/) <br>
 [S3 meta information](https://github.com/whitfin/s3-meta) <br>
 [AWS DNS ALIAS record (vs CNAME)](https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/resource-record-sets-choosing-alias-non-alias.html) <br>
+[Understanding IAM](https://www.daan.fyi/writings/iam) <br>
 
 # Networking
 [Streams support in modern browsers](https://streams.spec.whatwg.org/) and [Current browser support state](https://caniuse.com/streams) <br>
