@@ -368,6 +368,7 @@ Online solutions: <br>
 [Understanding IAM](https://www.daan.fyi/writings/iam) <br>
 
 # Networking
+Proxies primer: based on [HTTP Connect](https://blog.cloudflare.com/a-primer-on-proxies/) and [QUIC (MASQUE)](https://blog.cloudflare.com/unlocking-quic-proxying-potential/) <br>
 [Streams support in modern browsers](https://streams.spec.whatwg.org/) and [Current browser support state](https://caniuse.com/streams) <br>
 [Understanding all DNS records](https://www.netmeister.org/blog/dns-rrs.html) <br>
 [Understanding cost of bandwidth](https://blog.cloudflare.com/the-relative-cost-of-bandwidth-around-the-world/), [AWS egress cost analysis](https://blog.cloudflare.com/aws-egregious-egress/) <br>
