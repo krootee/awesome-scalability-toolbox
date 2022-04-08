@@ -4,6 +4,7 @@
 [Message queues](#message-queues) <br>
 [Load balancers, reverse proxy, accelerators, web servers](#load-balancers-reverse-proxy-accelerators-web-servers) <br>
 [Service mesh](#service-mesh) <br>
+[API Gateway](#api-gateway) <br>
 [Structured and unstructured data storage](#structured-and-unstructured-data-storage) <br>
 [Distributed consensus management, service discovery and configuration](#distributed-consensus-management-service-discovery-and-configuration) <br>
 [Infrastructure provisioning](#Infrastructure-provisioning) <br>
@@ -103,6 +104,12 @@ Kafka Web UI solutions: [AKHQ](https://github.com/tchiotludo/akhq), [Kafdrop](ht
 [Netflix Vizceral (observability)](https://github.com/Netflix/vizceral) <br>
 [Kiali (observability, Istio)](https://kiali.org) <br>
 [Vistio (observability, Istio)](https://github.com/nmnellis/vistio) <br>
+
+# API Gateway
+[AWS API Gateway](https://aws.amazon.com/api-gateway/) <br>
+[Kong](https://konghq.com/kong) <br>
+[Cloudflare API Gateway](https://blog.cloudflare.com/api-gateway/) <br>
+[KrakenD](https://www.krakend.io/) <br>
 
 # Structured and unstructured data storage
 [PostgreSQL](https://www.postgresql.org/) <br>
