@@ -499,6 +499,7 @@ https://www.percona.com/blog/2019/01/28/monitor-and-optimize-slow-queries-with-p
 [HTTP Caching headers best practices](https://simonhearne.com/2022/caching-header-best-practices/) <br>
 
 # Disk storage
+[On Direct vs Buffered I/O and atomic writes](https://www.scylladb.com/2022/04/12/direct-i-o-writes-the-path-to-storage-wealth/), [SO on atomic writes from storage specification side](https://stackoverflow.com/questions/2009063/are-disk-sector-writes-atomic), [LWN on atomic writes](https://lwn.net/Articles/789600/) <br>
 [Minio (local storage with AWS S3 API)](https://github.com/minio/minio) <br>
 [libzbc (direct disk access)](https://github.com/hgst/libzbc) <br>
 [SMR drives at Dropbox](https://blogs.dropbox.com/tech/2018/06/extending-magic-pocket-innovation-with-the-first-petabyte-scale-smr-drive-deployment/) <br>
