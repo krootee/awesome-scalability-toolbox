@@ -164,6 +164,20 @@ Redis UI: [RedisInsight](https://redislabs.com/redisinsight/), [AnotherRedisDesk
 [Terraform AWS modules](https://github.com/terraform-aws-modules) <br>
 [Infracost - calculate Terraform deployment costs (AWS)](https://github.com/infracost/infracost) <br>
 [modules.tf - Convert Cloudcraft diagrams to Terraform code](https://modules.tf/) <br>
+[Pulumi](https://www.pulumi.com/) <br>
+[Crossplain](https://crossplane.io/) <br>
+
+# Deployment tools
+[Ansible](https://ansible.com/) <br>
+[Teletraan](https://github.com/pinterest/teletraan) <br>
+
+# CI (Continuous Integration)
+[Github Actions](https://github.com/features/actions) <br>
+[TeamCity](https://www.jetbrains.com/teamcity) <br>
+[Jenkins](https://jenkins.io) <br>
+[Jenkins X (for k8s apps)](https://jenkins-x.io/) <br>
+[JetBrains Space](https://www.jetbrains.com/space/) <br>
+[Tekton Pipelines (k8s native using CRD)](https://tekton.dev/) <br>
 
 # Containers
 [Docker](https://www.docker.com/) <br>
@@ -332,22 +346,6 @@ Online solutions: <br>
 [Unleash (simple)](https://github.com/Unleash/unleash) <br>
 [LaunchDarkly (cloud provider)](https://launchdarkly.com) <br>
 [piranha (Uber tool to refactor feature flag code)](https://github.com/uber/piranha) <br>
-
-# Deployment tools
-[Ansible](https://ansible.com/) <br>
-[Salt](https://saltstack.com/) <br>
-[Puppet](https://puppet.com/) <br>
-[Chef](https://www.chef.io/chef/) <br>
-[Teletraan](https://github.com/pinterest/teletraan) <br>
-
-# CI (Continuous Integration)
-[Github Actions](https://github.com/features/actions) <br>
-[TeamCity](https://www.jetbrains.com/teamcity) <br>
-[Jenkins](https://jenkins.io) <br>
-[Jenkins X (for k8s apps)](https://jenkins-x.io/) <br>
-[Azure DevOps](https://azure.microsoft.com/en-us/services/devops/) <br>
-[JetBrains Space](https://www.jetbrains.com/space/) <br>
-[Tekton Pipelines (k8s native using CRD)](https://tekton.dev/) <br>
 
 # CDNs
 [Akamai](https://www.akamai.com/) <br>
