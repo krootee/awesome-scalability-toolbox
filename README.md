@@ -534,6 +534,7 @@ https://www.percona.com/blog/2019/01/28/monitor-and-optimize-slow-queries-with-p
 [HTTP/3 for everyone (video)](https://fosdem.org/2020/schedule/event/http3/) <br>
 [HTTP/3 test site (Fastly)](https://http3.is/) <br>
 [HTTP/3 Explained (book)](https://http3-explained.haxx.se/) <br>
+[The Illustrated QUIC Connection](https://quic.xargs.org/) <br>
 [msquic (QUIC protocol implementation from Microsoft)](https://github.com/microsoft/msquic) <br>
 [quiche (QUIC protocol implementation from Cloudflare)](https://github.com/cloudflare/quiche) <br>
 
