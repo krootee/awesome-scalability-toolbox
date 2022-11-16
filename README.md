@@ -112,6 +112,7 @@ Kafka Web UI solutions: [AKHQ](https://github.com/tchiotludo/akhq), [Kafdrop](ht
 [KrakenD](https://www.krakend.io/) <br>
 
 # Structured and unstructured data storage
+[DynamoDB](https://aws.amazon.com/dynamodb/) and it's [internal design (2022)](https://www.usenix.org/system/files/atc22-elhemali.pdf) <br>
 [PostgreSQL](https://www.postgresql.org/) <br>
 [Postgres Pro (PostgreSQL)](https://postgrespro.ru/) <br>
 [RDS Postgres vs Aurora Postgres 13](https://www.migops.com/blog/2021/11/26/is-aurora-postgresql-really-faster-and-cheaper-than-rds-postgresql-benchmarking/) <br>
