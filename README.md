@@ -46,6 +46,7 @@
 [C4 (multi-level architecture diagrams)](https://c4model.com/) <br>
 [Structurizr (multi-level DSL)](https://structurizr.com/) <br>
 [dbdiagrams (DB ERD)](https://dbdiagram.io/) <br>
+[Workload Discovery on AWS](https://aws.amazon.com/solutions/implementations/workload-discovery-on-aws/) <br>
 [Cloudcraft (AWS only)](https://cloudcraft.co/) <br>
 [vega (visualization from JSON)](https://github.com/vega/vega) and [vega light](https://github.com/vega/vega-lite) <br>
 [arc42](https://arc42.org/) <br>
