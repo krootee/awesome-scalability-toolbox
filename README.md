@@ -45,6 +45,7 @@
 [Mermaid](https://mermaidjs.github.io/) <br>
 [C4 (multi-level architecture diagrams)](https://c4model.com/) <br>
 [Structurizr (multi-level DSL)](https://structurizr.com/) <br>
+[IcePanel (multi-level modelling and diagrams)](https://icepanel.io/) <br>
 [dbdiagrams (DB ERD)](https://dbdiagram.io/) <br>
 [Workload Discovery on AWS](https://aws.amazon.com/solutions/implementations/workload-discovery-on-aws/) <br>
 [Cloudcraft (AWS only)](https://cloudcraft.co/) <br>
@@ -375,6 +376,7 @@ Online solutions: <br>
 [Understanding IAM](https://www.daan.fyi/writings/iam) <br>
 
 # Networking
+["Soft-unicast" for egress traffic](https://blog.cloudflare.com/cloudflare-servers-dont-own-ips-anymore/) <br>
 Proxies primer: based on [HTTP Connect](https://blog.cloudflare.com/a-primer-on-proxies/) and [QUIC (MASQUE)](https://blog.cloudflare.com/unlocking-quic-proxying-potential/) <br>
 [Streams support in modern browsers](https://streams.spec.whatwg.org/) and [Current browser support state](https://caniuse.com/streams) <br>
 [Understanding all DNS records](https://www.netmeister.org/blog/dns-rrs.html) <br>
@@ -588,6 +590,7 @@ OAuth 2.0 information: [Practical information](https://oauth.net/), [book](https
 [Hybrid Public Key Encryption (HPKE) RFC](https://tools.ietf.org/html/draft-irtf-cfrg-hpke-07), [Example of HPKE usage in Cloudflare](https://blog.cloudflare.com/using-hpke-to-encrypt-request-payloads/) <br>
 [Fully Homomorphic Encryption library (Google, C++)](https://github.com/google/fully-homomorphic-encryption) <br>
 [Understanding HKDF](https://soatok.blog/2021/11/17/understanding-hkdf/) <br>
+[Intro to Linux Kernel Key Retention Service](https://blog.cloudflare.com/the-linux-kernel-key-retention-service-and-why-you-should-use-it-in-your-next-application/) <br>
 
 # Hashing
 [smhasher testing suite](https://github.com/rurban/smhasher) <br>
