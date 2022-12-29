@@ -439,6 +439,7 @@ Proxies primer: based on [HTTP Connect](https://blog.cloudflare.com/a-primer-on-
 [Ethernet and IP Networking 101](https://iximiuz.com/en/posts/computer-networking-101/) <br>
 
 # SDN
+[Панельная дискуссия «SDN 10 лет после хайпа»](https://www.youtube.com/watch?v=a6F73J2qwqY) <br>
 [Stratum](https://stratumproject.org/) <br>
 [p4 language](https://p4.org/) <br>
 [p4 Runtime](https://p4.org/p4-runtime/) <br>
