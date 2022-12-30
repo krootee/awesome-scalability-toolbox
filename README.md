@@ -376,6 +376,7 @@ Online solutions: <br>
 [Understanding IAM](https://www.daan.fyi/writings/iam) <br>
 
 # Networking
+[Scalable Reliable Datagram (SRD is available via ENA in AWS instances)](https://ieeexplore.ieee.org/document/9167399) <br>
 ["Soft-unicast" for egress traffic](https://blog.cloudflare.com/cloudflare-servers-dont-own-ips-anymore/) <br>
 Proxies primer: based on [HTTP Connect](https://blog.cloudflare.com/a-primer-on-proxies/) and [QUIC (MASQUE)](https://blog.cloudflare.com/unlocking-quic-proxying-potential/) <br>
 [Streams support in modern browsers](https://streams.spec.whatwg.org/) and [Current browser support state](https://caniuse.com/streams) <br>
