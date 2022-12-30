@@ -596,6 +596,7 @@ OAuth 2.0 information: [Practical information](https://oauth.net/), [book](https
 
 # Hashing
 [smhasher testing suite](https://github.com/rurban/smhasher) <br>
+[Article "Programmers Don’t Understand Hash Functions"](https://soatok.blog/2021/08/24/programmers-dont-understand-hash-functions/) <br>
 [Fast Positive Hash](https://github.com/leo-yuriev/t1ha) <br>
 [Meow hash](https://github.com/cmuratori/meow_hash) <br>
 [HighwayHash and SipHash (Google)](https://github.com/google/highwayhash/) <br>
@@ -607,6 +608,7 @@ OAuth 2.0 information: [Practical information](https://oauth.net/), [book](https
 [argon2 (password hashing)](https://github.com/P-H-C/phc-winner-argon2) <br>
 [Dieharder: A Random Number Test Suite](http://webhome.phy.duke.edu/~rgb/General/dieharder.php) <br>
 [yescrypt (KDF and password hashing)](https://www.openwall.com/yescrypt/) <br>
+["How to Encipher Messages on a Small Domain. Deterministic Encryption and the Thorp Shuffle" (encryption hashing whitepaper)](https://www.cs.ucdavis.edu/~rogaway/papers/thorp.pdf) <br>
 
 # UUID
 [UUID version 6/7/8 RFC draft](https://datatracker.ietf.org/doc/draft-peabody-dispatch-new-uuid-format/) <br>
