@@ -351,11 +351,10 @@ Online solutions: <br>
 [piranha (Uber tool to refactor feature flag code)](https://github.com/uber/piranha) <br>
 
 # CDNs
-[Akamai](https://www.akamai.com/) <br>
-[Fastly](https://www.fastly.com/) <br>
 [Cloudflare](https://www.cloudflare.com/cdn/) <br>
-[Level3](http://www.level3.com/en/products/content-delivery-network/) <br>
-[Edgecast](https://www.verizondigitalmedia.com/) <br>
+[CloudFront (AWS)](https://aws.amazon.com/cloudfront/) <br>
+[Fastly](https://www.fastly.com/) <br>
+[Akamai](https://www.akamai.com/) <br>
 [Traffic Control (Self-hosted CDN)](https://trafficcontrol.apache.org/) <br>
 
 # Domain registrars
