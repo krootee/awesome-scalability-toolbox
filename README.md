@@ -63,16 +63,15 @@
 [GraphQL](https://graphql.org/), [UI client](https://altair.sirmuel.design/) <br>
 
 # Message queues
-[Kafka](https://kafka.apache.org/) <br>
-Kafka Web UI solutions: [AKHQ](https://github.com/tchiotludo/akhq), [Kafdrop](https://github.com/obsidiandynamics/kafdrop), [Kowl](https://github.com/cloudhut/kowl), [CMAK](https://github.com/yahoo/CMAK), [Lenses Box](https://github.com/lensesio/fast-data-dev)  <br>
-[Pulsar](https://pulsar.apache.org/) <br>
+Real-time (<1ms): [Aeron](https://github.com/real-logic/Aeron), [Chronicle Queue](https://github.com/OpenHFT/Chronicle-Queue) <br>
+Brokerless: [ZeroMQ](http://zeromq.org/), [nanomsg](http://nanomsg.org/), [NSQ](https://nsq.io/), [nng](https://github.com/nanomsg/nng) <br>
+[Kafka](https://kafka.apache.org/), Kafka Web UI solutions: [AKHQ](https://github.com/tchiotludo/akhq), [Kafdrop](https://github.com/obsidiandynamics/kafdrop), [Kowl](https://github.com/cloudhut/kowl), [Lenses Box](https://github.com/lensesio/fast-data-dev) <br>
+[Redpanda (Kafka compatible)](https://github.com/redpanda-data/redpanda/) <br>
 [RabbitMQ](https://www.rabbitmq.com/) <br>
-[ActiveMQ](http://activemq.apache.org/) <br>
+[Pulsar](https://pulsar.apache.org/) <br>
+[RocketMQ](https://rocketmq.apache.org/) <br>
+[MemQ (thoughput optimized)](https://github.com/pinterest/memq) <br>
 [NATS](https://nats.io/) <br>
-[ZeroMQ](http://zeromq.org/) <br>
-[nanomsg](http://nanomsg.org/) <br>
-[IronMQ (cloud)](https://www.iron.io/platform/ironmq/) <br>
-[nanomsg (C and Go only)](https://github.com/nanomsg/nng) <br>
 
 # Load balancers, reverse proxy, accelerators, web servers
 [HAProxy](http://www.haproxy.org/), [Unofficial Web UI](https://github.com/Aidaho12/haproxy-wi) <br>
