@@ -584,6 +584,7 @@ OAuth 2.0 information: [Practical information](https://oauth.net/), [book](https
 [ChaCha20 design (stream)](http://loup-vaillant.fr/tutorials/chacha20-design) <br>
 [Poly1305 (MAC)](https://cr.yp.to/mac.html) <br>
 [ChaCha20 and Poly1305 (AEAD)](https://www.rfc-editor.org/rfc/rfc8439) <br>
+[AEGIS-128X (fast authentication cipher with AVX/AES acceleration)](https://github.com/jedisct1/aegis-128X) <br>
 [Understanding RSA terms](https://security.stackexchange.com/questions/68822/trying-to-understand-rsa-and-its-terminology/68836#68836) <br>
 [Elliptic curve introduction](https://www.imperialviolet.org/2010/12/04/ecc.html) <br>
 [Elliptic Curve Cryptography: a gentle introduction](http://andrea.corbellini.name/2015/05/17/elliptic-curve-cryptography-a-gentle-introduction/) <br>
