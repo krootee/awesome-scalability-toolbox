@@ -31,7 +31,7 @@
 [TLS](#tls) <br>
 [HTTP/3 and QUIC](#http3-and-quic) <br>
 [Authorization and Authentication](#authorization-and-authentication) <br>
-[Encryption](#encryption) <br>
+[Cryptography](#cryptography) <br>
 [UUID](#uuid) <br>
 [Hashing](#hashing) <br>
 [Videos](#videos) <br>
@@ -554,7 +554,7 @@ OAuth 2.0 information: [Practical information](https://oauth.net/), [book](https
 [CBOR information](https://cbor.io/) <br>
 [CBOR playground](http://cbor.me/) <br>
 
-# Encryption
+# Cryptography
 [OpenSSL](https://www.openssl.org/) <br>
 [BoringSSL (Google)](https://boringssl.googlesource.com/boringssl/) <br>
 [s2n (AWS)](https://github.com/awslabs/s2n) <br>
@@ -592,6 +592,7 @@ OAuth 2.0 information: [Practical information](https://oauth.net/), [book](https
 [Hybrid Public Key Encryption (HPKE) RFC](https://tools.ietf.org/html/draft-irtf-cfrg-hpke-07), [Example of HPKE usage in Cloudflare](https://blog.cloudflare.com/using-hpke-to-encrypt-request-payloads/) <br>
 [Fully Homomorphic Encryption library (Google, C++)](https://github.com/google/fully-homomorphic-encryption) <br>
 [Understanding HKDF](https://soatok.blog/2021/11/17/understanding-hkdf/) <br>
+[Database Cryptography Fur the Rest of Us](https://soatok.blog/2023/03/01/database-cryptography-fur-the-rest-of-us/) <br>
 [Intro to Linux Kernel Key Retention Service](https://blog.cloudflare.com/the-linux-kernel-key-retention-service-and-why-you-should-use-it-in-your-next-application/) <br>
 
 # Hashing
