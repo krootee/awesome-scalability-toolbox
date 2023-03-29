@@ -571,10 +571,10 @@ OAuth 2.0 information: [Practical information](https://oauth.net/), [book](https
 [Applied Cryptography Engineering](https://sockpuppet.org/blog/2013/07/22/applied-practical-cryptography/) <br>
 [Ensuring Randomness with Linux's Random Number Generator](https://blog.cloudflare.com/ensuring-randomness-with-linuxs-random-number-generator/) <br>
 [Should we MAC-then-encrypt or encrypt-then-MAC?](https://crypto.stackexchange.com/questions/202/should-we-mac-then-encrypt-or-encrypt-then-mac) <br>
-[Authenticated Encryption: Relations among notions and analysis of the generic composition paradigm](http://cseweb.ucsd.edu/~mihir/papers/oem.html) <br>
+[Authenticated Encryption: Relations among notions and analysis of the generic composition paradigm](https://eprint.iacr.org/2000/025) <br>
 [How to choose an Authenticated Encryption mode](https://blog.cryptographyengineering.com/2012/05/19/how-to-choose-authenticated-encryption/) <br>
 [Awesome cryptography repository](https://github.com/sobolevn/awesome-cryptography) <br>
-[Mind Your Keys? A Security Evaluation of Java Keystores](http://wp.internetsociety.org/ndss/wp-content/uploads/sites/25/2018/02/ndss2018_02B-1_Focardi_paper.pdf) <br>
+[Mind Your Keys? A Security Evaluation of Java Keystores](https://www.ndss-symposium.org/wp-content/uploads/2018/02/ndss2018_02B-1_Focardi_paper.pdf) <br>
 [Hash-based message authentication code](https://en.wikipedia.org/wiki/Hash-based_message_authentication_code) <br>
 [Authenticated Encryption with Associated Data (AEAD)](https://en.wikipedia.org/wiki/Authenticated_encryption) <br>
 [AES-GCM (AEAD)](https://tools.ietf.org/html/rfc5288) <br>
@@ -583,13 +583,13 @@ OAuth 2.0 information: [Practical information](https://oauth.net/), [book](https
 [OCB blockcipher mode](http://web.cs.ucdavis.edu/~rogaway/ocb/) <br>
 [ChaCha20 design (stream)](http://loup-vaillant.fr/tutorials/chacha20-design) <br>
 [Poly1305 (MAC)](https://cr.yp.to/mac.html) <br>
-[ChaCha20 and Poly1305 (AEAD)](https://tools.ietf.org/html/rfc7539) <br>
+[ChaCha20 and Poly1305 (AEAD)](https://www.rfc-editor.org/rfc/rfc8439) <br>
 [Understanding RSA terms](https://security.stackexchange.com/questions/68822/trying-to-understand-rsa-and-its-terminology/68836#68836) <br>
 [Elliptic curve introduction](https://www.imperialviolet.org/2010/12/04/ecc.html) <br>
 [Elliptic Curve Cryptography: a gentle introduction](http://andrea.corbellini.name/2015/05/17/elliptic-curve-cryptography-a-gentle-introduction/) <br>
 [Safe elliptic curvers](https://safecurves.cr.yp.to/) <br>
 [Curve25519](https://cr.yp.to/ecdh/curve25519-20060209.pdf) <br>
-[Hybrid Public Key Encryption (HPKE) RFC](https://tools.ietf.org/html/draft-irtf-cfrg-hpke-07), [Example of HPKE usage in Cloudflare](https://blog.cloudflare.com/using-hpke-to-encrypt-request-payloads/) <br>
+[Hybrid Public Key Encryption (HPKE) RFC](https://datatracker.ietf.org/doc/html/rfc9180), [Example of HPKE usage in Cloudflare](https://blog.cloudflare.com/using-hpke-to-encrypt-request-payloads/) <br>
 [Fully Homomorphic Encryption library (Google, C++)](https://github.com/google/fully-homomorphic-encryption) <br>
 [Understanding HKDF](https://soatok.blog/2021/11/17/understanding-hkdf/) <br>
 [Database Cryptography Fur the Rest of Us](https://soatok.blog/2023/03/01/database-cryptography-fur-the-rest-of-us/) <br>
