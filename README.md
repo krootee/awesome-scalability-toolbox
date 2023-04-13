@@ -374,6 +374,7 @@ Online solutions: <br>
 [Understanding IAM](https://www.daan.fyi/writings/iam) <br>
 
 # Networking
+AWS Networking Fundamentals overview: [Networking Fundamentals](https://www.youtube.com/watch?v=hiKPPy584Mg), [Application networking foundations](https://www.youtube.com/watch?v=WcZwWuq6FTk), [PrivateLink](https://www.youtube.com/watch?v=20RxEzAXG9o), [Advanced VPC fundamentals](https://www.youtube.com/watch?v=cbUNbK8ZdA0) <br>
 [Scalable Reliable Datagram (SRD is available via ENA in AWS instances)](https://ieeexplore.ieee.org/document/9167399) <br>
 ["Soft-unicast" for egress traffic](https://blog.cloudflare.com/cloudflare-servers-dont-own-ips-anymore/) <br>
 Proxies primer: based on [HTTP Connect](https://blog.cloudflare.com/a-primer-on-proxies/) and [QUIC (MASQUE)](https://blog.cloudflare.com/unlocking-quic-proxying-potential/) <br>
