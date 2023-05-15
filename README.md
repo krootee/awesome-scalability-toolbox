@@ -160,7 +160,7 @@ Redis UI: [RedisInsight](https://redislabs.com/redisinsight/), [AnotherRedisDesk
 [Secure Production Identity Framework For Everyone (SPIFFE)](https://github.com/spiffe/spiffe) <br>
 [ZooKeeper](https://zookeeper.apache.org/) <br>
 
-# CRDTs and Operational transformation
+# CRDT and Operational transformation
 <b>Operational Transformation</b> <br>
 White papers: [Original Jupiter document (1995)](https://dl.acm.org/doi/pdf/10.1145/215585.215706), [Jupiter Made Abstract, and Then Refined (2020)](https://hengxin.github.io/papers/2020-JCST-Jupiter.pdf) <br>
 Libraries: [sharedb](https://github.com/share/sharedb), [ottypes](https://github.com/orgs/ottypes/repositories), [libot](https://github.com/ottypes/libot) <br>
