@@ -7,7 +7,7 @@
 [API Gateway](#api-gateway) <br>
 [Structured and unstructured data storage](#structured-and-unstructured-data-storage) <br>
 [Distributed consensus management, service discovery and configuration](#distributed-consensus-management-service-discovery-and-configuration) <br>
-[CRDT and Operational transformation](#crdt-and-operational transformation) <br>
+[CRDT and Operational transformation](#crdt-and-operational-transformation) <br>
 [Infrastructure provisioning](#Infrastructure-provisioning) <br>
 [Containers](#containers) <br>
 [Kubernetes](#kubernetes) <br>
