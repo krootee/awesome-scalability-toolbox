@@ -7,6 +7,7 @@
 [API Gateway](#api-gateway) <br>
 [Structured and unstructured data storage](#structured-and-unstructured-data-storage) <br>
 [Distributed consensus management, service discovery and configuration](#distributed-consensus-management-service-discovery-and-configuration) <br>
+[CRDT and Operational transformation](#crdt-and-operational transformation) <br>
 [Infrastructure provisioning](#Infrastructure-provisioning) <br>
 [Containers](#containers) <br>
 [Kubernetes](#kubernetes) <br>
@@ -158,6 +159,16 @@ Redis UI: [RedisInsight](https://redislabs.com/redisinsight/), [AnotherRedisDesk
 [Vault](https://www.vaultproject.io/) <br>
 [Secure Production Identity Framework For Everyone (SPIFFE)](https://github.com/spiffe/spiffe) <br>
 [ZooKeeper](https://zookeeper.apache.org/) <br>
+
+# CRDTs and Operational transformation
+<b>Operational Transformation</b> <br>
+White papers: [Original Jupiter document (1995)](https://dl.acm.org/doi/pdf/10.1145/215585.215706), [Jupiter Made Abstract, and Then Refined (2020)](https://hengxin.github.io/papers/2020-JCST-Jupiter.pdf) <br>
+Libraries: [sharedb](https://github.com/share/sharedb), [ottypes](https://github.com/orgs/ottypes/repositories), [libot](https://github.com/ottypes/libot) <br>
+Articles: [Collaborative Editing in CodeMirror](https://marijnhaverbeke.nl/blog/collaborative-editing-cm.html) <br>
+<b>CRDT</b> <br>
+Libraries: [Automerge](https://github.com/automerge/automerge), [Yjs](https://github.com/yjs/yjs), [Diamond Types (speed oriented)](https://github.com/josephg/diamond-types), [Reference CRTS implementation](https://github.com/josephg/reference-crdts), [Yjs (port to Rust)](https://github.com/y-crdt/y-crdt), [teletype (Atom, deprecated)](https://github.com/atom/teletype-crdt) <br>
+[CRDT benchmarking](https://github.com/dmonad/crdt-benchmarks) <br>
+[Collection of whitepapers and articles](https://github.com/alangibson/awesome-crdt) <br>
 
 # Infrastructure provisioning
 [Terraform](https://www.terraform.io/) <br>
