@@ -628,7 +628,9 @@ OAuth 2.0 information: [Practical information](https://oauth.net/), [book](https
 [UUID version 6/7/8 RFC draft](https://datatracker.ietf.org/doc/draft-peabody-dispatch-new-uuid-format/) <br>
 [UUID version 6/7/8 RFC work in progress](https://github.com/uuid6/uuid6-ietf-draft) <br>
 [UUID version 7 playground](http://www.new-uuid.info/) <br>
+[TypeID (type-safe extension of UUIDv7)](https://github.com/jetpack-io/typeid) <br>
 [Why UUIDv7? (RU)](https://habr.com/ru/post/572700/) <br>
+[KSUID](https://github.com/segmentio/ksuid) <br>
 
 # Real User Monitoring
 [boomerang library](https://github.com/akamai/boomerang) and [How to use boomerang](https://developer.akamai.com/tools/boomerang/) <br>
