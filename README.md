@@ -461,6 +461,7 @@ Proxies primer: based on [HTTP Connect](https://blog.cloudflare.com/a-primer-on-
 [OpenConfig](http://openconfig.net/) <br>
 
 # SRE (Site Reliability Engineering)
+[Napking math numbers for estimating hardware and software performance](https://github.com/sirupsen/napkin-math) <br>
 [USENIX SREcon APAC 2022: Computing Performance: What's on the Horizon (Great overview by Brendan Gregg)](https://www.brendangregg.com/blog/2023-03-01/computer-performance-future-2022.html) <br>
 [Google Site Reliability Engineering book](https://landing.google.com/sre/book.html) <br>
 [Experience from running Uber payment service](https://blog.pragmaticengineer.com/operating-a-high-scale-distributed-system/) <br>
